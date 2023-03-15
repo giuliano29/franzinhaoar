@@ -1,0 +1,5 @@
+Landmark version 2
+region_id a728574b-459a-14f3-2710-056924b46644
+local_pos 118.8749 38.24746 24.22508
+region_handle 8847770070762752
+gatekeeper http://login.greatcanadiangrid.ca:8002

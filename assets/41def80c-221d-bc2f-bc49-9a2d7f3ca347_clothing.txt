@@ -1,0 +1,33 @@
+LLWearable version 22
+Exonar gloves
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	49b203e7-fb45-ce1f-a145-c10249bbd24f
+		owner_id	908a62c0-10fe-42fd-b877-5782d673ae22
+		last_owner_id	49b203e7-fb45-ce1f-a145-c10249bbd24f
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 9
+parameters 9
+93 .01
+827 .7
+829 .49
+830 .41
+844 1
+1058 .01
+1059 .01
+1060 1
+1061 1
+textures 1
+15 4843ce58-5759-4d4d-8ebe-ff2d1905bda6

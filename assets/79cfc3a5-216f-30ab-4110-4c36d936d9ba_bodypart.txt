@@ -1,0 +1,63 @@
+LLWearable version 22
+TanSkin-Galerie-LyAvainSwansong-Natural
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	09a23ec1-d8af-4375-bd4d-3fc0d92e2174
+		owner_id	09a23ec1-d8af-4375-bd4d-3fc0d92e2174
+		last_owner_id	09a23ec1-d8af-4375-bd4d-3fc0d92e2174
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 1
+parameters 37
+108 0
+110 0
+111 .5
+116 0
+117 0
+118 0
+125 0
+126 0
+150 0
+158 0
+159 0
+161 0
+162 0
+163 0
+165 0
+700 .25
+701 0
+702 0
+703 0
+704 0
+705 .5
+706 .6
+707 0
+708 0
+709 0
+710 0
+711 .5
+712 0
+713 .7
+714 0
+715 0
+775 0
+776 0
+777 0
+873 0
+874 0
+878 0
+textures 3
+0 cf347618-c59f-45e8-802e-a830f35648fc
+5 9c7f93db-2a9b-4ede-bcff-508d4916efbd
+6 bfc55773-0259-4244-9436-88b4a5e209d9

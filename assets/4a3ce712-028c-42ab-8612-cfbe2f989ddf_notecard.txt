@@ -1,0 +1,860 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 43929
+[14:49] ◆
+[14:49] ◆"GW PERGOLA DAYBED (ADULT)" AVsitter 2.1
+[14:49] ◆
+[14:49] ◆SITTER 0
+[14:49] ◆
+[14:49] ◆TOMENU Single
+[14:49] ◆TOMENU Couple
+[14:49] ◆TOMENU Adult
+[14:49] ◆TOMENU Textures
+[14:49] ◆
+[14:49] ◆MENU Single
+[14:49] ◆TOMENU Male
+[14:49] ◆TOMENU Female
+[14:49] ◆
+[14:49] ◆MENU Male
+[14:49] ◆POSE Male_01|[RNP] Bed #8_Male_52 seconds
+[14:49] ◆POSE Male_02|[RNP] Couch lay #3_mirror
+[14:49] ◆POSE Male_03|[RNP] Coffee In Bed #1_Male_51 seconds
+[14:49] ◆POSE Male_04|[RNP] Sleep #7_Male_58 seconds
+[14:49] ◆POSE Male_05|[RNP] Sit #142_Deep seat sofa_Male
+[14:49] ◆POSE Male_06|[RNP] Sit #141_Deep seat sofa_Male
+[14:49] ◆POSE Male_07|[RNP] Sit #92_Male Ground_Mirror
+[14:49] ◆POSE Male_08|[RNP] Beanbag #7_Reading magasine
+[14:49] ◆POSE Male_09|[RNP] Low ottoman #10_Male_33 seconds
+[14:49] ◆POSE Male_10|[RNP] Bed #9_Male_44 seconds
+[14:49] ◆
+[14:49] ◆MENU Female
+[14:49] ◆POSE Female_01|[RNP] Couch Lay #1_mirrored
+[14:49] ◆POSE Female_02|[RNP] Couch lay #2_mirror
+[14:49] ◆POSE Female_03|[RNP] Couch lay #4
+[14:49] ◆POSE Female_04|[RNP] Couch lay #5_mirror
+[14:49] ◆POSE Female_05|[RNP] Couch lay #6_mirror
+[14:49] ◆POSE Female_06|[RNP] Low table #5_Female_Reading_57 seconds
+[14:49] ◆POSE Female_07|[RNP] Coffee in Bed #2_Female_42 seconds
+[14:49] ◆POSE Female_08|[RNP] Sleep #4_Female_54 seconds
+[14:49] ◆POSE Female_09|[RNP] Bed #5_Female_48 seconds_Mirror
+[14:50] ◆POSE Female_10|[RNP] Low ottoman #2_Female_41 seconds
+[14:50] ◆
+[14:50] ◆MENU Couple
+[14:50] ◆SYNC Couple_01|am.dew-ml
+[14:50] ◆SYNC Couple_02|cp2-coffee(2)ml
+[14:50] ◆SYNC Couple_03|[RNP] Couple #27_Reading together_Male
+[14:50] ◆SYNC Couple_04|cp2-shoulder-rub(4)ml
+[14:50] ◆SYNC Couple_05|c.back-massage-ml
+[14:50] ◆SYNC Couple_06|am.converse-ml
+[14:50] ◆SYNC Couple_07|logCplPicnic1-m
+[14:50] ◆SYNC Couple_08|logCplPicnic2-m
+[14:50] ◆SYNC Couple_09|logCplPicnic3-m
+[14:50] ◆SYNC Couple_10|logCplPicnic4-m
+[14:50] ◆SYNC Couple_11|coup-repose-ml
+[14:50] ◆SYNC Couple_12|c-side-ml
+[14:50] ◆SYNC Couple_13|c.makeout.ml
+[14:50] ◆SYNC Couple_14|[RNP] Hanging Chair #11 - Couple - Male - 38 seconds
+[14:50] ◆SYNC Couple_15|[RNP] Hanging Chair #9 - Couple - Male  -  32 seconds
+[14:50] ◆SYNC Couple_16|am.persuade-ml
+[14:50] ◆SYNC Couple_17|[RNP] Cuddle #4_Male
+[14:50] ◆SYNC Couple_18|c3.home-is-mlfl
+[14:50] ◆SYNC Couple_19|cp2-justright(3)ml
+[14:50] ◆SYNC Couple_20|ac-ardor(2)m
+[14:50] ◆SYNC Couple_21|coup-sit-kiss-ani-ml
+[14:50] ◆SYNC Couple_22|c.comfort-ml
+[14:50] ◆SYNC Couple_23|am.length-ml
+[14:50] ◆SYNC Couple_24|ac-care(3)m
+[14:50] ◆SYNC Couple_25|dc-pounce(5)m
+[14:50] ◆
+[14:50] ◆MENU Textures
+[14:50] ◆TOMENU Frame
+[14:50] ◆TOMENU Bedding
+[14:50] ◆TOMENU Chain
+[14:50] ◆TOMENU Bird Bath
+[14:50] ◆TOMENU OwnerOnly
+[14:50] ◆
+[14:50] ◆MENU Frame
+[14:50] ◆BUTTON Frame_1|0
+[14:50] ◆BUTTON Frame_2|0
+[14:50] ◆BUTTON Frame_3|0
+[14:50] ◆BUTTON Frame_4|0
+[14:50] ◆
+[14:50] ◆MENU Bedding
+[14:50] ◆BUTTON Bedding_1|0
+[14:50] ◆BUTTON Bedding_2|0
+[14:50] ◆BUTTON Bedding_3|0
+[14:50] ◆BUTTON Bedding_4|0
+[14:50] ◆
+[14:50] ◆MENU Chain
+[14:50] ◆BUTTON Chain_1|0
+[14:50] ◆BUTTON Chain_2|0
+[14:50] ◆BUTTON Chain_3|0
+[14:50] ◆
+[14:50] ◆MENU Bird Bath
+[14:50] ◆BUTTON BB_1|0
+[14:50] ◆BUTTON BB_2|0
+[14:50] ◆BUTTON BB_3|0
+[14:50] ◆BUTTON BB_4|0
+[14:50] ◆BUTTON BB_No|0
+[14:50] ◆
+[14:50] ◆MENU OwnerOnly
+[14:50] ◆BUTTON OwnerOnlyOn|0
+[14:50] ◆BUTTON OwnerOnlyOff|0
+[14:50] ◆
+[14:50] ◆MENU Adult
+[14:50] ◆TOMENU Foreplay
+[14:50] ◆TOMENU Facing
+[14:50] ◆TOMENU Doggy
+[14:50] ◆TOMENU Cowgirl
+[14:50] ◆TOMENU Behind
+[14:50] ◆TOMENU Cum
+[14:50] ◆
+[14:50] ◆MENU Foreplay
+[14:50] ◆TOMENU For Him
+[14:50] ◆TOMENU For Her
+[14:50] ◆TOMENU Mutual
+[14:50] ◆
+[14:50] ◆MENU For Him
+[14:50] ◆SYNC Sack|Sack-M
+[14:50] ◆SYNC Two Hands|Double Handjob-M::1
+[14:50] ◆SYNC Blow Him|Blow Him M::1
+[14:50] ◆SYNC Face Fuck|Facefuck-M::1
+[14:50] ◆SYNC Throat Fuck|Throatfuck-1M::1
+[14:50] ◆SYNC Crouched|Crouched Blow-M
+[14:50] ◆SYNC Side Seated|Side-Seated-2-M
+[14:50] ◆SYNC Sitting BJ|Sitting BJ-M::1
+[14:50] ◆SYNC Seated Service|Seated Service-M
+[14:50] ◆SYNC Tater Sack|Tater Sack-M
+[14:50] ◆SYNC Tits Job|Titjob-M::1
+[14:50] ◆SYNC Titty Fuck|Titty Fuck M::1
+[14:50] ◆SYNC Mouth Fuck|Mouthfuck M::1
+[14:50] ◆SYNC Handless|Handless Blowjob-M::1
+[14:50] ◆
+[14:50] ◆MENU For Her
+[14:50] ◆SYNC Snack Her|Afternoon Snack-M::1
+[14:50] ◆SYNC Lick Her|mfs11m1
+[14:50] ◆SYNC Invert Lick|[RNP] Sex #59_Chair_Lick_Male_30 seconds
+[14:50] ◆SYNC Tabled 7|Tabled-7-M
+[14:50] ◆SYNC Standing Finger|[RNP] Sex #106_Lazy Bag_Fingering_Male_40 seconds
+[14:50] ◆SYNC Worship 4|Worship-4-M
+[14:50] ◆SYNC Dessert|Dessert-M
+[14:50] ◆SYNC Chair Feast|[RNP] Sex #109_Lazy Bag_Lick_Male_32 seconds
+[14:50] ◆SYNC Eat Her|Eat Pussy-M::1
+[14:50] ◆SYNC Finger Her|Her Flavor M::1
+[14:50] ◆SYNC Forbidden|ForbiddenFruitM1
+[14:50] ◆SYNC Glaze Her|PerseaHotSlot2M1
+[14:50] ◆SYNC Spank Her|DomSitSpank1
+[14:50] ◆SYNC Nipples|NipplePleaserM1
+[14:50] ◆SYNC Grope Her|OfficeChairDiddleM1
+[14:50] ◆
+[14:50] ◆MENU Mutual
+[14:50] ◆SYNC Simply 69|69M1
+[14:50] ◆SYNC Mad 69|69-M::1
+[14:50] ◆SYNC Dual Action|Dual-Action-M
+[14:50] ◆SYNC Stroke n Lick|FaceSquatM1
+[14:50] ◆SYNC Sitting 69|69SittingM1
+[14:50] ◆SYNC 2Way Tease|Foreplay1M1
+[14:50] ◆
+[14:50] ◆MENU Facing
+[14:50] ◆SYNC Side Miss|Bedside Missionary-M::1
+[14:50] ◆SYNC Side Grab|Bedside Anal-M::1
+[14:50] ◆SYNC Anal Support|Anal Support-M::1
+[14:50] ◆SYNC Hugger|The Hugger-M::1
+[14:50] ◆SYNC Held Spread|Held Spread-M::1
+[14:50] ◆SYNC Folded 3|Folded-3-MA
+[14:50] ◆SYNC Balance 4|Balance-4-MA
+[14:50] ◆SYNC Chair Spread|[RNP] Sex #108_Lazy Bag_Male_40 seconds
+[14:50] ◆SYNC Crabbing|Crabbing-M
+[14:50] ◆SYNC Spread Wide|Spread Wide-M::1
+[14:51] ◆SYNC Side Long|Sidelong-M
+[14:51] ◆SYNC Sweet Miss|Gentle Love M::1
+[14:51] ◆SYNC Down Force|Downforce M::1
+[14:51] ◆SYNC Super G|The G M::1
+[14:51] ◆SYNC Choke Pound|Throat Squeezing Ride-M::1
+[14:51] ◆SYNC B-Day|GiantSexM1
+[14:51] ◆SYNC Pile Drive|PileDriverM1
+[14:51] ◆
+[14:51] ◆MENU Doggy
+[14:51] ◆SYNC Side Dog|Bedside Doggy-M::1
+[14:51] ◆SYNC Chair Dog|Chair Doggy M::1
+[14:51] ◆SYNC Wall Dog|Wall Doggy M::1
+[14:51] ◆SYNC Furrow 2|Furrow-2-M
+[14:51] ◆SYNC Doggy 2x3|doggy2mx3
+[14:51] ◆SYNC Hard Dog|Hard Doggy & Spank M::1
+[14:51] ◆SYNC Ass Rape|Ass Rape M::12
+[14:51] ◆SYNC Dom Dog|Dominant Doggy M::1
+[14:51] ◆SYNC Anal Back|mfs9m1
+[14:51] ◆SYNC Rough Ride2|Rough Ride-2-M
+[14:51] ◆SYNC Backdoor|CageM2
+[14:51] ◆SYNC Mount Hard|doggy1m
+[14:51] ◆SYNC Bitch Bang|doggy3mx2
+[14:51] ◆SYNC Doggy Hard|DoggyHardM1
+[14:51] ◆
+[14:51] ◆MENU Cowgirl
+[14:51] ◆SYNC Couch Ride 2|Couch Ride-2-M
+[14:51] ◆SYNC Hipster|Hipster-M::1
+[14:51] ◆SYNC Propped|Propped-Ride-M
+[14:51] ◆SYNC Anal Ride|Anal Ride-M::1
+[14:51] ◆SYNC Tensed 2|Tensed-2-M
+[14:51] ◆SYNC Laying Ride|Laying Ride-M::1
+[14:51] ◆SYNC Cowgirl Ride|Ride Him M::1
+[14:51] ◆SYNC Sensual Ride|Sensual Ride-M::1
+[14:51] ◆SYNC Impale Her|Hold On M::1
+[14:51] ◆SYNC Deep Impale|Reverse Ride-M::1
+[14:51] ◆SYNC Straddle|[RNP] Sex #104_Lazy Bag_Male_40 seconds
+[14:51] ◆SYNC Reserve Hump|[RNP] Sex #61_Male_Chair_35.05 seconds
+[14:51] ◆SYNC Ride Me|FonTopM1
+[14:51] ◆SYNC Asian Cowgirl|AsianCowgirlM1
+[14:51] ◆
+[14:51] ◆MENU Behind
+[14:51] ◆SYNC Kneeling Anal|Kneeling Anal-M::1
+[14:51] ◆SYNC Brute|Brute-M
+[14:51] ◆SYNC Rear Pump|Rear Pump-M::1
+[14:51] ◆SYNC Ass Raid|mfs10m1f
+[14:51] ◆SYNC Upthrust|Upthrust-M
+[14:51] ◆SYNC Bender|The Bender-M::1
+[14:51] ◆SYNC Chair Bang|[RNP] Sex #110_Lazy Bag_Male_32 seconds
+[14:51] ◆SYNC Tangled|Tangled Spoon M::1
+[14:51] ◆SYNC Sideway Anal|Sideway Anal-M::1
+[14:51] ◆SYNC Bottoms Up2|Bottoms Up-2-M
+[14:51] ◆SYNC Laying Anal|Laying Anal-M::1
+[14:51] ◆SYNC Ass Pump|Pump that Ass-M::1
+[14:51] ◆SYNC Standing O|StandingAnalM1
+[14:51] ◆SYNC Acrobat|AcrobatSexM1
+[14:51] ◆
+[14:51] ◆MENU Cum
+[14:51] ◆SYNC Cum All Over|long jerk2
+[14:51] ◆SYNC Cum on Body|DribbleM1
+[14:51] ◆SYNC Give N Take 2|Give-N-Take-2-M
+[14:51] ◆SYNC Milk Him|StandingJerkM1
+[14:51] ◆{Male_01}<-0.596,-0.097,0.995><0,0,45>
+[14:51] ◆{Male_02}<-0.721,-0.069,1.054><0,0,-90>
+[14:51] ◆{Male_03}<-0.517,-0.199,1.364><0,0,-73>
+[14:51] ◆{Male_04}<0,-0.129,1.374><0,0,0>
+[14:51] ◆{Male_05}<-0.388,-0.435,0.995><0,0,-90>
+[14:51] ◆{Male_06}<-0.151,-0.212,0.988><0,0,0>
+[14:51] ◆{Male_07}<-0.364,-0.29,1.025><0,0,-18>
+[14:51] ◆{Male_08}<-0.824,-0.362,1.014><11.2,0,-64>
+[14:51] ◆{Male_09}<-0.461,0.108,1.001><0,0,-34>
+[14:51] ◆{Male_10}<-0.731,0.235,1.036><0,0,-112>
+[14:51] ◆{Female_01}<-0.837,-0.347,1.044><0,0,-78>
+[14:51] ◆{Female_02}<-0.692,-0.197,1.024><5.2,-2.1,-112.4>
+[14:51] ◆{Female_03}<-0.783,-0.326,0.924><0,39.4,0>
+[14:51] ◆{Female_04}<-0.126,0.277,1.031><10.6,-4.8,-154>
+[14:51] ◆{Female_05}<0.183,-0.361,1.012><0,0,0>
+[14:51] ◆{Female_06}<-1.258,-0.771,2.007><0,0,-35>
+[14:51] ◆{Female_07}<0.362,-0.558,1.345><0,0,0>
+[14:51] ◆{Female_08}<0.041,-0.265,1.329><0,0,0>
+[14:51] ◆{Female_09}<-0.08,-0.055,1.064><0,0,0>
+[14:51] ◆{Female_10}<-0.396,-0.421,1.018><0,0,0>
+[14:51] ◆{Couple_01}<-0.15,0.528,1.518><0,0,-90>
+[14:51] ◆{Couple_02}<-0.02,0.368,1.609><0,0,-90>
+[14:51] ◆{Couple_03}<0.104,0.322,0.977><0,0,-90>
+[14:51] ◆{Couple_04}<-0.498,0.243,1.577><0,0,-43>
+[14:51] ◆{Couple_05}<-0.136,-0.773,0.865><0,0,180>
+[14:51] ◆{Couple_06}<-0.667,0.158,1.578><0,0,-90>
+[14:51] ◆{Couple_07}<0.911,0.034,0.986><-1.9,0.8,-115>
+[14:51] ◆{Couple_08}<0.007,0.387,1.009><0,0,-90>
+[14:51] ◆{Couple_09}<0.793,0.005,1.059><0,0,-126>
+[14:51] ◆{Couple_10}<0.132,0.283,0.972><0,0.1,-90>
+[14:51] ◆{Couple_11}<-0.096,-0.353,0.955><0,0,0>
+[14:51] ◆{Couple_12}<0.195,-0.623,1.047><0,0,-90>
+[14:51] ◆{Couple_13}<-0.073,-0.294,1.01><0,0,180>
+[14:51] ◆{Couple_14}<-0.094,-0.19,1.526><0,0,38>
+[14:51] ◆{Couple_15}<1.067,-0.147,1.416><0,0,41>
+[14:51] ◆{Couple_16}<-0.177,-0.538,1.641><0,0,-14>
+[14:51] ◆{Couple_17}<-0.225,-0.475,0.96><0,0,180>
+[14:51] ◆{Couple_18}<-0.468,-0.33,1.465><0,0,180>
+[14:51] ◆{Couple_19}<0.099,0.27,1.576><0,0,-135>
+[14:51] ◆{Couple_20}<0.872,-0.474,1.566><0,0,180>
+[14:51] ◆{Couple_21}<0.157,-0.336,0.996><0,0,180>
+[14:51] ◆{Couple_22}<-0.09,-0.271,0.983><0,0,90>
+[14:51] ◆{Couple_23}<-0.133,-0.353,1.479><0,0,90>
+[14:51] ◆{Couple_24}<0.765,-0.461,1.517><0,0,-90>
+[14:51] ◆{Couple_25}<-0.136,0.021,1.831><0,0,-115>
+[14:51] ◆{Sack}<-0.221,-1.777,1.322><0,0,0>
+[14:51] ◆{Two Hands}<-0.246,-1.782,1.262><0,0,0>
+[14:51] ◆{Blow Him}<-0.217,-1.789,1.221><0,0,0>
+[14:51] ◆{Face Fuck}<-0.217,-1.789,1.172><0,0,0>
+[14:51] ◆{Throat Fuck}<-0.026,-1.138,1.163><0,0,90>
+[14:51] ◆{Crouched}<-0.32,-0.695,1.642><16,0,-90>
+[14:51] ◆{Side Seated}<-0.24,-0.367,1.608><0,0,-90>
+[14:51] ◆{Sitting BJ}<-0.002,-1.317,1.319><0,0,90>
+[14:51] ◆{Seated Service}<-0.271,-0.258,2.149><0,0,180>
+[14:51] ◆{Tater Sack}<-0.446,-0.112,2.11><0,0,-90>
+[14:51] ◆{Tits Job}<-0.254,-1.821,1.062><0,0,13.4>
+[14:51] ◆{Titty Fuck}<-0.004,-0.128,1.332><0,0,180>
+[14:51] ◆{Mouth Fuck}<-0.414,-0.145,1.345><0,0.9,180>
+[14:51] ◆{Handless}<-0.386,-0.111,0.948><0,0,0>
+[14:51] ◆{Snack Her}<-0.003,-0.178,0.992><0,0,0>
+[14:51] ◆{Lick Her}<-0.422,-0.408,2.196><0,0,0.8>
+[14:51] ◆{Invert Lick}<-0.463,-0.257,1.488><0,0,-90>
+[14:51] ◆{Tabled 7}<-0.463,-1.143,1.294><-16.9,0,90>
+[14:51] ◆{Standing Finger}<-1.337,0.317,2.02><0,0,-45>
+[14:51] ◆{Worship 4}<-0.303,-1.784,1.29><0,0,0>
+[14:51] ◆{Dessert}<-0.597,-0.264,2.076><0,0,0>
+[14:51] ◆{Chair Feast}<0.041,0.57,1.634><0,0,-90>
+[14:51] ◆{Eat Her}<0.629,-0.315,1.298><0,0,180>
+[14:51] ◆{Finger Her}<0.515,-0.255,1.305><0,-90,-180>
+[14:51] ◆{Forbidden}<0.665,-0.32,1.234><0.2,2,174.4>
+[14:51] ◆{Glaze Her}<0.126,-0.231,1.9><0,0,1.1>
+[14:51] ◆{Spank Her}<-0.346,-0.308,1.541><0,0,-90>
+[14:51] ◆{Nipples}<-0.531,-0.433,1.89><0,0,180>
+[14:51] ◆{Grope Her}<-0.495,-0.483,1.507><0,0,-90>
+[14:51] ◆{Simply 69}<0.066,-0.275,1.878><0.1,0,0>
+[14:51] ◆{Mad 69}<-0.035,-0.202,1.017><0.1,-4.9,0>
+[14:51] ◆{Dual Action}<0.719,-0.332,1.517><0,0,-90>
+[14:51] ◆{Stroke n Lick}<-0.563,-0.109,1.995><0,0,0>
+[14:51] ◆{Sitting 69}<-0.511,-0.418,1.542><0,0,-90>
+[14:51] ◆{2Way Tease}<-0.717,-0.322,1.482><-5.6,0,-90>
+[14:51] ◆{Side Miss}<-0.509,-1.169,1.182><-11.3,0,90>
+[14:51] ◆{Side Grab}<-0.508,-1.092,1.28><-11.3,0,90>
+[14:51] ◆{Anal Support}<0.323,-0.178,1.406><0,0,180>
+[14:51] ◆{Hugger}<-0.552,-0.011,1.326><0,0,0>
+[14:51] ◆{Held Spread}<-0.092,-1.791,1.031><0,0,0>
+[14:51] ◆{Folded 3}<-0.699,-0.173,2.085><0,0,136.5>
+[14:51] ◆{Balance 4}<-0.437,0.015,2.091><0,0,0>
+[14:51] ◆{Chair Spread}<0.867,0.442,1.607><0,0,-135>
+[14:51] ◆{Crabbing}<0.078,-0.177,2.052><0,0,180>
+[14:51] ◆{Spread Wide}<0.391,0.116,1.244><0,0,180>
+[14:51] ◆{Side Long}<0.131,-0.196,2.121><0,0,-164>
+[14:51] ◆{Sweet Miss}<0.185,-0.207,1.25><-0.1,-5,180>
+[14:51] ◆{Down Force}<0.032,-0.256,1.304><0,0,180>
+[14:51] ◆{Super G}<0.039,-0.285,1.298><0,0,180>
+[14:51] ◆{Choke Pound}<0.021,-0.245,0.962><0,0,0>
+[14:51] ◆{B-Day}<0.069,-1.789,1.236><0,0,-90>
+[14:51] ◆{Pile Drive}<-0.046,0.49,2.183><0,0,90>
+[14:51] ◆{Side Dog}<-0.625,-1.211,1.291><0,-0.3,89.9>
+[14:51] ◆{Chair Dog}<-0.609,-1.648,1.267><0,-0.3,90>
+[14:51] ◆{Wall Dog}<0.577,-1.327,1.262><-0.3,0,0>
+[14:51] ◆{Furrow 2}<0.522,0.174,2.116><0,0,0>
+[14:51] ◆{Doggy 2x3}<-0.293,-0.246,2.055><0,0,0>
+[14:51] ◆{Hard Dog}<-0.178,-0.124,1.972><0,0,1>
+[14:51] ◆{Ass Rape}<-0.457,-0.131,1.763><0,0,0>
+[14:51] ◆{Dom Dog}<-0.387,-0.068,1.695><0,0,0>
+[14:51] ◆{Anal Back}<-0.127,-0.143,2.165><-0.3,3.6,9.9>
+[14:51] ◆{Rough Ride2}<-0.023,-0.355,2.141><0,0,0>
+[14:51] ◆{Backdoor}<-0.553,-1.069,1.267><0,0,90>
+[14:51] ◆{Mount Hard}<-0.105,-0.156,2.17><0,0,0>
+[14:51] ◆{Bitch Bang}<2.166,0.012,1.281><0,0,-90>
+[14:51] ◆{Doggy Hard}<-0.237,-0.213,2.069><0,0,-172>
+[14:51] ◆{Couch Ride 2}<-0.528,-0.364,1.523><0,0,-90>
+[14:51] ◆{Hipster}<-0.539,-0.458,0.98><0,0,-90>
+[14:51] ◆{Propped}<-0.538,0.017,2.07><0,0,-45>
+[14:51] ◆{Anal Ride}<-0.413,-0.062,0.948><0,0,-11.3>
+[14:51] ◆{Tensed 2}<-0.544,-0.341,1.532><-5.6,0,-90>
+[14:51] ◆{Laying Ride}<-0.119,-0.311,0.973><0,0,0>
+[14:51] ◆{Cowgirl Ride}<-0.119,-0.311,0.973><0,0,1>
+[14:51] ◆{Sensual Ride}<-0.147,-0.297,0.954><0,0,1>
+[14:51] ◆{Impale Her}<-0.181,-0.165,0.976><0,-1,0.1>
+[14:51] ◆{Deep Impale}<-0.659,0.054,0.991><-0.7,-0.7,-44.9>
+[14:51] ◆{Straddle}<-0.463,-0.451,1.616><0,0,-90>
+[14:51] ◆{Reserve Hump}<-0.582,-0.254,1.444><-5.6,-3.1,-90.3>
+[14:51] ◆{Ride Me}<-0.01,-0.137,1.049><0,0,180>
+[14:52] ◆{Asian Cowgirl}<-0.139,-0.342,2.071><0,-5,0>
+[14:52] ◆{Kneeling Anal}<-0.581,-0.171,1.414><0,0,0>
+[14:52] ◆{Brute}<-0.17,-1.759,1.373><0,0,0>
+[14:52] ◆{Rear Pump}<-0.299,-1.768,1.217><0,0,0>
+[14:52] ◆{Ass Raid}<1.712,-1.881,1.294><0,0,0>
+[14:52] ◆{Upthrust}<-0.014,-1.702,1.387><0,0,-90>
+[14:52] ◆{Bender}<-0.356,-1.776,1.181><0,0,0>
+[14:52] ◆{Chair Bang}<-0.879,-0.2,1.332><0,0,0>
+[14:52] ◆{Tangled}<-0.079,-0.117,1.109><0,-90,-103>
+[14:52] ◆{Sideway Anal}<-0.495,0.005,1.377><0,0,-45>
+[14:52] ◆{Bottoms Up2}<-0.154,-0.281,1.965><0,0,180>
+[14:52] ◆{Laying Anal}<0.089,-0.21,1.361><0,0,180>
+[14:52] ◆{Ass Pump}<-0.016,-0.21,1.435><0,0,180>
+[14:52] ◆{Standing O}<-0.017,-1.778,1.393><0,0,-90>
+[14:52] ◆{Acrobat}<-0.079,-0.164,0.962><0,0,0>
+[14:52] ◆{Cum All Over}<0.749,-1.794,1.211><0,0,175>
+[14:52] ◆{Cum on Body}<0.479,-0.944,1.317><0,0,142>
+[14:52] ◆{Give N Take 2}<-0.006,0.097,2.116><0,0,-90>
+[14:52] ◆{Milk Him}<-0.042,-1.767,1.364><0,0,-90>
+[14:52] ◆PROP Couple_07|GW Pergola Daybed - Strawberry Bowl|GROUP1|<0.475433, 0.000000, 0.890381>|<0.000000, 0.000000, 0.000000>
+[14:52] ◆PROP Couple_08|GW Pergola Daybed - Strawberry Bowl|GROUP1|<-0.067673, 0.363243, 1.567139>|<0.000000, 0.000000, 0.000000>
+[14:52] ◆PROP Couple_09|GW Pergola Daybed - Strawberry Bowl|GROUP1|<0.206421, 0.124954, 1.124512>|<0.000000, 0.000000, 0.000000>
+[14:52] ◆PROP Couple_10|GW Pergola Daybed - Tray|GROUP1|<0.842667, -0.594124, 1.070801>|<0.000000, 0.000000, 180.000000>
+[14:52] ◆ANIM Sack|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Two Hands|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Blow Him|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Face Fuck|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Throat Fuck|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Crouched|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Side Seated|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Sitting BJ|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Seated Service|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Tater Sack|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Tits Job|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Titty Fuck|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Mouth Fuck|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Handless|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Snack Her|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Lick Her|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Invert Lick|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Tabled 7|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Standing Finger|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Worship 4|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Dessert|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Chair Feast|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Eat Her|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Finger Her|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Forbidden|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Glaze Her|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Spank Her|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Nipples|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Grope Her|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Simply 69|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Mad 69|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Dual Action|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Stroke n Lick|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM Sitting 69|express_tongue_out|1|express_open_mouth|1
+[14:52] ◆ANIM 2Way Tease|express_open_mouth|2|express_frown|2|none|2|express_disdain|2
+[14:52] ◆ANIM Side Miss|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Side Grab|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Anal Support|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Hugger|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Held Spread|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Folded 3|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Balance 4|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Chair Spread|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Crabbing|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Spread Wide|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Side Long|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Sweet Miss|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Down Force|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Super G|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Choke Pound|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM B-Day|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Pile Drive|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Side Dog|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Chair Dog|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Wall Dog|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Furrow 2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Doggy 2x3|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Hard Dog|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Ass Rape|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Dom Dog|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Anal Back|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Rough Ride2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Backdoor|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Mount Hard|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Bitch Bang|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Doggy Hard|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Couch Ride 2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Hipster|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Propped|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Anal Ride|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Tensed 2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Laying Ride|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Cowgirl Ride|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Sensual Ride|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Impale Her|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Deep Impale|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Straddle|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Reserve Hump|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Ride Me|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Asian Cowgirl|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Kneeling Anal|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Brute|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Rear Pump|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Ass Raid|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Upthrust|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Bender|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Chair Bang|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Tangled|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Sideway Anal|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Buttoms Up2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Laying Anal|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Ass Pump|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Standing O|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Acrobat|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Cum All Over|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Cum on Body|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Give N Take 2|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆ANIM Milk Him|express_open_mouth|2|express_frown|2|none|2|express_anger_emote|2
+[14:52] ◆
+[14:52] ◆SITTER 1
+[14:52] ◆
+[14:52] ◆TOMENU Couple
+[14:52] ◆TOMENU Adult
+[14:52] ◆
+[14:52] ◆MENU Couple
+[14:52] ◆SYNC Couple_01|am.dew-fm
+[14:52] ◆SYNC Couple_02|cp2-coffee(2)fm
+[14:52] ◆SYNC Couple_03|[RNP] Couple #27_Reading together_Female
+[14:52] ◆SYNC Couple_04|cp2-shoulder-rub(4)fm
+[14:52] ◆SYNC Couple_05|c.back-massage-fm
+[14:52] ◆SYNC Couple_06|am.converse-fm
+[14:52] ◆SYNC Couple_07|logCplPicnic1-f
+[14:52] ◆SYNC Couple_08|logCplPicnic2-f
+[14:52] ◆SYNC Couple_09|logCplPicnic3-f
+[14:52] ◆SYNC Couple_10|logCplPicnic4-f
+[14:52] ◆SYNC Couple_11|coup-repose-fm
+[14:52] ◆SYNC Couple_12|c-side-fm
+[14:52] ◆SYNC Couple_13|c.makeout.fm
+[14:52] ◆SYNC Couple_14|[RNP] Hanging Chair #11 - Couple - Female- 38 seconds
+[14:52] ◆SYNC Couple_15|[RNP] Hanging Chair #9 - Couple - Female -  32 seconds
+[14:52] ◆SYNC Couple_16|am.persuade-fm
+[14:52] ◆SYNC Couple_17|[RNP] Cuddle #4_Female
+[14:52] ◆SYNC Couple_18|c3.home-is-fmfl
+[14:52] ◆SYNC Couple_19|cp2-justright(3)fm
+[14:52] ◆SYNC Couple_20|ac-ardor(2)fm
+[14:52] ◆SYNC Couple_21|coup-sit-kiss-ani-fm
+[14:52] ◆SYNC Couple_22|c.comfort-fm
+[14:52] ◆SYNC Couple_23|am.length-fm
+[14:52] ◆SYNC Couple_24|ac-care(3)fm
+[14:52] ◆SYNC Couple_25|dc-pounce(5)fm
+[14:52] ◆
+[14:52] ◆MENU Adult
+[14:52] ◆TOMENU Foreplay
+[14:52] ◆TOMENU Facing
+[14:52] ◆TOMENU Doggy
+[14:52] ◆TOMENU Cowgirl
+[14:52] ◆TOMENU Behind
+[14:52] ◆TOMENU Cum
+[14:52] ◆
+[14:52] ◆MENU Foreplay
+[14:52] ◆TOMENU For Him
+[14:52] ◆TOMENU For Her
+[14:52] ◆TOMENU Mutual
+[14:52] ◆
+[14:52] ◆MENU For Him
+[14:52] ◆SYNC Sack|Sack-F
+[14:52] ◆SYNC Two Hands|Double Handjob-F
+[14:52] ◆SYNC Blow Him|Blow Him F::1
+[14:52] ◆SYNC Face Fuck|Facefuck-F::1
+[14:53] ◆SYNC Throat Fuck|Throatfuck-1F::22
+[14:53] ◆SYNC Crouched|Crouched Blow-F
+[14:53] ◆SYNC Side Seated|Side-Seated-2-F
+[14:53] ◆SYNC Sitting BJ|Sitting BJ-F::1
+[14:53] ◆SYNC Seated Service|Seated Service-F
+[14:53] ◆SYNC Tater Sack|Tater Sack-F
+[14:53] ◆SYNC Tits Job|Titjob-F::1
+[14:53] ◆SYNC Titty Fuck|Titty Fuck F::1
+[14:53] ◆SYNC Mouth Fuck|Mouthfuck F::22
+[14:53] ◆SYNC Handless|Handless Blowjob-F::1
+[14:53] ◆
+[14:53] ◆MENU For Her
+[14:53] ◆SYNC Snack Her|Afternoon Snack-F::1
+[14:53] ◆SYNC Lick Her|mfs11f1
+[14:53] ◆SYNC Invert Lick|[RNP] Sex #59_Chair_Lick_Female_30 seconds
+[14:53] ◆SYNC Tabled 7|Tabled-7-F
+[14:53] ◆SYNC Standing Finger|[RNP] Sex #106_Lazy Bag_Fingering_Female_40 seconds
+[14:53] ◆SYNC Worship 4|Worship-4-F
+[14:53] ◆SYNC Dessert|Dessert-F
+[14:53] ◆SYNC Chair Feast|[RNP] Sex #109_Lazy Bag_Lick_Female_32 seconds
+[14:53] ◆SYNC Eat Her|Eat Pussy-F::1
+[14:53] ◆SYNC Finger Her|Her Flavor F::1
+[14:53] ◆SYNC Forbidden|ForbiddenFruitF1
+[14:53] ◆SYNC Glaze Her|PerseaHotSlot2F1
+[14:53] ◆SYNC Spank Her|SubSpank
+[14:53] ◆SYNC Nipples|NipplePleaserF1
+[14:53] ◆SYNC Grope Her|OfficeChairDiddleF1
+[14:53] ◆
+[14:53] ◆MENU Mutual
+[14:53] ◆SYNC Simply 69|69F1
+[14:53] ◆SYNC Mad 69|69-F::1
+[14:53] ◆SYNC Dual Action|Dual-Action-F
+[14:53] ◆SYNC Stroke n Lick|FaceSquatF1
+[14:53] ◆SYNC Sitting 69|69sittingF1
+[14:53] ◆SYNC 2Way Tease|Foreplay1F1
+[14:53] ◆
+[14:53] ◆MENU Facing
+[14:53] ◆SYNC Side Miss|Bedside Missionary-F::7
+[14:53] ◆SYNC Side Grab|Bedside Anal-F::1
+[14:53] ◆SYNC Anal Support|Anal Support-F::1
+[14:53] ◆SYNC Hugger|The Hugger-F::1
+[14:53] ◆SYNC Held Spread|Held Spread-F::1
+[14:53] ◆SYNC Folded 3|Folded-3-FA
+[14:53] ◆SYNC Balance 4|Balance-4-FA
+[14:53] ◆SYNC Chair Spread|[RNP] Sex #108_Lazy Bag_Female_40 seconds
+[14:53] ◆SYNC Crabbing|Crabbing-F
+[14:53] ◆SYNC Spread Wide|Spread Wide-F::1
+[14:53] ◆SYNC Side Long|Sidelong-F
+[14:53] ◆SYNC Sweet Miss|Gentle Love F::1
+[14:53] ◆SYNC Down Force|Downforce F::7
+[14:53] ◆SYNC Super G|The G F::1
+[14:53] ◆SYNC Choke Pound|Throat Squeezing Ride-F::7
+[14:53] ◆SYNC B-Day|GiantSexF1
+[14:53] ◆SYNC Pile Drive|PileDriverF1
+[14:53] ◆
+[14:53] ◆MENU Doggy
+[14:53] ◆SYNC Side Dog|Bedside Doggy-F::1
+[14:53] ◆SYNC Chair Dog|Chair Doggy F::1
+[14:53] ◆SYNC Wall Dog|Wall Doggy F::1
+[14:53] ◆SYNC Furrow 2|Furrow-2-F
+[14:53] ◆SYNC Doggy 2x3|doggy2fx3
+[14:53] ◆SYNC Hard Dog|Hard Doggy & Spank F::7
+[14:53] ◆SYNC Ass Rape|Ass Rape F::7
+[14:53] ◆SYNC Dom Dog|Dominant Doggy F::1
+[14:53] ◆SYNC Anal Back|mfs9f1
+[14:53] ◆SYNC Rough Ride2|Rough Ride-2-F
+[14:53] ◆SYNC Backdoor|CageF2
+[14:53] ◆SYNC Mount Hard|doggy1f
+[14:53] ◆SYNC Bitch Bang|doggy3fx2
+[14:53] ◆SYNC Doggy Hard|DoggyHardF1
+[14:53] ◆
+[14:53] ◆MENU Cowgirl
+[14:53] ◆SYNC Couch Ride 2|Couch Ride-2-F
+[14:53] ◆SYNC Hipster|Hipster-F::1
+[14:53] ◆SYNC Propped|Propped-Ride-F
+[14:53] ◆SYNC Anal Ride|Anal Ride-F::1
+[14:53] ◆SYNC Tensed 2|Tensed-2-F
+[14:53] ◆SYNC Laying Ride|Laying Ride-F::1
+[14:53] ◆SYNC Cowgirl Ride|Ride Him F::1
+[14:53] ◆SYNC Sensual Ride|Sensual Ride-F::1
+[14:53] ◆SYNC Impale Her|Hold On F::1
+[14:53] ◆SYNC Deep Impale|Reverse Ride-F::1
+[14:53] ◆SYNC Straddle|[RNP] Sex #104_Lazy Bag_Female_40 seconds
+[14:53] ◆SYNC Reserve Hump|[RNP] Sex #61_Female_Chair_35.05 seconds
+[14:53] ◆SYNC Ride Me|FonTopF1
+[14:53] ◆SYNC Asian Cowgirl|AsianCowgirlF1
+[14:53] ◆
+[14:53] ◆MENU Behind
+[14:53] ◆SYNC Kneeling Anal|Kneeling Anal-F::1
+[14:53] ◆SYNC Brute|Brute-F
+[14:53] ◆SYNC Rear Pump|Rear Pump-F::1
+[14:53] ◆SYNC Ass Raid|mfs10f1f
+[14:53] ◆SYNC Upthrust|Upthrust-F
+[14:53] ◆SYNC Bender|The Bender-F::1
+[14:53] ◆SYNC Chair Bang|[RNP] Sex #110_Lazy Bag_Female_32 seconds
+[14:53] ◆SYNC Tangled|Tangled Spoon F::1
+[14:53] ◆SYNC Sideway Anal|Sideway Anal-F::1
+[14:53] ◆SYNC Bottoms Up2|Bottoms Up-2-F
+[14:53] ◆SYNC Laying Anal|Laying Anal-F::1
+[14:53] ◆SYNC Ass Pump|Pump that Ass-F::1
+[14:53] ◆SYNC Standing O|StandingAnalF1
+[14:53] ◆SYNC Acrobat|AcrobatSexF1
+[14:53] ◆
+[14:53] ◆MENU Cum
+[14:53] ◆SYNC Cum All Over|bukkake slut
+[14:53] ◆SYNC Cum on Body|DribbleF1
+[14:53] ◆SYNC Give N Take 2|Give-N-Take-2-F
+[14:53] ◆SYNC Milk Him|StandingJerkF1
+[14:53] ◆{Couple_01}<-0.284,0.402,1.518><0,0,-90>
+[14:53] ◆{Couple_02}<0.138,0.364,1.6><0,0,-90>
+[14:53] ◆{Couple_03}<0.104,0.322,0.977><0,2.9,-90>
+[14:53] ◆{Couple_04}<-0.3,0.061,1.474><0,0,-43>
+[14:53] ◆{Couple_05}<-0.238,-0.449,0.949><0,0,180>
+[14:53] ◆{Couple_06}<-0.354,-0.17,1.641><0,0,-90>
+[14:53] ◆{Couple_07}<0.011,0.14,1.059><-1.9,0.8,-115>
+[14:53] ◆{Couple_08}<0.007,0.043,1.33><0,0,-90>
+[14:53] ◆{Couple_09}<0.274,0.192,1.011><0,0,-126>
+[14:53] ◆{Couple_10}<-0.388,0.287,1.022><0,0.1,-90>
+[14:53] ◆{Couple_11}<-0.216,-0.359,1.216><0,0,180>
+[14:53] ◆{Couple_12}<0.207,-0.509,1.047><0,0,-90>
+[14:53] ◆{Couple_13}<-0.172,-0.291,0.89><0,0,180>
+[14:53] ◆{Couple_14}<-0.096,-0.183,1.488><0,0,38>
+[14:53] ◆{Couple_15}<1.046,-0.157,1.393><0,0,41>
+[14:53] ◆{Couple_16}<-0.272,-0.738,1.751><0,0,-14>
+[14:53] ◆{Couple_17}<-0.336,-0.475,1.081><2.9,0,180>
+[14:53] ◆{Couple_18}<0.043,-0.337,1.511><0,0,180>
+[14:53] ◆{Couple_19}<0.105,-0.033,2><0,0,-135>
+[14:53] ◆{Couple_20}<0.805,-0.494,1.616><0,0,180>
+[14:53] ◆{Couple_21}<0.33,-0.397,1.09><0,0,180>
+[14:53] ◆{Couple_22}<0.17,-0.273,1.002><0,0,90>
+[14:53] ◆{Couple_23}<-0.094,-0.481,1.506><0,0,90>
+[14:53] ◆{Couple_24}<0.923,-0.38,1.509><0,0,-90>
+[14:53] ◆{Couple_25}<-0.065,-0.011,1.898><0,0,-115>
+[14:53] ◆{Sack}<0.209,-1.777,1.189><0,0,180>
+[14:53] ◆{Two Hands}<0.313,-1.782,0.524><0.3,6,-180>
+[14:53] ◆{Blow Him}<0.183,-1.776,0.447><0,6,180>
+[14:53] ◆{Face Fuck}<0.183,-1.789,0.414><0.3,6,-180>
+[14:53] ◆{Throat Fuck}<-0.026,-0.429,0.918><0,0,90>
+[14:54] ◆{Crouched}<-0.32,-1.469,1.195><16,0,90>
+[14:54] ◆{Side Seated}<-0.736,-0.438,1.459><0,0,-90>
+[14:54] ◆{Sitting BJ}<-0.048,-0.516,1.073><0,0,-85>
+[14:54] ◆{Seated Service}<-0.757,-0.273,1.987><0,0,0>
+[14:54] ◆{Tater Sack}<-0.692,-0.086,1.997><0,0,-90>
+[14:54] ◆{Tits Job}<0.137,-1.74,0.614><0,0,180>
+[14:54] ◆{Titty Fuck}<0.041,-0.12,0.97><-0.3,0,0>
+[14:54] ◆{Mouth Fuck}<0.214,-0.151,0.958><-0.3,0,0>
+[14:54] ◆{Handless}<0.375,-0.1,0.93><0,0,180>
+[14:54] ◆{Snack Her}<-0.607,-0.178,1.261><-0.2,0,0>
+[14:54] ◆{Lick Her}<-0.329,-0.394,2.089><-0.2,0,-0.1>
+[14:54] ◆{Invert Lick}<-0.463,-0.257,1.488><0,0,-90>
+[14:54] ◆{Tabled 7}<-0.463,-0.476,1.185><-11.2,-2,-90>
+[14:54] ◆{Standing Finger}<-1.337,0.317,2.02><0,0,-45>
+[14:54] ◆{Worship 4}<0.314,-1.784,1.151><0,0,0>
+[14:54] ◆{Dessert}<-0.387,-0.264,2.073><0,0,180>
+[14:54] ◆{Chair Feast}<0.041,0.57,1.634><0,0,-90>
+[14:54] ◆{Eat Her}<-0.386,-0.314,0.983><0,0,0>
+[14:54] ◆{Finger Her}<-0.453,-0.268,0.951><179.9,-77,180>
+[14:54] ◆{Forbidden}<-0.214,-0.244,1.995><0.2,2,180>
+[14:54] ◆{Glaze Her}<0.07,-0.23,1.928><0,0,0>
+[14:54] ◆{Spank Her}<-0.328,-0.85,1.467><0,-0.4,-90>
+[14:54] ◆{Nipples}<-0.548,-0.472,1.906><0.1,-2.9,-180>
+[14:54] ◆{Grope Her}<-0.463,-0.501,1.522><2.9,0.1,-90>
+[14:54] ◆{Simply 69}<0.034,-0.276,1.847><0.1,0,0>
+[14:54] ◆{Mad 69}<-0.565,-0.203,1.306><0.1,0,0>
+[14:54] ◆{Dual Action}<0.066,-0.554,1.387><0,0,0>
+[14:54] ◆{Stroke n Lick}<-0.611,-0.111,1.933><0,0,0>
+[14:54] ◆{Sitting 69}<-0.513,-0.538,1.696><0,0,-90>
+[14:54] ◆{2Way Tease}<-0.794,-0.324,1.467><-5.6,0,-90>
+[14:54] ◆{Side Miss}<-0.509,-0.808,0.963><0,0,-90>
+[14:54] ◆{Side Grab}<-0.508,-0.708,1.018><-5.6,0,-90>
+[14:54] ◆{Anal Support}<-0.078,-0.178,1.074><0,0,0>
+[14:54] ◆{Hugger}<-0.252,-0.011,1.554><0,0,180>
+[14:54] ◆{Held Spread}<0.227,-1.779,1.194><0,0,180>
+[14:54] ◆{Folded 3}<-0.881,-0.001,2.02><0,0,-43.5>
+[14:54] ◆{Balance 4}<-0.214,0.015,2.099><0,0,180>
+[14:54] ◆{Chair Spread}<0.867,0.442,1.607><0,0,-135>
+[14:54] ◆{Crabbing}<-0.302,-0.177,1.949><0,-5.6,0>
+[14:54] ◆{Spread Wide}<-0.029,0.116,1.04><0,0,-90>
+[14:54] ◆{Side Long}<-0.114,-0.291,2.017><0,0,-90>
+[14:54] ◆{Sweet Miss}<-0.034,-0.167,0.963><-0.3,0,-1>
+[14:54] ◆{Down Force}<-0.047,-0.255,1.04><-0.3,0,0>
+[14:54] ◆{Super G}<-0.072,-0.269,0.956><0,-84.4,0>
+[14:54] ◆{Choke Pound}<-0.028,-0.244,1.276><0,0,180>
+[14:54] ◆{B-Day}<0.075,-1.768,0.996><0,0,-90>
+[14:54] ◆{Pile Drive}<-0.05,0.516,1.408><0,0,90>
+[14:54] ◆{Side Dog}<-0.624,-0.823,1.15><0.1,-0.3,89.8>
+[14:54] ◆{Chair Dog}<-0.608,-1.26,1.126><0.1,-0.3,89.9>
+[14:54] ◆{Wall Dog}<1,-1.328,1.121><-0.3,-0.1,-0.1>
+[14:54] ◆{Furrow 2}<0.781,0.156,1.925><-0.3,0,-1>
+[14:54] ◆{Doggy 2x3}<-0.312,-0.246,2.02><0,0,0>
+[14:54] ◆{Hard Dog}<-0.264,-0.136,1.866><-0.3,-6,0>
+[14:54] ◆{Ass Rape}<-0.189,-0.125,1.45><0,0,0>
+[14:54] ◆{Dom Dog}<-0.138,-0.068,1.304><0,0,0>
+[14:54] ◆{Anal Back}<-0.14,-0.175,2.057><-2.4,1.6,0.1>
+[14:54] ◆{Rough Ride2}<0.194,-0.358,1.957><0,0,0>
+[14:54] ◆{Backdoor}<-0.555,-0.922,0.947><0,0,90>
+[14:54] ◆{Mount Hard}<-0.185,-0.18,2.087><0,0,0>
+[14:54] ◆{Bitch Bang}<2.052,-0.028,1.195><0,0,-90>
+[14:54] ◆{Doggy Hard}<-0.211,-0.22,1.321><0,0,180>
+[14:54] ◆{Couch Ride 2}<-0.528,-0.538,1.446><0,0,90>
+[14:54] ◆{Hipster}<-0.542,-0.665,1.269><0,0,-90>
+[14:54] ◆{Propped}<-0.509,-0.015,1.968><0,0,135>
+[14:54] ◆{Anal Ride}<-0.264,-0.094,1.364><0,0,-11.3>
+[14:54] ◆{Tensed 2}<-0.547,-0.501,1.415><-5.6,0,-90>
+[14:54] ◆{Laying Ride}<-0.258,-0.311,1.229><0,0,180>
+[14:54] ◆{Cowgirl Ride}<-0.126,-0.304,1.357><0.3,1,180>
+[14:54] ◆{Sensual Ride}<-0.105,-0.29,1.385><0.3,1,180>
+[14:54] ◆{Impale Her}<-0.046,-0.137,1.442><-0.3,12,0.1>
+[14:54] ◆{Deep Impale}<-0.547,-0.02,1.433><-0.2,0.2,-45>
+[14:54] ◆{Straddle}<-0.463,-0.451,1.616><0,0,-90>
+[14:54] ◆{Reserve Hump}<-0.583,-0.306,1.469><-5.6,-3.1,-90.3>
+[14:54] ◆{Ride Me}<-0.158,-0.146,1.238><0,0,180>
+[14:54] ◆{Asian Cowgirl}<0.016,-0.342,1.419><0,-5,0>
+[14:54] ◆{Kneeling Anal}<-0.124,-0.171,1.456><0,0,0>
+[14:54] ◆{Brute}<0.142,-1.777,1.456><0,0,0>
+[14:54] ◆{Rear Pump}<0.171,-1.786,1.121><0,0,0>
+[14:54] ◆{Ass Raid}<1.712,-1.836,1.255><0,0,0>
+[14:54] ◆{Upthrust}<-0.014,-1.868,1.471><0,0,-90>
+[14:54] ◆{Bender}<0.035,-1.77,1><0,-0.1,0>
+[14:54] ◆{Chair Bang}<-0.879,-0.2,1.289><0,0,0>
+[14:54] ◆{Tangled}<-0.189,-0.504,1.046><0,-89.7,-90>
+[14:54] ◆{Sideway Anal}<-0.133,-0.248,1.064><0,0,-67.5>
+[14:54] ◆{Bottoms Up2}<-0.265,-0.281,1.923><0,0,180>
+[14:54] ◆{Laying Anal}<-0.196,-0.21,0.945><0,0,180>
+[14:54] ◆{Ass Pump}<-0.196,-0.21,0.945><0,0,180>
+[14:54] ◆{Standing O}<-0.013,-1.801,1.215><0,0,-90>
+[14:54] ◆{Acrobat}<-0.03,-0.193,1.184><0.4,3,0>
+[14:54] ◆{Cum All Over}<-0.474,-1.722,1.109><0,0,0>
+[14:54] ◆{Cum on Body}<-0.019,-0.869,1.33><0,0,90>
+[14:54] ◆{Give N Take 2}<-0.299,-0.341,1.991><0,0,180>
+[14:54] ◆{Milk Him}<-0.021,-1.762,1.228><0,0,-90>
+[14:54] ◆ANIM Sack|express_tongue_out|1|express_open_mouth|1
+[14:54] ◆ANIM Two Hands|express_open_mouth|1
+[14:54] ◆ANIM Blow Him|express_open_mouth|1
+[14:54] ◆ANIM Face Fuck|express_open_mouth|1
+[14:54] ◆ANIM Throat Fuck|express_open_mouth|1
+[14:54] ◆ANIM Crouched|express_open_mouth|1
+[14:54] ◆ANIM Side Seated|express_open_mouth|1
+[14:54] ◆ANIM Sitting BJ|express_open_mouth|1
+[14:54] ◆ANIM Seated Service|express_open_mouth|1
+[14:54] ◆ANIM Tater Sack|express_open_mouth|1
+[14:54] ◆ANIM Tits Job|express_tongue_out|1
+[14:54] ◆ANIM Titty Fuck|express_surprise_emote|2
+[14:54] ◆ANIM Mouth Fuck|express_open_mouth|1
+[14:54] ◆ANIM Handless|express_open_mouth|1
+[14:54] ◆ANIM Snack Her|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Lick Her|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Invert Lick|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Tabled 7|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Standing Finger|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Worship 4|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Dessert|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Chair Feast|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Eat Her|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Finger Her|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Forbidden|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Glaze Her|express_cry_emote|2|express_surprise_emote|2
+[14:54] ◆ANIM Spank Her|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Nipples|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Grope Her|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Simply 69|express_open_mouth|1
+[14:54] ◆ANIM Mad 69|express_open_mouth|1
+[14:54] ◆ANIM Dual Action|express_open_mouth|1
+[14:54] ◆ANIM Stroke n Lick|express_cry_emote|2|express_open_mouth|2
+[14:52] ◆ANIM Sitting 69||express_open_mouth|1
+[14:54] ◆ANIM 2Way Tease|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Side Miss|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Side Grab|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Anal Support|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Hugger|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Held Spread|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Folded 3|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Balance 4|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Chair Spread|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Crabbing|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Spread Wide|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Side Long|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Sweet Miss|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Down Force|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Super G|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Choke Pound|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM B-Day|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Pile Drive|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Side Dog|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Chair Dog|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Wall Dog|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Furrow 2|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Doggy 2x3|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Hard Dog|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Ass Rape|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Dom Dog|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Anal Back|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Rough Ride2|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Backdoor|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Mount Hard|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Bitch Bang|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Doggy Hard|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Couch Ride 2|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Hipster|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Propped|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Anal Ride|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Tensed 2|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Laying Ride|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Cowgirl Ride|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Sensual Ride|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Impale Her|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Deep Impale|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Straddle|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Reserve Hump|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Ride Me|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Asian Cowgirl|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Kneeling Anal|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Brute|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Rear Pump|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Ass Raid|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Upthrust|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Bender|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Chair Bang|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Tangled|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Sideway Anal|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Bottoms Up2|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Laying Anal|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Ass Pump|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Standing O|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Acrobat|express_cry_emote|2|express_afraid_emote|2
+[14:54] ◆ANIM Cum All Over|express_open_mouth|2|none|2
+[14:54] ◆ANIM Cum on Body|express_open_mouth|2|none|2
+[14:54] ◆ANIM Give N Take 2|express_open_mouth|1
+[14:54] ◆ANIM Milk Him|express_open_mouth|1
+[14:54] ◆}
+ 

@@ -1,0 +1,26 @@
+LLWearable version 22
+SD Colbalt Blue Eyes
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	066b3d28-f9e9-4ce2-91e6-55225d7f2460
+		owner_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		last_owner_id	066b3d28-f9e9-4ce2-91e6-55225d7f2460
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 3
+parameters 2
+98 .5
+99 .5
+textures 1
+3 b7c898e5-97a6-4e2b-8f6e-e7c5d171a586

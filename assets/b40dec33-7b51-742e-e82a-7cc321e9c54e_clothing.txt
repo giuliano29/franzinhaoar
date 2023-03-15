@@ -1,0 +1,33 @@
+LLWearable version 22
+Tosha Tyran's Pants
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	7fffffff
+		creator_id	4abafa99-7dda-4e9c-bc15-27c86ab1495e
+		owner_id	4abafa99-7dda-4e9c-bc15-27c86ab1495e
+		last_owner_id	4abafa99-7dda-4e9c-bc15-27c86ab1495e
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 5
+parameters 9
+625 0
+638 0
+806 1
+807 1
+808 1
+814 1
+815 .91
+816 0
+869 0
+textures 1
+2 7c12ce86-1615-4b8c-bcc9-c4654f8952b2

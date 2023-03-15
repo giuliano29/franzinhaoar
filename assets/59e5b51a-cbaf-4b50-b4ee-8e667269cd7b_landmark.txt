@@ -1,0 +1,5 @@
+Landmark version 2
+region_id 26173527-e76f-4219-97ec-7e5f9e0ebda7
+local_pos 203.7583 238.4475 22.0377
+region_handle 11142450838429952
+gatekeeper http://hg.osgrid.org:80

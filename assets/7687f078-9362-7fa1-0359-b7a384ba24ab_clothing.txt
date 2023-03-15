@@ -1,0 +1,28 @@
+LLWearable version 22
+alpha for sandals
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	70875c26-f67a-4b3e-9d38-db61568a1acb
+		owner_id	ce40214d-7737-47f5-af49-b685bfbb5dec
+		last_owner_id	ce40214d-7737-47f5-af49-b685bfbb5dec
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 13
+parameters 0
+textures 5
+21 916a2257-d287-4a3e-831d-91def620944b
+22 5748decc-f629-461c-9a36-a35a221fe21f
+23 5748decc-f629-461c-9a36-a35a221fe21f
+24 5748decc-f629-461c-9a36-a35a221fe21f
+25 5748decc-f629-461c-9a36-a35a221fe21f

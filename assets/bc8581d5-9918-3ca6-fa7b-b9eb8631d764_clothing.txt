@@ -1,0 +1,63 @@
+LLWearable version 22
+Men's Black Tank
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		owner_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		last_owner_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 38
+606 .8
+607 1
+608 .8
+609 1
+620 .8
+621 .8
+622 1
+623 1
+780 1
+809 1
+810 1
+811 1
+831 1
+832 1
+833 1
+834 1
+835 1
+836 1
+875 0
+876 0
+877 0
+1019 .8
+1020 .8
+1021 1
+1022 1
+1023 1
+1024 1
+1025 .8
+1026 1
+1027 .8
+1028 1
+1033 .8
+1034 1
+1037 .8
+1038 1
+1039 .8
+1040 1
+1041 1
+textures 2
+13 3882b8e1-c9ac-40f8-ac54-061bedb6ebe5
+14 305c1608-9001-4019-8ba9-7daa742e1bd7

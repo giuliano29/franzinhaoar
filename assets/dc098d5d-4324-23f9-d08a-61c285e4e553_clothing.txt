@@ -1,0 +1,39 @@
+LLWearable version 22
+undershirt
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	00000000-0000-0000-0000-000000000000
+		owner_id	908a62c0-10fe-42fd-b877-5782d673ae22
+		last_owner_id	992efeab-e3c6-419c-986a-f87ce61e4036
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 10
+parameters 15
+603 .4
+604 .85
+605 .84
+779 .84
+821 .56
+822 .33
+823 .23
+1042 .4
+1043 .4
+1044 .85
+1045 .85
+1046 .84
+1047 .84
+1048 .84
+1049 .84
+textures 1
+16 83619ea6-0640-4228-82ab-b11eb99e7508

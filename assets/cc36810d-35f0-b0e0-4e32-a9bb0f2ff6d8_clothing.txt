@@ -1,0 +1,38 @@
+LLWearable version 22
+EYELINER ALL
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	996a61b5-a691-c994-8821-db49a1bcd70e
+		owner_id	996a61b5-a691-c994-8821-db49a1bcd70e
+		last_owner_id	996a61b5-a691-c994-8821-db49a1bcd70e
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 14
+parameters 12
+1062 1
+1063 1
+1064 1
+1065 1
+1066 1
+1067 1
+1068 1
+1069 1
+1070 1
+1071 1
+1072 1
+1073 1
+textures 3
+26 cd8fc08e-82e3-42ec-9765-5ef74654c8d2
+27 c228d1cf-4b5d-4ba8-84f4-899a0796aa97
+28 c228d1cf-4b5d-4ba8-84f4-899a0796aa97

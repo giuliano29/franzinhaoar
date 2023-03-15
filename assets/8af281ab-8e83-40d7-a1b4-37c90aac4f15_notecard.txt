@@ -1,0 +1,238 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 8172
+<llsd>
+  <map>
+    <key>serial</key>
+    <integer>0</integer>
+    <key>height</key>
+    <real>1.9758528470993042</real>
+    <key>wearables</key>
+    <array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>ec48f912-e80c-49fd-8a4c-ae1e634a93c2</uuid>
+          <key>asset</key>
+          <uuid>f7067b29-7f40-3c65-a3bb-789659f7b989</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>691b2385-763a-4506-8f4d-9add579e7db2</uuid>
+          <key>asset</key>
+          <uuid>52b41a1c-ae9f-4bd8-bbc2-c0406f21f1a8</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>c1a2afd5-ecd5-4bcb-a240-e57423ef5f0a</uuid>
+          <key>asset</key>
+          <uuid>330b5371-5e07-4bdb-8e60-08ca2b4660d8</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>d60b68c2-87f6-4a30-b551-cea31025b234</uuid>
+          <key>asset</key>
+          <uuid>bc70ad8a-03af-14b7-31ae-844fe2af0ca0</uuid>
+        </map>
+      </array>
+      <array />
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>b0d20e44-c1df-4ad2-8455-e971a6de86d8</uuid>
+          <key>asset</key>
+          <uuid>e82b5909-47b9-c6fe-010d-e1acb287ca01</uuid>
+        </map>
+      </array>
+      <array />
+      <array />
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>d1b1fe3d-7c7e-4107-8578-e5f8cf18807a</uuid>
+          <key>asset</key>
+          <uuid>44bed2be-9f27-4961-5907-2031debb0866</uuid>
+        </map>
+      </array>
+      <array />
+      <array />
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>e025f4f2-8d9c-4fd1-be07-cb1611f929f7</uuid>
+          <key>asset</key>
+          <uuid>ca4387e4-090e-39e9-3027-565e4e834acb</uuid>
+        </map>
+      </array>
+      <array />
+      <array />
+      <array />
+      <array />
+    </array>
+    <key>textures</key>
+    <array>
+      <uuid>46697265-7374-6f72-6d00-000000000000</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c8d42219-629c-4679-921d-5634e3fafde6</uuid>
+      <uuid>c514dfe5-e224-4137-b1ed-a4a136649be9</uuid>
+      <uuid>f484db96-11f2-4634-83d7-b66709d069ad</uuid>
+      <uuid>9564c6c6-7443-4850-95bc-7a5080f35d85</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c0ffb13c-a542-43d1-b2dc-f5d14698dc0b</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+    </array>
+    <key>bakedcache</key>
+    <array>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAACA==</binary>
+        <key>cacheid</key>
+        <uuid>fa5e03c8-bb63-eb6c-c560-8c86be52afa6</uuid>
+        <key>textureid</key>
+        <uuid>c8d42219-629c-4679-921d-5634e3fafde6</uuid>
+      </map>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAACQ==</binary>
+        <key>cacheid</key>
+        <uuid>e10aabe5-3964-a3f6-5584-3be615af2b81</uuid>
+        <key>textureid</key>
+        <uuid>c514dfe5-e224-4137-b1ed-a4a136649be9</uuid>
+      </map>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAACg==</binary>
+        <key>cacheid</key>
+        <uuid>a8c618c9-9577-afe4-a5aa-be8cac3be37b</uuid>
+        <key>textureid</key>
+        <uuid>f484db96-11f2-4634-83d7-b66709d069ad</uuid>
+      </map>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAACw==</binary>
+        <key>cacheid</key>
+        <uuid>bd37f720-4cef-8717-912e-5bbba2bc156b</uuid>
+        <key>textureid</key>
+        <uuid>9564c6c6-7443-4850-95bc-7a5080f35d85</uuid>
+      </map>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAAEw==</binary>
+        <key>cacheid</key>
+        <uuid>00000000-0000-0000-0000-000000000000</uuid>
+        <key>textureid</key>
+        <uuid>00000000-0000-0000-0000-000000000000</uuid>
+      </map>
+      <map>
+        <key>textureindex</key>
+        <binary encoding="base64">AAAAFA==</binary>
+        <key>cacheid</key>
+        <uuid>fc95544b-91d3-f6fd-989f-fbf093462b18</uuid>
+        <key>textureid</key>
+        <uuid>c0ffb13c-a542-43d1-b2dc-f5d14698dc0b</uuid>
+      </map>
+    </array>
+    <key>visualparams</key>
+    <binary encoding="base64">AAclGRt8BVEeACj/P380NXIRAABRP6JEZpuETDCEv//LWX9/AAB/AAAAoAAAAAB6QnWEia1/AAAArQBUBwAAAAAAAABehFaHABYASWsAAKB/bVV/fxlEAGTY1szMzP8ZWUzMAHUMAHecf0qbWQB/en+Hf5uHZkeysrIvR0nqhD8AAAAAf38AAAAAfwCfAAD/AE9JSVuljqNoQgCRGWuWANb/xgAAjB6T4v/G////////////hAD//////////////wD//////wB/f/8ZZP////9UAAAATkD///8AABkAGRczABkXMwAAGQAZFzMAABkAGRczABkXMwAZFzMAfw==</binary>
+    <key>attachments</key>
+    <array>
+      <map>
+        <key>point</key>
+        <integer>10</integer>
+        <key>item</key>
+        <uuid>fa48fdb0-fbe4-4e13-a6ef-55d2cc8c3d74</uuid>
+        <key>asset</key>
+        <uuid>5b6263b5-2e1e-44d1-99a3-4d3a4805b993</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>19</integer>
+        <key>item</key>
+        <uuid>1af96020-b2e9-4f00-b897-069688675a29</uuid>
+        <key>asset</key>
+        <uuid>c97249b5-9f30-4be0-973a-9937d074eb70</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>2</integer>
+        <key>item</key>
+        <uuid>1d88702a-4051-41a2-b478-e1b4aed270d7</uuid>
+        <key>asset</key>
+        <uuid>86a6cad3-006c-424a-85cd-4bda242f27ce</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>21</integer>
+        <key>item</key>
+        <uuid>2a100192-7b27-48b2-b835-3ece368c3bf8</uuid>
+        <key>asset</key>
+        <uuid>075f80a5-964e-481b-8d38-8a559a66caf4</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>23</integer>
+        <key>item</key>
+        <uuid>39c4b672-03fe-400d-9912-014f083c9406</uuid>
+        <key>asset</key>
+        <uuid>e98cd528-bad1-4a58-bd8b-b832803a58a6</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>26</integer>
+        <key>item</key>
+        <uuid>0d5a2160-c407-4a00-9cf3-f6eeb3281a0d</uuid>
+        <key>asset</key>
+        <uuid>0a211732-9a1d-4513-a06c-6d54852e331d</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>7</integer>
+        <key>item</key>
+        <uuid>5ac40e33-a9f1-4b70-8f99-844cf77498fe</uuid>
+        <key>asset</key>
+        <uuid>9d661a59-89bc-4c9e-89de-f00d71f9ce78</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>8</integer>
+        <key>item</key>
+        <uuid>fb64bb93-b0ce-4da2-93c5-169f6e99db33</uuid>
+        <key>asset</key>
+        <uuid>c701907a-9575-4f9d-8b80-4340b0aaa934</uuid>
+      </map>
+    </array>
+  </map>
+</llsd>}

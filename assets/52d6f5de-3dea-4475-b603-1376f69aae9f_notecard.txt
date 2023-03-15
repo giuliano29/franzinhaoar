@@ -1,0 +1,435 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 14647
+"NERENZO BRIDGE - ADULT" AVsitter 2.1
+SWAP 1
+SITTER 0
+
+TOMENU ON BRIDGE
+TOMENU ↓ON DECK↓
+
+MENU ON BRIDGE
+TOMENU SINGLE-M
+TOMENU SINGLE-F
+TOMENU TALK
+TOMENU CUDDLE
+TOMENU ORAL
+TOMENU SEX
+
+MENU SINGLE-M
+POSE bridgeM1|1ms72
+POSE bridgeM2|1ms19
+POSE bridgeM3|1ms12
+POSE bridgeM4|1ms29
+
+MENU SINGLE-F
+POSE bridgeF1|1sf2
+POSE bridgeF2|1sf21
+POSE bridgeF3|1sf32
+POSE bridgeF4|1sf64
+
+MENU TALK
+SYNC talk1|1ms8
+SYNC talk2|1ms72
+SYNC talk3|1ms19
+SYNC talk4|1ms48
+
+MENU CUDDLE
+SYNC koala kiss|cstm2
+SYNC the hint|cstm5
+SYNC infinity|cstm10
+SYNC his tempo|cstm9
+SYNC lift kiss|shcm14
+SYNC forever us|cstm12
+SYNC mine|cstm23
+SYNC lovely hug|cstm1
+SYNC deep|shcm17
+SYNC my sunshine|cstm8
+
+MENU ORAL
+SYNC top view|4pbm41
+SYNC push lips|4pbm30
+SYNC spark|4pbm36
+SYNC clit sit|4plm13
+SYNC tongue bang|4plm15
+SYNC whitehall|4plm26
+SYNC sixtynine|69-02m
+
+MENU SEX
+SYNC scoop|6stfm19
+SYNC ably|6stfm1
+SYNC grind|6mism17c
+SYNC inspector|rsm40
+SYNC hard doggy|rsm1
+SYNC jockey|rsm18
+SYNC pussy pound|rsm6
+SYNC fast rider|rsm27
+SYNC footfuck|rsm32
+SYNC facial|cumm9
+
+MENU ↓ON DECK↓
+TOMENU ↓SINGLE-M↓
+TOMENU ↓SINGLE-F↓
+TOMENU ↓TALK↓
+TOMENU ↓CUDDLE↓
+TOMENU ↓ORAL↓
+TOMENU ↓SEX↓
+
+MENU ↓SINGLE-M↓
+POSE deckM1|1ms17
+POSE deckM2|1ms27
+POSE deckM3|1ms8
+POSE deckM4|1ms51
+
+MENU ↓SINGLE-F↓
+POSE deckF1|1sf43
+POSE deckF2|1sf12
+POSE deckF3|1sf28
+POSE deckF4|1sf10
+
+MENU ↓TALK↓
+SYNC ↓talk1↓|1ms1
+SYNC ↓talk2↓|1ms27
+SYNC ↓talk3↓|1ms52
+SYNC ↓talk4↓|1ms33
+
+MENU ↓CUDDLE↓
+SYNC glance|6sHcm3
+SYNC kiss flick|csm22
+SYNC could we|csm35
+SYNC venture|csm43
+SYNC stray hands|csm52
+SYNC seduction|clm35
+SYNC wrap me|clm52
+SYNC side kiss|shcm13
+SYNC hold & kiss|shcm10
+SYNC kneeling|csm18
+
+MENU ↓ORAL↓
+SYNC blowjob|s1am2
+SYNC python bj|4pbm15
+SYNC deepthroat|rsm7
+SYNC sit & lick|s1am3
+SYNC down under|4plm8
+SYNC lick 180|4plm2
+SYNC 69|4p6m10
+
+MENU ↓SEX↓
+SYNC V-kneelfuck|s1am4
+SYNC V-layfuck|s1am5
+SYNC jamb|6mism18
+SYNC compact|6mism19
+SYNC ride&rub|rsm39
+SYNC no choice|rsm2
+SYNC in season|rsm14
+SYNC accept|rsm17
+SYNC bolt-in|rsm34
+SYNC cum on deck|cumshM2
+{bridgeM1}<-0.414,-0.992,2.471><0,0,-109>
+{bridgeM2}<0.799,-0.525,1.784><0,0,135>
+{bridgeM3}<0.029,1.434,2.72><0,0,-66>
+{bridgeM4}<-0.046,1.419,1.768><-18.9,1.9,-90>
+{bridgeF1}<0.903,-0.629,3.456><-3.8,-1.4,-143.8>
+{bridgeF2}<0,1.383,1.735><0,0,-90>
+{bridgeF3}<0,1.396,2.773><-4,0,-90>
+{bridgeF4}<-0.068,-0.26,1.804><0,0,90>
+{talk1}<0.568,-0.618,1.758><0,0,123.7>
+{talk2}<0.72,-0.746,1.724><0,0,-90>
+{talk3}<1.034,0.169,1.785><0,0,-139>
+{talk4}<0.486,-0.581,1.797><0,0,127>
+{koala kiss}<0.314,-0.602,2.86><-0.2,1,101.3>
+{the hint}<-0.024,-0.436,2.922><-4,-1,-90>
+{infinity}<0.721,-0.495,1.767><-2,0,-89>
+{his tempo}<0.043,-0.503,2.939><-1,0,-90>
+{lift kiss}<0.04,0.427,2.968><1.4,-2.6,16.2>
+{forever us}<0.043,-0.297,2.901><-1,-0.1,92.5>
+{mine}<-0.067,-0.285,2.952><0,0,-90>
+{lovely hug}<-0.069,-0.382,2.859><0,0,-33>
+{deep}<0.393,0.609,2.862><-0.2,-1.5,-9>
+{my sunshine}<0.142,1.745,2.8><0.3,-1,-75>
+{top view}<0,1.71,2.843><2,0,-90>
+{push lips}<0.062,1.449,2.826><0,0,95.6>
+{spark}<0.032,1.341,1.731><0,0,-90>
+{clit sit}<-0.14,0.971,2.717><0,0,140>
+{tongue bang}<-0.061,0.88,2.766><0,0,158>
+{whitehall}<0.275,0.42,2.842><0,0,-155>
+{sixtynine}<0.011,0.033,2.932><0,0,-90>
+{scoop}<-0.697,-0.499,2.95><0,0,-108>
+{ably}<-0.106,-0.645,2.985><0,0,-79>
+{grind}<-0.347,-0.557,2.834><0,0,-126>
+{inspector}<0.195,-0.305,1.742><1.9,-0.8,66.1>
+{hard doggy}<0.003,0.029,2.779><-6.2,-1.8,-118.7>
+{jockey}<-0.011,-0.028,2.894><0,0,-146.4>
+{pussy pound}<0.567,-0.228,2.627><0.9,0.4,114>
+{fast rider}<0.002,1.366,1.726><0,0,-72>
+{footfuck}<0.775,0.628,2.273><0,0,-137>
+{facial}<-0.169,-0.734,2.986><0,0,73.1>
+{deckM1}<0,-1.552,0.834><0,0,-90>
+{deckM2}<0.158,-1.672,0.791><0,0,-110.2>
+{deckM3}<0.081,-1.128,0.802><-1,0,-90>
+{deckM4}<1.024,-0.919,0.834><0,0,-133.4>
+{deckF1}<0,-1.603,0.803><-7,0,-90>
+{deckF2}<0.066,-1.653,1.293><0,0,-90>
+{deckF3}<-0.038,-1.53,0.779><0,0,-88>
+{deckF4}<1.151,-0.94,1.616><0.9,-0.4,-113>
+{↓talk1↓}<-0.739,-1.412,1.751><-6.5,-5.9,-38.3>
+{↓talk2↓}<0.766,-1.433,0.736><0,0,-85>
+{↓talk3↓}<-0.509,-1.318,0.809><0,0,-20>
+{↓talk4↓}<-0.568,-1.302,0.788><0,0,-74>
+{glance}<0.364,-1.146,0.785><0,0,174.4>
+{kiss flick}<0.626,-1.356,0.996><0.6,3.2,-130.2>
+{could we}<0.581,-1.034,0.969><1,-0.2,-101.2>
+{venture}<1.328,-0.81,0.842><0,0,-125>
+{stray hands}<0.995,-0.817,0.843><0,0,-135>
+{seduction}<0.865,-0.724,0.791><0,-6,90>
+{wrap me}<0.913,-0.105,0.772><0,0,90>
+{side kiss}<0.884,-1.268,1.897><0.9,0.3,121.1>
+{hold & kiss}<-0.393,-1.152,1.906><5.7,-2.3,-85.2>
+{kneeling}<-0.022,-1.479,1.25><0.1,-5.8,3>
+{blowjob}<-0.307,-1.306,0.891><0,0,-86>
+{python bj}<0.683,-0.306,0.79><0,-0.3,-90>
+{deepthroat}<0.759,-0.872,1.865><0,0,-72.2>
+{sit & lick}<-0.758,-1.366,0.864><0,2,-90>
+{down under}<0.277,-0.629,0.805><-2,0,-48.1>
+{lick 180}<0.112,-1.759,1.304><0,-0.6,-90>
+{69}<0.617,-0.439,0.802><0,0,-99>
+{V-kneelfuck}<-0.389,-1.408,0.848><0,0,-71>
+{V-layfuck}<0.724,-0.288,0.832><2,0.1,-176.9>
+{jamb}<0.743,-0.322,1.893><0,0,-89>
+{compact}<0.763,-1.179,1.884><0,0,-140>
+{ride&rub}<0.887,-0.046,0.715><-3.8,1.1,-104.9>
+{no choice}<0.64,-1.062,1.68><4.5,4.2,99.2>
+{in season}<0.142,-1.273,1.813><0,0,-57>
+{accept}<0.171,-1.309,1.903><-0.3,1,-78>
+{bolt-in}<0.717,-1.484,1.937><0,0,93>
+{cum on deck}<0.177,-1.393,1.832><0,0,32.1>
+ANIM 69|express_tongue_out|1.5|express_open_mouth|4
+ANIM top view|express_open_mouth|2|express_cry_emote|4|none|3|express_frown|6
+ANIM push lips|express_open_mouth|2|express_cry_emote|7|none|3|express_disdain|12
+ANIM clit sit|express_tongue_out|1.5|express_open_mouth|4
+ANIM tongue bang|express_tongue_out|1.5|express_open_mouth|4
+ANIM sixtynine|express_tongue_out|1.5|express_open_mouth|4
+ANIM scoop|express_open_mouth|2|express_cry_emote|5|none|1|express_surprise_emote|12
+ANIM ably|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM grind|express_frown|6|none|5|express_cry_emote|9
+ANIM inspector|express_open_mouth|2|express_frown|7|none|2|express_disdain|14
+ANIM facial|express_frown|6|none|5|express_cry_emote|9
+ANIM blowjob|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM python bj|express_open_mouth|2|express_cry_emote|5|none|1|express_surprise_emote|12
+ANIM sit & lick|express_tongue_out|1.5|express_open_mouth|4
+ANIM lick 180|express_tongue_out|1.5|express_open_mouth|4
+ANIM V-kneelfuck|express_cry_emote|4|none|10|express_worry_emote|6
+ANIM V-layfuck|express_open_mouth|2|none|2|express_worry_emote|8|express_disdain|12
+ANIM jamb|express_open_mouth|2|express_frown|7|none|2|express_disdain|14
+ANIM compact|express_open_mouth|2|none|2|express_worry_emote|8|express_disdain|12
+ANIM ride&rub|express_cry_emote|4|none|10|express_worry_emote|6
+ANIM cum on deck|express_frown|6|none|5|express_cry_emote|9
+ANIM hard doggy|express_open_mouth|2|none|2|express_worry_emote|8|express_disdain|12
+ANIM pussy pound|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM jockey|express_open_mouth|2|express_frown|7|none|2|express_disdain|14
+ANIM fast rider|express_frown|6|none|5|express_cry_emote|9
+ANIM footfuck|express_open_mouth|2|none|2|express_worry_emote|8|express_disdain|12
+ANIM no choice|express_frown|6|none|5|express_cry_emote|9
+ANIM in season|express_open_mouth|2|express_frown|7|none|2|express_disdain|14
+ANIM accept|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM bolt-in|express_cry_emote|4|none|10|express_worry_emote|6
+ANIM deepthroat|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM spark|express_open_mouth|2|express_frown|5|express_worry_emote|12
+ANIM down under|express_tongue_out|1.5|express_open_mouth|4
+ANIM whitehall|express_tongue_out|1.5|express_open_mouth|4
+
+SITTER 1
+
+TOMENU ON BRIDGE
+TOMENU ↓ON DECK↓
+
+MENU ON BRIDGE
+TOMENU TALK
+TOMENU CUDDLE
+TOMENU ORAL
+TOMENU SEX
+
+MENU TALK
+SYNC talk1|1sf13
+SYNC talk2|1sf44
+SYNC talk3|1sf25
+SYNC talk4|1sf61
+
+MENU CUDDLE
+SYNC koala kiss|cstf2
+SYNC the hint|cstf5
+SYNC infinity|cstf10
+SYNC his tempo|cstf9
+SYNC lift kiss|shcf14
+SYNC forever us|cstF12
+SYNC mine|cstf23
+SYNC lovely hug|cstf1
+SYNC deep|shcf17
+SYNC my sunshine|cstF8
+
+MENU ORAL
+SYNC top view|4pbf41
+SYNC push lips|4pbf30
+SYNC spark|4pbf36
+SYNC clit sit|4plf13
+SYNC tongue bang|4plf15
+SYNC sixtynine|69-02f
+
+MENU SEX
+SYNC ably|6stff1
+SYNC scoop|6stff19
+SYNC grind|6misf17c
+SYNC inspector|rsf40
+SYNC hard doggy|rsf1
+SYNC jockey|rsf18
+SYNC pussy pound|rsf6
+SYNC fast rider|rsf27
+SYNC footfuck|rsf32
+SYNC facial|cumf9
+
+MENU ↓ON DECK↓
+TOMENU ↓TALK↓
+TOMENU ↓CUDDLE↓
+TOMENU ↓ORAL↓
+TOMENU ↓SEX↓
+
+MENU ↓TALK↓
+SYNC ↓talk1↓|1sf35
+SYNC ↓talk2↓|1sf28
+SYNC ↓talk3↓|1sf62
+SYNC ↓talk4↓|1sf67
+
+MENU ↓CUDDLE↓
+SYNC glance|6sHcf3
+SYNC kiss flick|csf22
+SYNC could we|csf35
+SYNC venture|csf43
+SYNC stray hands|csf52
+SYNC seduction|clf35
+SYNC wrap me|clf52
+SYNC side kiss|shcf13
+SYNC hold & kiss|shcf10
+SYNC kneeling|csf18
+
+MENU ↓ORAL↓
+SYNC blowjob|s1af2
+SYNC python bj|4pbf15
+SYNC deepthroat|rsf7
+SYNC sit & lick|s1af3
+SYNC down under|4plf8
+SYNC lick 180|4plf2
+SYNC whitehall|4plf26
+SYNC 69|4p6f10
+
+MENU ↓SEX↓
+SYNC V-kneelfuck|s1af4
+SYNC V-layfuck|s1af5
+SYNC jamb|6misf18
+SYNC compact|6misf19
+SYNC ride&rub|rsf39
+SYNC no choice|rsf2
+SYNC in season|rsf14
+SYNC accept|rsf17
+SYNC bolt-in|rsf34
+SYNC cum on deck|cumshF2
+{talk1}<-0.677,-0.507,2.693><1.5,-1.2,50.6>
+{talk2}<-0.412,-0.657,1.79><-11,0,-95.6>
+{talk3}<-0.627,-0.012,1.71><-4.1,-2.8,-56.3>
+{talk4}<-0.602,-0.643,1.822><0,0,65.1>
+{koala kiss}<0.264,-0.614,2.929><0,-0.3,101.3>
+{the hint}<-0.021,-0.717,2.919><-0.4,-0.6,-89.9>
+{infinity}<0.396,-0.528,1.781><-2,0,-89>
+{his tempo}<0.094,-0.69,2.894><-0.1,0.6,-84.4>
+{lift kiss}<0.182,0.391,3.221><4.4,-10.3,4.4>
+{forever us}<0.039,-0.487,2.882><2.9,-0.5,83>
+{mine}<-0.067,-0.516,2.892><0,0,95.6>
+{lovely hug}<0.127,-0.51,2.789><0,0,147>
+{deep}<0.496,0.655,2.95><3.7,-1,-0.1>
+{my sunshine}<0.11,1.766,2.916><-1.3,3.2,-75>
+{top view}<0,1.272,2.07><2,0,90>
+{push lips}<0.075,1.363,2.704><0,0,-84.4>
+{spark}<0.032,0.634,1.731><0,0,90>
+{clit sit}<-0.447,1.236,3.498><0,0,-40>
+{tongue bang}<-0.686,1.124,2.734><0,0,-22>
+{sixtynine}<-0.001,-0.951,2.884><0,0,-90>
+{ably}<-0.111,-0.848,2.797><0,0,101>
+{scoop}<-0.756,-0.682,3.204><0,0,-108>
+{grind}<-0.431,-0.727,2.75><0,0,54>
+{inspector}<0.318,-0.03,2.053><-2.7,1.2,66.1>
+{hard doggy}<-0.039,-0.074,2.76><-1.8,-3.8,-117.5>
+{jockey}<-0.183,-0.158,2.76><0,0,-143>
+{pussy pound}<0.547,-0.187,2.378><0,0,114>
+{fast rider}<0.06,1.186,2.166><0,0,-72>
+{footfuck}<0.082,-0.018,1.723><0,0,-137>
+{facial}<-0.13,-0.432,2.861><0,0,-106.9>
+{↓talk1↓}<0.569,-1.482,0.767><-5.5,4.8,-97.1>
+{↓talk2↓}<-0.425,-1.425,0.74><-3.9,-0.6,-80.9>
+{↓talk3↓}<1.005,-1.005,0.798><-8.3,5.7,-124.4>
+{↓talk4↓}<0.759,-0.994,0.871><-1.2,-1.6,-126>
+{glance}<0.333,-1.456,0.785><0,0,174.4>
+{kiss flick}<0.575,-1.394,1.054><3.3,3,-133.3>
+{could we}<0.551,-1.259,0.97><1,-0.2,-101.2>
+{venture}<1.19,-1.007,0.825><0,0,-125>
+{stray hands}<0.837,-0.976,0.804><0,0,-135>
+{seduction}<0.595,-0.779,0.75><0,-5.9,94>
+{wrap me}<0.545,-0.105,0.772><0,0,90>
+{side kiss}<0.901,-1.313,1.929><0.1,-0.1,115>
+{hold & kiss}<-0.375,-1.155,1.983><8,-2.3,-89.9>
+{kneeling}<0.284,-1.463,1.307><0.1,-5.8,3>
+{blowjob}<0.162,-1.273,0.891><0,0,-86>
+{python bj}<0.674,-1.033,0.759><0,-0.3,-90>
+{deepthroat}<0.612,-0.483,1.717><0,0,107.8>
+{sit & lick}<-0.339,-1.373,0.894><0,5,-90>
+{down under}<-0.193,0.124,0.776><-2,0,-48.1>
+{lick 180}<0.102,-1.904,1.216><2.2,-0.7,-88.4>
+{whitehall}<-0.275,0.163,2.73><0,0,25>
+{69}<0.699,0.079,1.135><0,0,-99>
+{V-kneelfuck}<0.056,-1.255,0.848><0,0,-71>
+{V-layfuck}<0.753,-0.82,0.904><0,0,-176.9>
+{jamb}<0.739,-0.125,1.8><-3,-0.1,-89>
+{compact}<0.642,-1.28,1.811><3.2,-3.8,40.1>
+{ride&rub}<0.92,-0.01,0.932><-10.8,2.5,-104.7>
+{no choice}<0.643,-1.051,1.721><5,4.1,100.2>
+{in season}<0.206,-1.371,1.69><0,0,-57>
+{accept}<0.197,-1.478,1.827><-1.9,-0.6,-73.3>
+{bolt-in}<0.699,-1.143,1.741><0,0,-87>
+{cum on deck}<0.611,-1.148,1.776><2.1,-3.4,32.2>
+ANIM spark|express_open_mouth|1|express_surprise_emote|4
+ANIM 69|express_open_mouth|1|express_surprise_emote|4
+ANIM no choice|express_cry_emote|2|express_anger_emote|6|none|2|express_surprise_emote|7
+ANIM in season|express_cry_emote|2|express_sad_emote|8|express_shrug_emote|9
+ANIM accept|express_open_mouth|1|express_surprise_emote|4
+ANIM bolt-in|express_cry_emote|2|express_bored_emote|7|none|3|express_open_mouth|5
+ANIM deepthroat|express_open_mouth|1|express_surprise_emote|4
+ANIM hard doggy|express_cry_emote|2|express_anger_emote|6|none|2|express_shrug_emote|12
+ANIM pussy pound|express_cry_emote|2|express_bored_emote|7|none|3|express_open_mouth|5
+ANIM jockey|express_cry_emote|2|express_anger_emote|6|none|2|express_shrug_emote|12
+ANIM fast rider|express_cry_emote|2|express_sad_emote|8|express_shrug_emote|9
+ANIM footfuck|express_cry_emote|2|express_anger_emote|6|none|2|express_open_mouth
+ANIM top view|express_open_mouth|1|express_surprise_emote|4
+ANIM push lips|express_open_mouth|1|express_surprise_emote|4
+ANIM clit sit|express_cry_emote|2|express_anger_emote|6|none|2|express_bored_emote|15
+ANIM tongue bang|express_cry_emote|2|express_sad_emote|8|none|2|express_shrug_emote|11
+ANIM sixtynine|express_open_mouth|1|express_surprise_emote|4
+ANIM scoop|express_cry_emote|2|express_anger_emote|6|none|2|express_shrug_emote|12
+ANIM ably|express_cry_emote|2|express_anger_emote|6|none|2|express_surprise_emote|7
+ANIM grind|express_cry_emote|2|express_sad_emote|8|express_shrug_emote|9
+ANIM inspector|express_cry_emote|2|express_bored_emote|7|none|3|express_open_mouth|5
+ANIM facial|express_cry_emote|2|express_anger_emote|6|none|2|express_surprise_emote|7
+ANIM Bblowjob|express_open_mouth|1|express_surprise_emote|4
+ANIM python bj|express_open_mouth|1|express_surprise_emote|4
+ANIM sit & lick|express_cry_emote|2|express_open_mouth|none|express_embarrassed_emote|express_sad_emote|express_smile
+ANIM lick 180|express_cry_emote|2|express_anger_emote|6|none|2|express_bored_emote|15
+ANIM V-kneelfuck|express_cry_emote|2|express_anger_emote|6|none|2|express_shrug_emote|12
+ANIM V-layfuck|express_cry_emote|2|express_bored_emote|7|none|3|express_open_mouth|5
+ANIM jamb|express_cry_emote|2|express_sad_emote|8|none|2|express_shrug_emote|11
+ANIM compact|express_cry_emote|2|express_sad_emote|8|express_shrug_emote|9
+ANIM ride&Rub|express_cry_emote|2|express_anger_emote|6|none|2|express_open_mouth
+ANIM cum on deck|express_cry_emote|2|express_open_mouth|none|express_embarrassed_emote|express_sad_emote|express_smile
+ANIM down under|express_cry_emote|2|express_sad_emote|8|express_shrug_emote|9
+ANIM whitehall|express_cry_emote|2|express_open_mouth|none|express_embarrassed_emote|express_sad_emote|express_smile}
+ 

@@ -1,0 +1,33 @@
+LLWearable version 22
+CAF Omalo Gloves WIT
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	35686d58-6e5d-7a3a-09a3-8d613b6faed1
+		owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		last_owner_id	35686d58-6e5d-7a3a-09a3-8d613b6faed1
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 9
+parameters 9
+93 .8
+827 1
+829 1
+830 1
+844 1
+1058 .8
+1059 .8
+1060 1
+1061 1
+textures 1
+15 7c885632-9dfe-42af-9d1f-1b07d12ea47b

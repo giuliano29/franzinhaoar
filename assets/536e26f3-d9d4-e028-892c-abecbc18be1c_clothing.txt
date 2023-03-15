@@ -1,0 +1,34 @@
+LLWearable version 22
+Brown Suede Blazer with blue shirt
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	0a3e1950-33c2-4d98-9c89-f017aef3c4e4
+		owner_id	0a3e1950-33c2-4d98-9c89-f017aef3c4e4
+		last_owner_id	0a3e1950-33c2-4d98-9c89-f017aef3c4e4
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 9
+606 .85
+607 .85
+608 1
+609 1
+780 .86
+834 1
+835 1
+836 1
+877 0
+textures 2
+13 ed1579f0-de11-455c-b08f-78b2de2973b7
+14 e793262d-3161-42f0-a039-a4ff5bf666b9

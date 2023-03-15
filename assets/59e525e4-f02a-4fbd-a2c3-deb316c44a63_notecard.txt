@@ -1,0 +1,122 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 3950
+<llsd>
+  <map>
+    <key>serial</key>
+    <integer>0</integer>
+    <key>height</key>
+    <real>2.1590280532836914</real>
+    <key>wearables</key>
+    <array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>4502b268-56d2-4118-9a35-f1cc1b102b65</uuid>
+          <key>asset</key>
+          <uuid>9f0955c2-6b20-1166-4265-e5de8d941c58</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>65572a4a-31d9-4f66-b328-777fce6e2651</uuid>
+          <key>asset</key>
+          <uuid>dd6e1c8c-67df-fa51-23a8-5b7e407e996b</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>6d65a890-8718-4e4f-8a50-07712e3c6c1d</uuid>
+          <key>asset</key>
+          <uuid>af8c41cd-feb9-8a97-6c0c-910df610d85d</uuid>
+        </map>
+      </array>
+      <array>
+        <map>
+          <key>item</key>
+          <uuid>ec11c7b6-116c-4509-8a1e-a6bdbab7fa2d</uuid>
+          <key>asset</key>
+          <uuid>2a06b0a8-afaf-e634-8322-4b388213fb68</uuid>
+        </map>
+      </array>
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+      <array />
+    </array>
+    <key>textures</key>
+    <array>
+      <uuid>46697265-7374-6f72-6d00-000000000000</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>0ac59db8-c2c4-41df-9385-d933f6d6018b</uuid>
+      <uuid>4c6f074c-98e4-4548-8402-52e0752b1d7e</uuid>
+      <uuid>f7872ec6-a7cf-4235-a9d1-debd1f56ffde</uuid>
+      <uuid>2ef67996-91a9-43c4-8a64-69d4430898dd</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>c228d1cf-4b5d-4ba8-84f4-899a0796aa97</uuid>
+      <uuid>82dd4626-5cc3-4a48-bc8d-e2dcb3fca8b9</uuid>
+    </array>
+    <key>visualparams</key>
+    <binary encoding="base64">LR5YfzNrAHAhM0dmK39CJn8wPQArZn91AP9oP7SZZv/Lf3+tAAB/AAAAAAAAADMAfwAAAH9/AAAAMgAqAAAAAAAAAAAAMgAAADAAbWAeLX+CkA8AOgBRRWTY1sz/zP8AWUzMGTMAAH9/aGDMTCF/Zn9/f39/fzrRxpBRHmbMjD8AAAAAf38AAAAAfwCfAAAAfz8ATD+eXoEh/wB/AHJ/ANb/xgAApSZ/4v/G////////////5QD//////////////wD//////wCHjv8ZZP////9UAAAAi1H///8AABkAGRczABkXMwAAGQAZFzMAABkAGRczABkXMwAZFzMAfw==</binary>
+    <key>attachments</key>
+    <array>
+      <map>
+        <key>point</key>
+        <integer>27</integer>
+        <key>item</key>
+        <uuid>5a1ccd14-28c4-4a22-8d8f-45dc88ef993d</uuid>
+        <key>asset</key>
+        <uuid>2cb307f7-6b22-4d79-a9cb-b19b4155cd24</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>11</integer>
+        <key>item</key>
+        <uuid>b0ee18a7-da9d-450d-a938-924bf6529695</uuid>
+        <key>asset</key>
+        <uuid>fab12a79-39f0-4139-b3c6-51a8eb954729</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>24</integer>
+        <key>item</key>
+        <uuid>450eec38-b009-4cf1-9aa3-32d7cafb775f</uuid>
+        <key>asset</key>
+        <uuid>c9318b35-5e18-43a2-bd26-00a4f8cc3d40</uuid>
+      </map>
+      <map>
+        <key>point</key>
+        <integer>2</integer>
+        <key>item</key>
+        <uuid>1f5895a5-7fee-4ecd-8cdb-1d96bcce0947</uuid>
+        <key>asset</key>
+        <uuid>7cd5f0a8-0140-4eea-a8f8-e219f5dc4584</uuid>
+      </map>
+    </array>
+  </map>
+</llsd>}

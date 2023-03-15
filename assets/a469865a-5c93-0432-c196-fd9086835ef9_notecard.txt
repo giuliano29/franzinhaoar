@@ -1,0 +1,245 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 16306
+◆
+[02:56] Floria-Sofa: ◆SITTER 0|
+◆BUTTON WEARABLES|0
+[02:56] Floria-Sofa: ◆TOMENU ㋡SITTING L
+[02:56] Floria-Sofa: ◆TOMENU ❊MISC
+[02:56] Floria-Sofa: ◆TOMENU ♥LOVERS F
+[02:56] Floria-Sofa: ◆MENU ㋡SITTING L
+[02:56] Floria-Sofa: ◆TOMENU ★FEMALE
+[02:56] Floria-Sofa: ◆TOMENU ★MALE
+[02:56] Floria-Sofa: ◆MENU ★FEMALE
+[02:56] Floria-Sofa: ◆POSE F1 left|aRf01seqb
+[02:56] Floria-Sofa: ◆POSE F2 left|aRf02seqb
+[02:56] Floria-Sofa: ◆POSE F3 left|aRf03seq
+[02:56] Floria-Sofa: ◆POSE F4 left|poseseqF03Ab
+[02:56] Floria-Sofa: ◆POSE F5 left|poseseqF03B
+[02:56] Floria-Sofa: ◆POSE F6 left|poseseqF03C
+[02:56] Floria-Sofa: ◆POSE F7 left|sitseqfdm04A
+[02:56] Floria-Sofa: ◆POSE F8 left|sitseqfdm04B
+[02:56] Floria-Sofa: ◆POSE F9 left|sitseqfdm04C
+[02:56] Floria-Sofa: ◆MENU ★MALE
+[02:56] Floria-Sofa: ◆POSE M1 left|ARM01b
+[02:56] Floria-Sofa: ◆POSE M2 left|ARM02B
+[02:56] Floria-Sofa: ◆POSE M3 left|ARM03b
+[02:56] Floria-Sofa: ◆POSE M4 left|poseseqM04Ac
+[02:56] Floria-Sofa: ◆POSE M5 left|poseseqM04Bb
+[02:56] Floria-Sofa: ◆POSE M6 left|poseseqM04Cb
+[02:56] Floria-Sofa: ◆POSE M7 left|poseseqM05Ad
+[02:56] Floria-Sofa: ◆POSE M8 left|poseseqM05Bb
+[02:56] Floria-Sofa: ◆POSE M9 left|poseseqM05Cb
+[02:56] Floria-Sofa: ◆MENU ❊MISC
+[02:56] Floria-Sofa: ◆POSE M Coffee|AMcoffee
+[02:56] Floria-Sofa: ◆POSE M Read|AMreading
+[02:56] Floria-Sofa: ◆POSE M Popcorn|M CouchEat
+[02:56] Floria-Sofa: ◆POSE M Read2|reading dm02
+[02:56] Floria-Sofa: ◆POSE F Coffee|F CouchCoffee
+[02:56] Floria-Sofa: ◆POSE F Popcorn|F CouchEat
+[02:56] Floria-Sofa: ◆POSE F Read|F CouchRead
+[02:56] Floria-Sofa: ◆POSE F Read2|readF
+[02:56] Floria-Sofa: ◆MENU ♥LOVERS F
+[02:56] Floria-Sofa: ◆TOMENU ♥CUDDLES
+[02:56] Floria-Sofa: ◆TOMENU ♥KISSES
+[02:56] Floria-Sofa: ◆MENU ♥CUDDLES
+[02:57] Floria-Sofa: ◆SYNC HeartOfMine|F HeartOfMine
+[02:56] Floria-Sofa: ◆SYNC OneLove|F OneLove
+[02:56] Floria-Sofa: ◆SYNC YouAreMine|F YouAreMine
+[02:57] Floria-Sofa: ◆SYNC Squeezed|F Squeezed
+[02:56] Floria-Sofa: ◆SYNC HereWithYou|F herewithyou
+[02:56] Floria-Sofa: ◆SYNC Sweetheart|F 1sf
+[02:56] Floria-Sofa: ◆SYNC LittleThings|F LittleThings
+[02:57] Floria-Sofa: ◆SYNC WithAllMy♥|@F LVS2 Kiss1
+[02:56] Floria-Sofa: ◆SYNC In2You|F 3sf
+[02:56] Floria-Sofa: ◆SYNC FeelSoRight|F FeelSoRight
+[02:56] Floria-Sofa: ◆SYNC SecretLovers|F SecretLovers
+[02:57] Floria-Sofa: ◆MENU ♥KISSES
+[02:57] Floria-Sofa: ◆SYNC InYourEyes|F InYourEyes
+[02:57] Floria-Sofa: ◆SYNC SoBeautiful|F SoBeautifulV2
+[02:57] Floria-Sofa: ◆SYNC NeverLeaveMe|F NeverLeaveMe
+[02:57] Floria-Sofa: ◆SYNC LittleCloser|F Comealittlecloser
+[02:57] Floria-Sofa: ◆SYNC MyLove|F 7sf
+[02:57] Floria-Sofa: ◆SYNC ByYourSide|F 2sf
+[02:57] Floria-Sofa: ◆SYNC ThisMoment|#F LVS Kiss
+[02:57] Floria-Sofa: ◆SYNC INeedYou|@F LVS2 Kiss2
+[02:57] Floria-Sofa: ◆SYNC Endless|F 8sf
+[02:57] Floria-Sofa: ◆SYNC FeelSoClose|F FeelSoClose
+[02:57] Floria-Sofa: ◆SYNC MeltAway|F MeltAway
+[02:57] Floria-Sofa: ◆SYNC TheLovers|F TheLovers
+[02:57] Floria-Sofa: ◆SYNC Seduction|F Seduction
+[02:57] Floria-Sofa: ◆SYNC Kisses4ever|F KissesForever
+[02:57] Floria-Sofa: ◆{F1 left}<0.872220, 0.269990, 1.230960><-13.868570, -1.926410, 105.766400>
+[02:57] Floria-Sofa: ◆{F2 left}<0.872220, 0.269960, 1.245610><-13.868710, -1.926330, 105.767000>
+[02:57] Floria-Sofa: ◆{F3 left}<0.872220, 0.166870, 1.244630><-11.537380, 7.976460, 63.803260>
+[02:57] Floria-Sofa: ◆{F4 left}<0.730390, 0.120120, 1.363770><0.000000, 0.000000, 100.003200>
+[02:57] Floria-Sofa: ◆{F5 left}<0.730390, 0.120120, 1.363770><0.000000, 0.000000, 100.003200>
+[02:57] Floria-Sofa: ◆{F6 left}<0.730390, 0.120160, 1.381350><0.000000, 0.000000, 100.002800>
+[02:57] Floria-Sofa: ◆{F7 left}<0.707590, 0.190060, 1.231200><0.000000, 0.000000, 89.003180>
+[02:57] Floria-Sofa: ◆{F8 left}<0.707590, 0.190060, 1.231200><0.000000, 0.000000, 89.003180>
+[02:57] Floria-Sofa: ◆{F9 left}<0.707590, 0.131200, 1.278810><0.000000, 0.000000, 89.003340>
+[02:57] Floria-Sofa: ◆{M1 left}<0.928960, 0.279980, 1.269530><1.582690, 8.860820, 105.866400>
+[02:57] Floria-Sofa: ◆{M2 left}<0.982410, 0.244660, 1.292730><-1.571610, 8.861940, 126.113800>
+[02:57] Floria-Sofa: ◆{M3 left}<0.655510, -0.031910, 1.240720><0.000000, 0.000000, 73.996090>
+[02:57] Floria-Sofa: ◆{M4 left}<0.624600, 0.144060, 1.389650><-12.418100, -6.524080, 125.292900>
+[02:57] Floria-Sofa: ◆{M5 left}<0.624600, 0.144060, 1.389650><-12.418100, -6.524080, 125.292900>
+[02:57] Floria-Sofa: ◆{M6 left}<0.624600, 0.144060, 1.389650><-12.418100, -6.524080, 125.292900>
+[02:57] Floria-Sofa: ◆{M7 left}<0.872220, 0.269960, 1.368410><-13.868710, -1.926330, 105.767000>
+[02:57] Floria-Sofa: ◆{M8 left}<0.872220, 0.269960, 1.368410><-13.868710, -1.926330, 105.767000>
+[02:57] Floria-Sofa: ◆{M9 left}<0.872220, 0.269960, 1.368410><-13.868710, -1.926330, 105.767000>
+[02:57] Floria-Sofa: ◆{M Coffee}<0.821080, -0.032270, 1.282230><9.122850, 1.256480, 125.512700>
+[02:57] Floria-Sofa: ◆{M Read}<0.735370, -0.002880, 1.298340><8.141750, -4.313770, 90.000000>
+[02:57] Floria-Sofa: ◆{M Popcorn}<0.600190, -0.071670, 0.814940><-11.879860, 0.000800, 89.382670>
+[02:57] Floria-Sofa: ◆{M Read2}<0.695970, 0.047990, 1.144780><5.779910, -0.698650, 87.944230>
+[02:57] Floria-Sofa: ◆{F Coffee}<0.809940, -0.017870, 0.775390><1.235310, 0.771720, 121.986700>
+[02:57] Floria-Sofa: ◆{F Popcorn}<0.712810, 0.049360, 0.775640><1.330450, 0.592500, 113.988300>
+[02:57] Floria-Sofa: ◆{F Read}<0.795690, -0.043720, 0.775640><1.258610, -0.727210, 60.005810>
+[02:57] Floria-Sofa: ◆{F Read2}<0.795690, 0.291320, 1.008300><1.423780, 0.283010, 101.246500>
+[02:57] Floria-Sofa: ◆{In2You}<0.085020, 0.166600, 0.859860><0.006490, -1.858890, 90.000130>
+[02:57] Floria-Sofa: ◆{YouAreMine}<-0.334970, 0.007740, 0.852050><-0.591130, -1.833910, 87.756950>
+[02:57] Floria-Sofa: ◆{FeelSoRight}<0.707090, 0.016740, 0.776610><-0.518650, -1.855640, 89.999730>
+[02:57] Floria-Sofa: ◆{OneLove}<-0.283440, 0.030140, 0.764650><-0.518650, -1.855640, 89.999730>
+[02:57] Floria-Sofa: ◆{LittleThings}<-0.574990, -0.143680, 0.732910><-1.754690, -0.607280, 18.986960>
+[02:57] Floria-Sofa: ◆{Sweetheart}<-0.439250, 0.157460, 0.866700><-1.855320, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{HereWithYou}<-0.743880, 0.225160, 0.824950><-1.855280, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{SecretLovers}<0.252990, 0.206450, 0.937740><-1.859900, -0.002290, -0.000040>
+[02:57] Floria-Sofa: ◆{HeartOfMine}<-0.346090, 0.146330, 0.751950><0.004860, 0.000000, 89.994340>
+[02:57] Floria-Sofa: ◆{Squeezed}<-0.726530, -0.058030, 1.112060><0.000000, 0.000000, 47.997550>
+[02:57] Floria-Sofa: ◆{WithAllMy♥}<-0.034750, 0.813430, 0.800780><0.000000, 0.000000, -90.000010>
+[02:57] Floria-Sofa: ◆{NeverLeaveMe}<0.710490, 0.142760, 0.780030><0.008100, 0.000000, 90.000010>
+[02:57] Floria-Sofa: ◆{SoBeautiful}<0.504440, 0.541500, 0.767820><-0.005730, -0.005730, 0.000000>
+[02:57] Floria-Sofa: ◆{FeelSoClose}<-0.594440, 0.079930, 0.736820><-0.005730, -0.005730, 0.000000>
+[02:57] Floria-Sofa: ◆{MeltAway}<-0.433370, 0.203230, 1.051030><-0.008770, -6.005250, -0.000460>
+[02:57] Floria-Sofa: ◆{Seduction}<-0.579000, 0.103970, 0.779300><-0.012230, -0.000530, -3.997240>
+[02:57] Floria-Sofa: ◆{TheLovers}<-0.425740, 0.255720, 0.922610><-0.012610, -0.001150, 0.000000>
+[02:57] Floria-Sofa: ◆{LittleCloser}<0.275590, 0.197450, 0.879640><-0.002490, -0.014830, 71.002460>
+[02:57] Floria-Sofa: ◆{ByYourSide}<0.282040, 0.176640, 0.700200><1.716900, 6.787740, 165.898200>
+[02:57] Floria-Sofa: ◆{MyLove}<0.811560, 0.184040, 0.712890><0.005150, -4.014140, 111.000900>
+[02:57] Floria-Sofa: ◆{Endless}<-0.463440, 0.022230, 0.729740><0.000000, -0.014590, 90.000010>
+[02:57] Floria-Sofa: ◆{Kisses4ever}<-0.187970, 0.340240, 0.730470><-12.028720, 0.005990, 0.000630>
+[02:57] Floria-Sofa: ◆{InYourEyes}<-0.007860, 0.195430, 0.774900><-1.859900, -0.002290, -0.000040>
+[02:57] Floria-Sofa: ◆{ThisMoment}<0.018690, 0.430880, 0.758300><0.004860, 0.000000, 89.994340>
+[02:57] Floria-Sofa: ◆{INeedYou}<-0.034750, 0.813430, 0.800780><0.000000, 0.000000, -90.000010>
+[02:57] Floria-Sofa: ◆
+[02:57] Floria-Sofa: ◆SITTER 1|
+◆BUTTON WEARABLES|0
+[02:57] Floria-Sofa: ◆TOMENU ㋡SITTING R
+[02:57] Floria-Sofa: ◆TOMENU →MISC
+[02:57] Floria-Sofa: ◆TOMENU ♥LOVERS M
+[02:57] Floria-Sofa: ◆MENU ㋡SITTING R
+[02:57] Floria-Sofa: ◆TOMENU →FEMALE
+[02:57] Floria-Sofa: ◆TOMENU →MALE
+[02:57] Floria-Sofa: ◆MENU →FEMALE
+[02:57] Floria-Sofa: ◆POSE F1 right|LF01c
+[02:57] Floria-Sofa: ◆POSE F2 right|LF02
+[02:57] Floria-Sofa: ◆POSE F3 right|LF03
+[02:57] Floria-Sofa: ◆POSE F4 right|poseseqF05Ac
+[02:57] Floria-Sofa: ◆POSE F5 right|poseseqF05B
+[02:57] Floria-Sofa: ◆POSE F6 right|poseseqF05C
+[02:57] Floria-Sofa: ◆POSE F7 right|poseseqF01Ac
+[02:57] Floria-Sofa: ◆POSE F8 right|poseseqF01Bb
+[02:57] Floria-Sofa: ◆POSE F9 right|poseseqF01C
+[02:57] Floria-Sofa: ◆MENU →MALE
+[02:57] Floria-Sofa: ◆POSE M1 right|ALM01c
+[02:57] Floria-Sofa: ◆POSE M2 right|ALM02b
+[02:57] Floria-Sofa: ◆POSE M3 right|ALM03b
+[02:57] Floria-Sofa: ◆POSE M4 right|poseseqM03Ab
+[02:57] Floria-Sofa: ◆POSE M5 right|poseseqM03B
+[02:57] Floria-Sofa: ◆POSE M6 right|poseseqM03C
+[02:57] Floria-Sofa: ◆POSE M7 right|sitseqmdm04A
+[02:57] Floria-Sofa: ◆POSE M8 right|sitseqmdm04B
+[02:57] Floria-Sofa: ◆POSE M9 right|sitseqmdm04C
+[02:57] Floria-Sofa: ◆MENU →MISC
+[02:57] Floria-Sofa: ◆POSE →M Coffee|AMcoffee
+[02:57] Floria-Sofa: ◆POSE →M Read|AMreading
+[02:57] Floria-Sofa: ◆POSE →M Popcorn|M CouchEat
+[02:57] Floria-Sofa: ◆POSE →M Read2|reading dm02
+[02:57] Floria-Sofa: ◆POSE →F Coffee|F CouchCoffee
+[02:57] Floria-Sofa: ◆POSE →F Popcorn|F CouchEat
+[02:57] Floria-Sofa: ◆POSE →F Read|readF
+[02:57] Floria-Sofa: ◆MENU ♥LOVERS M
+[02:57] Floria-Sofa: ◆TOMENU ♥CUDDLES
+[02:57] Floria-Sofa: ◆TOMENU ♥KISSES
+[02:57] Floria-Sofa: ◆MENU ♥CUDDLES
+[02:57] Floria-Sofa: ◆SYNC HeartOfMine|M HeartOfMine
+[02:57] Floria-Sofa: ◆SYNC OneLove|M OneLove
+[02:57] Floria-Sofa: ◆SYNC YouAreMine|M YouAreMine
+[02:57] Floria-Sofa: ◆SYNC Squeezed|M Squeezed
+[02:57] Floria-Sofa: ◆SYNC HereWithYou|M herewithyou
+[02:57] Floria-Sofa: ◆SYNC Sweetheart|M 1sf
+[02:57] Floria-Sofa: ◆SYNC LittleThings|M LittleThings
+[02:57] Floria-Sofa: ◆SYNC WithAllMy♥|@M LVS2 Kiss1
+[02:57] Floria-Sofa: ◆SYNC In2You|M 3sf
+[02:57] Floria-Sofa: ◆SYNC FeelSoRight|M FeelSoRight
+[02:57] Floria-Sofa: ◆SYNC SecretLovers|M SecretLovers
+[02:57] Floria-Sofa: ◆MENU ♥KISSES
+[02:57] Floria-Sofa: ◆SYNC InYourEyes|M InYourEyes
+[02:57] Floria-Sofa: ◆SYNC SoBeautiful|M SoBeautifulV2
+[02:57] Floria-Sofa: ◆SYNC NeverLeaveMe|M NeverLeaveMe
+[02:57] Floria-Sofa: ◆SYNC LittleCloser|M Comealittlecloser
+[02:57] Floria-Sofa: ◆SYNC MyLove|M 7sf
+[02:57] Floria-Sofa: ◆SYNC ByYourSide|M 2sf
+[02:57] Floria-Sofa: ◆SYNC ThisMoment|#M LVS Kiss
+[02:57] Floria-Sofa: ◆SYNC INeedYou|@M LVS2 Kiss2
+[02:57] Floria-Sofa: ◆SYNC Endless|M 8sf
+[02:57] Floria-Sofa: ◆SYNC FeelSoClose|M FeelSoClose
+[02:57] Floria-Sofa: ◆SYNC MeltAway|M MeltAway
+[02:57] Floria-Sofa: ◆SYNC TheLovers|M TheLovers
+[02:57] Floria-Sofa: ◆SYNC Seduction|M Seduction
+[02:57] Floria-Sofa: ◆SYNC Kisses4ever|M KissesForever
+[02:57] Floria-Sofa: ◆{F1 right}<-0.943990, 0.168960, 1.245850><0.000000, 0.000000, 77.753190>
+[02:57] Floria-Sofa: ◆{F2 right}<-0.943990, 0.027740, 1.245850><0.000000, 0.000000, 77.753610>
+[02:57] Floria-Sofa: ◆{F3 right}<-0.859850, 0.168960, 1.245850><0.000000, 0.000000, 101.755700>
+[02:57] Floria-Sofa: ◆{F4 right}<-0.770570, 0.190060, 1.354000><0.000000, 0.000000, 72.128200>
+[02:57] Floria-Sofa: ◆{F5 right}<-0.770570, 0.190060, 1.354000><0.000000, 0.000000, 72.128200>
+[02:57] Floria-Sofa: ◆{F6 right}<-0.770570, 0.190060, 1.354000><0.000000, 0.000000, 72.128200>
+[02:57] Floria-Sofa: ◆{F7 right}<-0.800960, 0.262990, 1.315670><-2.886510, 0.820760, 72.150860>
+[02:57] Floria-Sofa: ◆{F8 right}<-0.800960, 0.262990, 1.315670><-2.886510, 0.820760, 72.150860>
+[02:57] Floria-Sofa: ◆{F9 right}<-0.800960, 0.130330, 1.315670><-2.886620, 0.820970, 72.150810>
+[02:57] Floria-Sofa: ◆{M1 right}<-0.913950, 0.173900, 1.230710><-0.494350, -1.862210, 90.758670>
+[02:57] Floria-Sofa: ◆{M2 right}<-0.866940, 0.087540, 1.303960><0.106270, -1.921630, 108.768500>
+[02:57] Floria-Sofa: ◆{M3 right}<-0.488760, -0.093080, 1.254640><-0.032090, -1.925550, 104.768600>
+[02:57] Floria-Sofa: ◆{M4 right}<-0.636380, 0.306170, 1.346680><0.000000, 1.990690, 89.997820>
+[02:57] Floria-Sofa: ◆{M5 right}<-0.636380, 0.306170, 1.346680><0.000000, 1.990690, 89.997820>
+[02:57] Floria-Sofa: ◆{M6 right}<-0.636380, 0.306170, 1.346680><0.000000, 1.990690, 89.997820>
+[02:57] Floria-Sofa: ◆{M7 right}<-0.676270, 0.272060, 1.291990><-13.835310, 2.171260, 89.265520>
+[02:57] Floria-Sofa: ◆{M8 right}<-0.618630, 0.123720, 1.359860><-13.835430, 2.171420, 89.265880>
+[02:57] Floria-Sofa: ◆{M9 right}<-0.905150, 0.203990, 1.363530><-13.835430, 2.171420, 89.265880>
+[02:57] Floria-Sofa: ◆{→M Coffee}<-0.925630, 0.040280, 1.274660><4.536960, -3.651880, 56.054840>
+[02:57] Floria-Sofa: ◆{→M Read}<-0.921640, 0.047290, 1.281980><3.672580, -1.520890, 43.862650>
+[02:57] Floria-Sofa: ◆{→M Popcorn}<-0.604180, 0.063080, 0.744380><-9.361420, 1.598200, 89.996250>
+[02:57] Floria-Sofa: ◆{→M Read2}<-0.896880, 0.045900, 1.118410><10.197030, 4.829380, 32.388810>
+[02:57] Floria-Sofa: ◆{→F Coffee}<-0.875350, 0.082980, 0.759520><0.877550, -1.121160, 49.264170>
+[02:57] Floria-Sofa: ◆{→F Popcorn}<-0.875350, 0.082960, 0.739990><0.877000, -1.120810, 49.264410>
+[02:57] Floria-Sofa: ◆{→F Read}<-0.768340, 0.312330, 0.998540><1.393600, -0.279250, 90.000020>
+[02:57] Floria-Sofa: ◆{YouAreMine}<-0.644520, 0.075530, 0.781010><0.000000, 0.000000, 90.000010>
+[02:57] Floria-Sofa: ◆{FeelSoRight}<-0.228500, 0.195630, 0.751710><0.000000, 0.000000, 180.000000>
+[02:57] Floria-Sofa: ◆{OneLove}<-0.718560, 0.000030, 0.789800><0.000000, 0.000000, 90.000010>
+[02:57] Floria-Sofa: ◆{HereWithYou}<-0.745470, 0.219850, 0.712890><0.000000, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{LittleThings}<-0.291490, -0.103810, 0.750000><0.000000, 0.000000, 18.993870>
+[02:57] Floria-Sofa: ◆{Sweetheart}<-0.456090, 0.182450, 0.742680><0.000000, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{In2You}<0.110800, 0.060390, 0.837890><0.000000, 0.000000, 90.000010>
+[02:57] Floria-Sofa: ◆{SecretLovers}<0.147270, 0.218750, 0.759770><0.000000, 0.000000, 180.000000>
+[02:57] Floria-Sofa: ◆{HeartOfMine}<-0.383370, -0.000470, 0.802980><1.171220, 0.000080, 87.232480>
+[02:57] Floria-Sofa: ◆{Squeezed}<-0.546270, 0.164110, 0.831050><0.867030, -0.781900, 45.240950>
+[02:57] Floria-Sofa: ◆{WithAllMy♥}<-0.023270, 0.214130, 0.857670><1.171220, 0.000080, 87.232480>
+[02:57] Floria-Sofa: ◆{NeverLeaveMe}<0.397140, 0.132550, 0.758060><0.000000, 0.000000, 90.000010>
+[02:57] Floria-Sofa: ◆{SoBeautiful}<0.425300, 0.276310, 0.684810><0.000000, 0.000000, 180.000000>
+[02:57] Floria-Sofa: ◆{FeelSoClose}<-0.945230, 0.032640, 0.776610><0.000000, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{MeltAway}<-0.710520, 0.163730, 0.782960><0.000000, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{Seduction}<-0.215810, 0.133760, 1.168460><0.000000, 0.000000, 9.000060>
+[02:57] Floria-Sofa: ◆{TheLovers}<-0.535800, 0.286220, 0.699710><0.000000, 0.000000, 0.000000>
+[02:57] Floria-Sofa: ◆{LittleCloser}<0.252900, 0.249360, 0.748540><0.000000, 0.000000, 71.002470>
+[02:57] Floria-Sofa: ◆{ByYourSide}<0.267330, 0.161360, 0.730710><1.701550, 6.791570, 165.899000>
+[02:57] Floria-Sofa: ◆{MyLove}<0.615390, 0.108340, 0.632080><0.000000, 0.000000, 90.000010>
+[02:58] Floria-Sofa: ◆{Endless}<-0.459840, 0.108340, 0.648680><0.000000, 0.000000, 90.000010>
+[02:58] Floria-Sofa: ◆{Kisses4ever}<-0.146570, 0.102010, 0.865970><-12.007300, -0.003340, -0.000350>
+[02:58] Floria-Sofa: ◆{InYourEyes}<0.674310, 0.207730, 0.802000><0.000000, 0.000000, 180.000000>
+[02:58] Floria-Sofa: ◆{ThisMoment}<0.024010, 0.723880, 0.658450><1.171220, 0.000080, 87.232480>
+[02:58] Floria-Sofa: ◆{INeedYou}<-0.023270, 0.214130, 0.857670><1.171220, 0.000080, 87.232480>
+}
+ 

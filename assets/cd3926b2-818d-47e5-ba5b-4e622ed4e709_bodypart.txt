@@ -1,0 +1,52 @@
+LLWearable version 22
+Old Man
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	0dcf430c-94c7-c087-3987-288df7bb9caf
+		owner_id	0dcf430c-94c7-c087-3987-288df7bb9caf
+		last_owner_id	0dcf430c-94c7-c087-3987-288df7bb9caf
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 1
+parameters 26
+108 0
+110 0
+111 .5
+116 0
+117 0
+150 0
+162 0
+163 0
+165 0
+700 .25
+701 0
+702 0
+703 0
+704 0
+705 .5
+706 .6
+707 0
+708 0
+709 0
+710 0
+711 .5
+712 0
+713 .7
+714 0
+715 0
+775 0
+textures 3
+0 5235cc02-e149-479f-b333-63e0eb5348de
+5 d661c5b1-e0b9-443d-8138-9faefe355a96
+6 732db6c4-88ba-4623-a0f1-ec66f33ddea4

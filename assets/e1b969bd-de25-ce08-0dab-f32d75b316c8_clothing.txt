@@ -1,0 +1,38 @@
+LLWearable version 22
+Espresso Hair Base (new)
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		owner_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		last_owner_id	746f1209-6dc5-4d8a-9156-b575633f4f91
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 14
+parameters 12
+1062 .2
+1063 .18
+1064 .16
+1065 .2
+1066 .18
+1067 .16
+1068 .2
+1069 .18
+1070 .16
+1071 .2
+1072 .18
+1073 .16
+textures 3
+26 9aa96b69-4c2b-443d-905b-88b7e029455e
+27 c228d1cf-4b5d-4ba8-84f4-899a0796aa97
+28 c228d1cf-4b5d-4ba8-84f4-899a0796aa97

@@ -1,0 +1,1492 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 50712
+◆
+◆SITTER 0
+◆TOMENU SINGLE
+◆TOMENU TALK&DRINK
+◆TOMENU CUDDLE
+◆TOMENU FOREPLAY
+◆TOMENU TONGUEPLAY
+◆TOMENU BLOWJOB
+◆TOMENU SEX
+◆TOMENU 3-SOME
+◆TOMENU GIRLS
+
+TOMENU OPTIONS
+MENU OPTIONS
+BUTTON Nerenzo Give|0
+BUTTON TEXTURES|215219714
+
+◆MENU SINGLE
+◆POSE m-lay1|1ml7
+◆POSE m-lay2|1ml8
+◆POSE m-lay3|1ml9
+◆POSE m-sit1|1ms19
+◆POSE m-sit2|1ms28
+◆POSE f-lay1|1fl6
+◆POSE f-lay2|1fl4
+◆POSE f-lay3|1fl1
+◆POSE f-sit1|1sf27
+◆POSE f-sit2|1sf31
+◆MENU TALK&DRINK
+◆SYNC sit&sit|1ms28
+◆SYNC lay&lay1|1ml9
+◆SYNC lay&lay2|1ml8
+◆SYNC talk1|Cs1M3
+◆SYNC talk2|Cs1M4
+◆SYNC talk3|Cs1M5
+◆SYNC read|Cs1M2
+◆SYNC drink1|Cs1M6
+◆SYNC drink2|Cs1M7
+◆SYNC drink3|Cs1M8
+◆ 
+◆MENU CUDDLE
+◆TOMENU SITCUDDLE
+◆TOMENU LAYCUDDLE1
+◆TOMENU LAYCUDDLE2
+◆MENU SITCUDDLE
+◆SYNC Cuddle1|csm11
+◆SYNC Cuddle2|csm15
+◆SYNC Cuddle3|csm17
+◆SYNC Cuddle4|csm21
+◆SYNC Cuddle5|csm23
+◆SYNC Cuddle6|csm26
+◆SYNC Cuddle7|clm58
+◆SYNC Cuddle8|clm42
+◆SYNC Cuddle9|csm55
+◆SYNC Cuddle10|csm59
+◆MENU LAYCUDDLE1
+◆SYNC cuddle1|clm4
+◆SYNC cuddle2|clm62
+◆SYNC cuddle3|clm46
+◆SYNC cuddle4|clm35
+◆SYNC cuddle5|clm63
+◆SYNC cuddle6|clm15
+◆SYNC cuddle7|clm44
+◆SYNC cuddle8|clm32
+◆SYNC cuddle9|clm64
+◆SYNC cuddle10|clm59
+◆MENU LAYCUDDLE2
+◆SYNC cuddle11|clm61
+◆SYNC cuddle12|clm58
+◆SYNC cuddle13|clm31
+◆SYNC cuddle14|clm30
+◆SYNC cuddle15|clm41
+◆SYNC cuddle16|clm51
+◆SYNC cuddle17|clm29
+◆SYNC cuddle18|clm53
+◆SYNC cuddle19|clm39
+◆SYNC cuddle20|clm33
+◆MENU FOREPLAY
+◆SYNC breastlick|4ppm1
+◆SYNC rub|4pfim1 
+◆SYNC finger1|4ppm7 
+◆SYNC finger2|4ppm15 
+◆SYNC finger3|4ppm20
+◆SYNC handjob1|4ppm4 
+◆SYNC handjob2|4ppm21a
+◆MENU TONGUEPLAY
+◆SYNC lick1|4plm23
+◆SYNC lick2|4plm10
+◆SYNC lick3|4plm15 
+◆SYNC lick4|4plm16
+◆SYNC lick5|4plm17
+◆SYNC lick6|4plm18
+◆SYNC lick7|4plm24
+◆MENU BLOWJOB
+◆SYNC blowjob1|4pbm18
+◆SYNC blowjob2|4pbm19
+◆SYNC blowjob3|4pbm22
+◆SYNC blowjob4|4pbm27 
+◆SYNC blowjob5|4pbm25
+◆SYNC blowjob6|4pbm32
+◆SYNC blowjob7|4pbm33
+◆MENU SEX
+◆TOMENU MISSIONARY
+◆TOMENU DOGGY
+◆TOMENU RIDE
+◆TOMENU MISC.1
+◆TOMENU MISC.2
+◆TOMENU HARDSEX1
+◆TOMENU HARDSEX2
+◆TOMENU ANAL
+◆TOMENU CUM
+◆MENU MISSIONARY
+◆SYNC mission1|6mim7
+◆SYNC mission2|6mim6
+◆SYNC mission3|6mim11 
+◆SYNC mission4|6mim8
+◆SYNC mission5|sexM7
+◆SYNC mission6|6mim4 
+◆SYNC mission7|6mim12
+◆MENU DOGGY
+◆SYNC doggy1|6dom12 
+◆SYNC doggy2|6dom10 
+◆SYNC doggy3|sexM4 
+◆SYNC doggy4|6dom8
+◆SYNC doggy5|6dom9 
+◆SYNC doggy6|6dom6 
+◆SYNC doggy7|6dom6
+◆MENU RIDE
+◆SYNC ride1|6rim3
+◆SYNC ride2|6rim12
+◆SYNC ride3|6rim13 
+◆SYNC ride4|6rim4
+◆SYNC ride5|6rim18 
+◆SYNC ride6|6rim17 
+◆SYNC ride7|6sfm14
+◆MENU MISC.1
+◆SYNC cradle1|6sfm16
+◆SYNC cradle2|6sfm17 
+◆SYNC cradle3|6sfm18 
+◆SYNC uv-crack|6sfm19
+◆SYNC clampA|6sfm21
+◆SYNC clampB|6sfm23
+◆SYNC grind|6mism3b
+◆MENU MISC.2
+◆SYNC ass-up|6mism5
+◆SYNC close fuck|6mism6
+◆SYNC gate|6mism7
+◆SYNC capped|6mism8
+◆SYNC sink|6mism9
+◆SYNC gee-gees|6mism11a
+◆SYNC arch over|6mism12
+◆MENU HARDSEX1
+◆SYNC deepthroat|rsm7
+◆SYNC throatfuck|4pbm24
+◆SYNC r-doggy1|rsm1
+◆SYNC r-doggy2|rsm5
+◆SYNC r-doggy3|rsm8 
+◆SYNC r-doggy4|6dom4
+◆SYNC r-mission|6mim9 
+◆SYNC r-pound|rsm6
+◆SYNC r-ride|6rim11
+◆SYNC r-rutting|rsm3
+◆MENU HARDSEX2
+◆SYNC r-rutting2|rsm25b
+◆SYNC r-clamp|6sfm22
+◆SYNC r-anal1|hsam3 
+◆SYNC r-anal2|hsam9
+◆SYNC r-anal3|6dom3 
+◆SYNC r-scratch|hsam13
+◆SYNC r-fisting|hsfm3 
+◆MENU ANAL
+◆SYNC anal1|ride_01-m Galaxy
+◆SYNC anal2|hsam10
+◆SYNC anal3|6mism1 
+◆SYNC anal4|6mism2
+◆SYNC anal5|6rim16 
+◆SYNC anal6|6anm1
+◆SYNC anal7|hsam14
+◆MENU CUM
+◆SYNC cum1|cumm7 
+◆SYNC cum2|4pwim1 
+◆SYNC cum3|m23 
+◆SYNC cum4|6tfm2 
+◆MENU 3-SOME
+◆TOMENU MMF-CUDDLE
+◆TOMENU MMF-SEX1
+◆TOMENU MMF-SEX2
+◆TOMENU FFM-CUDDLE
+◆TOMENU FFM-SEX1
+◆TOMENU FFM-SEX2
+◆MENU MMF-CUDDLE
+◆BUTTON SWAP MM|90030|0|2
+◆SYNC MMF-1|M SunBath
+◆SYNC MMF-2|1ms19
+◆SYNC MMF-3|1ms20
+◆SYNC MMF-4|PSLU1
+◆SYNC MMF-5|2sbm1
+◆SYNC 3-Cuddle1|3C1m1
+◆SYNC 3-Cuddle2|3C2m1
+◆SYNC 3-Cuddle3|3C3m1
+◆SYNC 3-Cuddle4|3C4m1
+◆SYNC 3-Cuddle5|3C5m1
+◆MENU MMF-SEX1
+◆BUTTON SWAP MM|90030|0|2
+◆SYNC MMF-SEX-1|Double Duty-M1
+◆SYNC MMF-SEX-2|Double Entry-3-M1
+◆SYNC MMF-SEX-3|9MMF M1
+◆SYNC MMF-SEX-4|InverT-M1
+◆SYNC MMF-SEX-5|Spitted-M1
+◆SYNC MMF-SEX-6|SideWinderM
+◆SYNC MMF-SEX-7|Double Entry-2-M1
+◆SYNC MMF-SEX-8|Double-Entry-M1
+◆SYNC MMF-SEX-9|Forced-4-M1
+◆SYNC MMF-SEX-10|Spitted-2-M1
+◆MENU MMF-SEX2
+◆BUTTON SWAP MM|90030|0|2
+◆SYNC MMF-SEX-11|1MMF M1
+◆SYNC MMF-SEX-12|2MMF M1
+◆SYNC MMF-SEX-13|3MMF M1
+◆SYNC MMF-SEX-14|4MMF M1
+◆SYNC MMF-SEX-15|5MMF M1
+◆SYNC MMF-SEX-16|6MMF M1
+◆SYNC MMF-SEX-17|6sfm21
+◆SYNC MMF-SEX-18|8MMF M1 
+◆SYNC MMF-SEX-19|7MMF M1
+◆SYNC MMF-SEX-20|Forced-5F-M1
+◆MENU FFM-CUDDLE
+◆BUTTON SWAP FF|90030|1|2
+◆SYNC FFM-1|1ms19
+◆SYNC FFM-2|1ms20
+◆SYNC FFM-3|M SunBath
+◆SYNC FFM-4|1ms28
+◆SYNC FFM-5|PSLU1
+◆SYNC 3-cuddle1|3c1m1
+◆SYNC 3-cuddle2|3c2m1
+◆SYNC 3-cuddle3|3c3m1
+◆SYNC 3-cuddle4|3c4m1
+◆SYNC 3-cuddle5|3c5m1
+◆MENU FFM-SEX1
+◆BUTTON SWAP FF|90030|1|2
+◆SYNC FFM-sex1|&M1 3sBJ1
+◆SYNC FFM-sex2|&M1 3sRd1
+◆SYNC FFM-sex3|&M1 3sRd2
+◆SYNC FFM-sex4|&M1 3sDg2 
+◆SYNC FFM-sex5|Sammich-M
+◆SYNC FFM-sex6|Dip n Dive-M
+◆SYNC FFM-sex7|Split-Level-M 
+◆SYNC FFM-sex8|Either/Or-M
+◆SYNC FFM-sex9|Equal Time-M
+◆SYNC FFM-sex10|FFM Ride_m1a
+◆MENU FFM-SEX2
+◆BUTTON SWAP FF|90030|1|2
+◆SYNC FFM-sex11|DreamCumTruM
+◆SYNC FFM-sex12|Seventy-M
+◆SYNC FFM-sex13|Sharing-M 
+◆SYNC FFM-sex14|FFM Double-Up M
+◆SYNC FFM-sex15|FFM Double-Down M
+◆SYNC FFM-sex16|3s2 M1
+◆SYNC FFM-sex17|3s4 M1
+◆SYNC FFM-sex18|3s6 M1
+◆SYNC FFM-sex19|3s8a M1
+◆SYNC FFM-sex20|3s9 M1
+◆MENU GIRLS
+◆TOMENU GIRLCUDDLE
+◆TOMENU GIRLSEX1
+◆TOMENU GIRLSEX2
+◆MENU GIRLCUDDLE
+◆SYNC ♀cuddle1♀|CLlF1a
+◆SYNC ♀cuddle2♀|CLlF1b
+◆SYNC ♀cuddle3♀|CLlF1c
+◆SYNC ♀cuddle4♀|CLlF1d
+◆SYNC ♀cuddle5♀|CLlF1e
+◆SYNC ♀cuddle6♀|CLlF1f
+◆SYNC ♀cuddle7♀|CLlF1g
+◆SYNC ♀cuddle8♀|CLlF1h
+◆SYNC ♀cuddle9♀|culba3
+◆SYNC ♀cuddle10♀|culba4
+◆MENU GIRLSEX1
+◆SYNC ♀sex1♀|SLlAF1a
+◆SYNC ♀sex2♀|SLlAF1c
+◆SYNC ♀sex3♀|SLlAF1d
+◆SYNC ♀sex4♀|SLlAF1e
+◆SYNC ♀sex5♀|SLlAF1f
+◆SYNC ♀sex6♀|SLlAF1g
+◆SYNC ♀sex7♀|SLlAF1h
+◆SYNC ♀sex8♀|SLlAF1i
+◆SYNC ♀sex9♀|SLlAF1j
+◆SYNC ♀sex10♀|lickher2f1fast 
+◆MENU GIRLSEX2
+◆SYNC ♀sex11♀|preciousB
+◆SYNC ♀sex12♀|selba2 
+◆SYNC ♀sex13♀|Vortex-F1
+◆SYNC ♀sex14♀|selba3 
+◆SYNC ♀sex15♀|selba4 
+◆SYNC ♀sex16♀|selba5
+◆SYNC ♀sex17♀|selba8
+◆SYNC ♀sex18♀|selba19
+◆SYNC ♀sex19♀|domme-play-1-d
+◆SYNC ♀sex20♀|selba26
+◆{m-lay1}<-0.071,0.224,0.285><0,0,45>
+◆{m-lay2}<0.188,0.442,0.285><0,0,31>
+◆{m-lay3}<0.015,0.276,0.285><0,0,64>
+◆{m-sit1}<0.54,-0.158,0.279><0,0,68>
+◆{m-sit2}<-0.066,-0.322,0.286><0,0,68>
+◆{f-lay1}<-0.079,0.074,0.3><0,0,119.9>
+◆{f-lay2}<-0.079,0.074,1.269><0,0,119.9>
+◆{f-lay3}<-0.079,0.074,0.262><0,0,106.9>
+◆{f-sit1}<0.454,-0.18,1.302><-0.6,-0.8,141.9>
+◆{f-sit2}<0.044,0.29,1.309><7,-0.7,83.9>
+◆{sit&sit}<0.555,-0.38,0.352><0,0,123>
+◆{lay&lay1}<0.402,-0.38,0.277><0,0,90>
+◆{lay&lay2}<0.402,0.407,0.307><0,0,90>
+◆{talk1}<-0.233,-0.24,0.484><-2,-0,90>
+◆{talk2}<0.09,-0.348,0.461><0,0,58>
+◆{talk3}<-0.166,-0.291,0.489><0,0,55>
+◆{read}<0.516,-0.224,0.414><0,0,95.6>
+◆{drink1}<0.308,-0.224,0.496><-3,-0.3,95.6>
+◆{drink2}<0.308,0.028,0.484><0.1,-3,-178.6>
+◆{drink3}<-0.127,0.165,0.506><0.8,2.9,-15.8>
+◆{Cuddle1}<0.236,-0.108,0.718><2.7,-1.2,-24>
+◆{Cuddle2}<0.112,0.265,0.298><-4.9,3.9,23.2>
+◆{Cuddle3}<-0.339,-0.188,0.301><6.4,0,90>
+◆{Cuddle4}<-0.391,0.287,0.258><0.1,0,-3>
+◆{Cuddle5}<0.265,-0.221,0.27><1.9,0.7,83.5>
+◆{Cuddle6}<-0.162,-0.097,0.31><-1.4,2.7,29>
+◆{Cuddle7}<-0.088,0.039,0.273><0,0,67>
+◆{Cuddle8}<-0.136,-0.216,1.325><-1,-1,105.6>
+◆{Cuddle9}<-0.195,0.029,1.401><0.6,-1.9,19>
+◆{Cuddle10}<-0.303,-0.004,0.354><-0.8,0.8,49.5>
+◆{cuddle1}<0.335,0.228,1.298><2.6,1.5,118.1>
+◆{cuddle2}<-0.188,0.411,1.403><0.8,-0.8,-100.1>
+◆{cuddle3}<0.054,0.325,0.255><0,0,87>
+◆{cuddle4}<-0.303,0.015,0.269><0,0,-90>
+◆{cuddle5}<0.182,0.192,1.386><-4.9,1.3,-89>
+◆{cuddle6}<0.095,-0.137,1.189><4.1,4.4,136.6>
+◆{cuddle7}<0.639,0.553,0.258><0,0,56>
+◆{cuddle8}<-0.499,0.247,0.279><0,0,38.5>
+◆{cuddle9}<-0.223,0.48,1.366><0,0,-11.2>
+◆{cuddle10}<0.33,0.241,0.276><0,0,114>
+◆{cuddle11}<-0.131,-0.026,0.318><0,0,50.5>
+◆{cuddle12}<-0.076,0.29,0.325><0,0,90>
+◆{cuddle13}<-0.092,0.186,0.371><-2.2,-2.5,-93.7>
+◆{cuddle14}<-0.028,-0.009,0.325><3.8,9.1,49.2>
+◆{cuddle15}<0.425,-0.266,0.2><-5.6,-2,-1.1>
+◆{cuddle16}<0.113,0.193,0.269><0,0,87>
+◆{cuddle17}<0.086,0.029,0.19><4.5,-3.2,-39.3>
+◆{cuddle18}<0.113,0.193,0.269><0,0,87>
+◆{cuddle19}<0.362,0.094,0.174><0,0,47>
+◆{cuddle20}<-0.015,-0.011,0.236><-1.7,-4.9,-126.4>
+◆{breastlick}<-0.421,0.321,0.317><0.4,2.6,-28>
+◆{rub}<0.112,0.217,1.384><1.9,-3.5,27.7>
+◆{finger1}<-0.087,-0.222,1.292><-2.8,5.2,49>
+◆{finger2}<0.083,-0.237,1.338><1,0.1,-155>
+◆{finger3}<-0.255,-0.577,1.401><0,0,78.6>
+◆{handjob1}<0.104,-0.215,1.248><0,0,71.1>
+◆{handjob2}<-0.168,0.17,1.366><0,0,21>
+◆{lick1}<0.013,-0.082,1.421><0,3,-0>
+◆{lick2}<0.052,0.081,1.403><0,0,33.6>
+◆{lick3}<0.288,-0.639,1.281><0,0,115>
+◆{lick4}<-0.239,0.072,1.384><0,1,-174.8>
+◆{lick5}<-0.02,-0.256,0.826><2.9,-2.7,64.1>
+◆{lick6}<0.089,-0.377,1.351><0.1,2,58.8>
+◆{lick7}<-0.119,-0.062,1.369><0,2,180>
+◆{blowjob1}<-0.41,0.363,1.469><-0.2,3.3,-15.4>
+◆{blowjob2}<-0.149,0.141,1.236><-1.5,-1.3,-50>
+◆{blowjob3}<-0.237,-0.756,1.224><0.4,5.1,98.1>
+◆{blowjob4}<0.454,0.527,1.363><0,0,-45>
+◆{blowjob5}<0.632,0.153,1.359><-2,2,-89.9>
+◆{blowjob6}<-0.136,-0.06,1.434><0,-1,0>
+◆{blowjob7}<0.499,-0.074,1.374><0,2,180>
+◆{mission1}<0.055,0.055,0.495><0,0,-3.5>
+◆{mission2}<0.078,0.092,0.549><-2,0,-90>
+◆{mission3}<0.502,0.109,1.254><2,0.4,132>
+◆{mission4}<-0.173,-0.272,0.526><2.9,-1.8,-64.5>
+◆{mission5}<0.027,-0.102,1.315><0,0,116>
+◆{mission6}<0.266,-0.107,1.238><0.7,0.8,139>
+◆{mission7}<-0.143,0.065,1.388><3,0.3,96>
+◆{doggy1}<0,-0.143,1.371><0,0,117>
+◆{doggy2}<0.031,0.025,1.276><3.1,0.2,90>
+◆{doggy3}<0.07,-0.067,1.384><0,0,101.5>
+◆{doggy4}<-0.283,-0.009,0.511><1.8,-1.1,76.9>
+◆{doggy5}<0.177,-0.067,0.586><0.1,1.9,176.6>
+◆{doggy6}<0.046,-0.176,1.268><1.8,1.7,73.1>
+◆{doggy7}<0.046,-0.176,1.268><1.8,1.7,73.1>
+◆{ride1}<-0.402,0.251,1.195><-2.9,-3.5,133.9>
+◆{ride2}<-0.281,0.038,0.232><-1,-0.5,-33>
+◆{ride3}<-0.062,-0.031,0.25><3.7,3.4,-46.1>
+◆{ride4}<-0.296,0.043,1.274><-1.9,1.8,-32>
+◆{ride5}<-0.151,0.084,1.417><0,0,-45.7>
+◆{ride6}<-0.222,-0.053,1.392><1,0,-63>
+◆{ride7}<0.128,0.239,1.433><4,2,-91.1>
+◆{cradle1}<0.248,-0.034,0.662><2.5,-3.1,-141.4>
+◆{cradle2}<0.218,-0.08,0.692><1.8,-3.6,-153.4>
+◆{cradle3}<0.218,-0.08,0.692><1.8,-3.6,-153.4>
+◆{uv-crack}<0.218,-0.08,0.692><1.8,-3.6,-153.4>
+◆{clampA}<0.27,0.063,1.37><0,0,-134>
+◆{clampB}<0.27,0.063,1.37><0,0,-134>
+◆{grind}<0.599,-0.556,1.366><0,0,151.2>
+◆{ass-up}<-0.207,0.063,1.343><0.8,-2.6,-163.9>
+◆{close fuck}<-0.191,-0.009,1.371><0,0,180>
+◆{gate}<0.05,0.119,1.373><0,4,180>
+◆{capped}<-0.004,-0.044,1.395><1.6,-2.5,32>
+◆{sink}<0.62,0.522,1.341><0,0,-163>
+◆{gee-gees}<0.011,0.175,1.395><0,0,135>
+◆{arch over}<0.495,0.094,1.344><0,2,180>
+◆{deepthroat}<-0.034,0.056,1.346><0,0,-166>
+◆{throatfuck}<0.102,0.412,1.504><-1,1,90>
+◆{r-doggy1}<-0.258,0.051,1.266><1.4,1.4,143.4>
+◆{r-doggy2}<-0.208,-0.075,1.303><0,0,91.6>
+◆{r-doggy3}<-1.486,-0.867,1.108><2.3,-5.6,22.1>
+◆{r-doggy4}<0.076,-0.597,1.315><-0.9,-2.2,93>
+◆{r-mission}<0.223,-0.009,1.358><-0.8,1.3,149.7>
+◆{r-pound}<-0.005,0.039,1.166><3.3,-0.9,20.1>
+◆{r-ride}<0.061,0.039,1.553><0.9,1.6,-34>
+◆{r-rutting}<0.047,0.157,1.426><0.4,0.7,84.4>
+◆{r-rutting2}<0.804,-0.073,1.363><0,0,180>
+◆{r-clamp}<0.27,0.063,1.392><0,0,-134>
+◆{r-anal1}<0.166,-0.053,1.164><4,2,131.6>
+◆{r-anal2}<0.01,0.101,0.798><1,-0.3,115.4>
+◆{r-anal3}<1.119,0.419,1.308><-1.4,7.8,-169.2>
+◆{r-scratch}<-0.06,0.333,1.377><0,0,-90>
+◆{r-fisting}<0.369,-0.344,0.448><2.3,-1.7,144.6>
+◆{anal1}<0.062,-0.026,1.279><-0.7,-1.9,-33.8>
+◆{anal2}<0.152,0.154,1.192><-2.7,-1.3,-48.9>
+◆{anal3}<-0.242,0.274,1.378><-1,-0.2,133>
+◆{anal4}<0.282,-0.325,1.36><1.4,1.8,127>
+◆{anal5}<0.17,0.035,1.432><-2.4,4.4,28.2>
+◆{anal6}<0.089,-0.041,1.333><0,0,-139>
+◆{anal7}<-0.139,-0.041,1.38><0,0,180>
+◆{cum1}<-0.19,0.08,1.466><0,0,2>
+◆{cum2}<-0.134,-0.021,1.382><3.3,-2.2,56.3>
+◆{cum3}<0.231,-0.249,1.416><1.9,0,-90>
+◆{cum4}<-0.174,0.092,1.273><0,0,146>
+◆{MMF-1}<-0.463,-0.234,0.188><0,0,118.1>
+◆{MMF-2}<-0.884,-0.972,0.249><0.9,-0.5,62.4>
+◆{MMF-3}<-0.795,0.505,0.251><-0,-5,7>
+◆{MMF-4}<-0.672,-0.491,1.209><2.3,-4.6,-51.9>
+◆{MMF-5}<-0.037,-0.806,0.199><0.4,1,163.7>
+◆{3-Cuddle1}<0.415,0.325,0.24><0,0,-39.4>
+◆{3-Cuddle2}<0.415,0.325,0.24><0,0,-39.4>
+◆{3-Cuddle3}<0.248,0.21,0.266><0,0,-57.4>
+◆{3-Cuddle4}<0.149,0.285,0.289><1.7,1.1,-57.4>
+◆{3-Cuddle5}<0.198,0.269,0.257><-0.7,-0.8,-40.4>
+◆{MMF-SEX-1}<0.468,0.176,1.499><0,0,-141.8>
+◆{MMF-SEX-2}<0.117,0.09,1.251><1.3,1.5,-45>
+◆{MMF-SEX-3}<-0.337,-0.230,0.249><0.0,0.0,75.0>
+◆{MMF-SEX-4}<-0.026,-0.01,1.256><2.6,1.6,-57.9>
+◆{MMF-SEX-5}<0.238,0.025,1.171><1.8,0.9,-152>
+◆{MMF-SEX-6}<0.034,-0.246,1.369><0.1,-1.9,149.7>
+◆{MMF-SEX-7}<0.217,-0.176,1.229><-2.6,-1.6,125.1>
+◆{MMF-SEX-8}<0.447,0.065,1.462><0.3,0.2,-156>
+◆{MMF-SEX-9}<0.188,-0.113,1.509><0,0,144>
+◆{MMF-SEX-10}<0.257,-0.174,1.3><0,0,136>
+◆{MMF-SEX-11}<0.155,0.065,0.223><1.3,-1.5,-47.6>
+◆{MMF-SEX-12}<-0.279,0.552,0.705><2.7,1.4,-63>
+◆{MMF-SEX-13}<-0.349,0.049,0.239><0,0,-29.6>
+◆{MMF-SEX-14}<0.267,0.427,0.572><0,0,-135>
+◆{MMF-SEX-15}<0.155,0.254,0.247><0,0,-63.9>
+◆{MMF-SEX-16}<0.03,0.143,0.25><0,0,-44.9>
+◆{MMF-SEX-17}<-0.656,0.109,1.417><0,0,0>
+◆{MMF-SEX-18}<-0.358,-0.183,1.52><0,0,19>
+◆{MMF-SEX-19}<-0.176,-0.151,1.504><0,0,11.3>
+◆{MMF-SEX-20}<0.509,-0.816,1.325><7,0.6,95>
+◆{FFM-1}<-0.512,-0.317,0.302><0,0,66.9>
+◆{FFM-2}<-0.909,-0.06,0.261><0,0,40.5>
+◆{FFM-3}<-0.277,0.191,0.207><0,0,56.3>
+◆{FFM-4}<-0.8,-1.055,0.123><7.8,-4.4,61.2>
+◆{FFM-5}<0.152,-0.326,1.253><0,0,-38.2>
+◆{3-cuddle1}<0.098,0.389,0.31><0,0,38>
+◆{3-cuddle2}<-0.219,-0.004,0.266><0,0,53>
+◆{3-cuddle3}<-0.256,0.344,0.347><0,0,-72>
+◆{3-cuddle4}<-0.405,-0.235,0.283><0,0,47>
+◆{3-cuddle5}<0.288,-0.063,0.269><0,0,-52>
+◆{FFM-sex1}<-0.178,-0.019,1.399><-0.4,-1.2,4.8>
+◆{FFM-sex2}<-0.136,0.301,0.223><-0.2,0.2,-43.3>
+◆{FFM-sex3}<0.065,-0.014,0.183><0.1,-0.3,102.8>
+◆{FFM-sex4}<0.231,-0.341,0.485><0.7,0.7,-44.4>
+◆{FFM-sex5}<0.02,0.16,1.413><1,0.2,98.6>
+◆{FFM-sex6}<-0.242,-0.081,1.253><2.8,-0.9,72>
+◆{FFM-sex7}<0.158,0.074,1.074><2.3,1.9,-142.6>
+◆{FFM-sex8}<-0.271,-0.461,1.327><4.7,-11,22.5>
+◆{FFM-sex9}<0.553,-0.544,1.27><0,0,133.6>
+◆{FFM-sex10}<0.322,0.214,0.715><1.2,-1,-49.9>
+◆{FFM-sex11}<-0.294,-0.044,1.338><3,0,180>
+◆{FFM-sex12}<-0.103,-0.133,1.109><0,0,65>
+◆{FFM-sex13}<0.224,0.043,0.748><0,0,52.9>
+◆{FFM-sex14}<-0.003,-0.042,1.146><0,0,90>
+◆{FFM-sex15}<0.056,-0.033,1.183><-4,0,90>
+◆{FFM-sex16}<0.136,-0.187,0.592><0,0,116>
+◆{FFM-sex17}<-0.51,-0.334,0.556><0,0,66>
+◆{FFM-sex18}<-0.058,0.123,0.266><0,0,-41.4>
+◆{FFM-sex19}<0.397,0.208,0.279><0,0,55>
+◆{FFM-sex20}<-0.46,0.612,0.223><-1.5,-1.3,-48>
+◆{♀cuddle1♀}<-0.493,-0.265,0.343><0,0,3>
+◆{♀cuddle2♀}<0.209,-0.265,0.33><0,0,41>
+◆{♀cuddle3♀}<0.277,-0.171,0.285><-0.5,3.6,41>
+◆{♀cuddle4♀}<0.562,0.108,0.285><-2.6,2.5,78.8>
+◆{♀cuddle5♀}<0.142,-0.269,0.284><1.5,1.3,9.7>
+◆{♀cuddle6♀}<-0.203,-0.107,0.284><1.8,-0.6,-49.3>
+◆{♀cuddle7♀}<0.1,-0.306,0.284><1.9,0.5,-17.3>
+◆{♀cuddle8♀}<-0.193,-0.158,0.303><2,0.2,-90>
+◆{♀cuddle9♀}<0.296,0.248,0.621><-2.4,0.3,17.9>
+◆{♀cuddle10♀}<-0.276,0.091,1.276><2,-0.4,79>
+◆{♀sex1♀}<-0.275,-0.004,0.297><3,0,-90>
+◆{♀sex2♀}<0.125,0.117,0.324><0,0,98>
+◆{♀sex3♀}<-0.336,0.302,0.304><0.4,2,170>
+◆{♀sex4♀}<0.191,-0.406,0.304><0,1,26>
+◆{♀sex5♀}<0.191,-0.406,0.304><0,1,26>
+◆{♀sex6♀}<0.263,-0.177,0.341><-0.7,0.7,71>
+◆{♀sex7♀}<0.263,0.426,0.274><-0.7,0.7,71>
+◆{♀sex8♀}<0.263,0.426,0.256><-0.7,0.7,71>
+◆{♀sex9♀}<-0.129,0.473,0.309><2.5,-0.8,163>
+◆{♀sex10♀}<0.038,-0.091,1.176><0,0,-45>
+◆{♀sex11♀}<-0.37,-0.032,0.818><1.8,-6.9,24>
+◆{♀sex12♀}<0.31,0.058,1.268><0,0,-148>
+◆{♀sex13♀}<-0.226,0.105,1.244><-0.9,-1.8,-27.1>
+◆{♀sex14♀}<0.591,0.466,1.316><-1.2,1.6,36.5>
+◆{♀sex15♀}<-0.062,-0.021,1.197><-0.5,0.5,-95>
+◆{♀sex16♀}<-0.136,-0.158,1.382><0,0,141>
+◆{♀sex17♀}<0.16,0.085,1.247><-0.3,-1,165>
+◆{♀sex18♀}<-0.027,-0.124,1.241><0,0,-53>
+◆{♀sex19♀}<-0.21,0.168,1.204><-1,0.3,-93>
+◆{♀sex20♀}<0.269,-0.4,1.284><0,0,-90>
+◆PROP read|mag|GROUP1|<0.717316, 0.947296, 0.108475>|<-90.000000, 14.999960, 173.000100>
+◆PROP ♀sex9♀|dildo-rez|GROUP1|<0.072601, 0.030563, 0.879303>|<0.000000, 0.000000, 0.000000>
+◆ANIM breastlick|express_tongue_out|1.5
+◆ANIM rub|express_smile|7.5
+◆ANIM finger1|express_smile|7.5
+◆ANIM finger2|express_bored_emote|5.5
+◆ANIM finger3|express_smile|7.5
+◆ANIM handjob1|express_open_mouth|5.5 
+◆ANIM handjob2|express_toothsmile|3.5
+◆ANIM blowjob1|express_frown|3.5
+◆ANIM blowjob2|express_anger_emote|8.5
+◆ANIM blowjob3|express_toothsmile|3.5
+◆ANIM blowjob4|express_smile|7.5
+◆ANIM blowjob5|express_cry_emote|5.5
+◆ANIM blowjob6|express_toothsmile|3.5
+◆ANIM blowjob7|express_cry_emote|5.5
+◆ANIM lick1|express_tongue_out|1.5
+◆ANIM lick2|express_tongue_out|2.5
+◆ANIM lick3|express_tongue_out|1.5
+◆ANIM lick4|express_tongue_out|2.5
+◆ANIM lick5|express_tongue_out|1.5 
+◆ANIM lick6|express_tongue_out|2.5 
+◆ANIM lick7|express_tongue_out|2.5
+◆ANIM mission1|express_worry_emote|7.5
+◆ANIM mission2|express_repulsed_emote|3.5 
+◆ANIM mission3|express_bored_emote|3.5
+◆ANIM mission4|express_worry_emote|7.5
+◆ANIM mission5|express_repulsed_emote|3.5 
+◆ANIM mission6|express_bored_emote|3.5
+◆ANIM mission7|express_cry_emote|6.5
+◆ANIM gate|express_cry_emote|7.5
+◆ANIM doggy1|express_toothsmile|3.5  
+◆ANIM doggy2|express_repulsed_emote|3.5
+◆ANIM doggy3|express_cry_emote|6.5
+◆ANIM doggy4|express_anger_emote|3.5
+◆ANIM doggy5|express_repulsed_emote|3.5
+◆ANIM doggy6|express_bored_emote|3.5
+◆ANIM doggy7|express_cry_emote|6.5
+◆ANIM ride1|express_worry_emote|7.5
+◆ANIM ride2|express_cry_emote|6.5 
+◆ANIM ride3|express_afraid_emote|5.5
+◆ANIM ride4|express_anger_emote|3.5
+◆ANIM ride5|express_repulsed_emote|3.5
+◆ANIM ride6|express_bored_emote|3.5
+◆ANIM ride7|express_open_mouth|7.5
+◆ANIM cradle1|express_bored_emote
+◆ANIM cradle2|express_open_mouth|3
+◆ANIM cradle3|express_bored_emote|8
+◆ANIM uv-crack|express_bored_emote|8 
+◆ANIM clampA|express_cry_emote|5.5
+◆ANIM clampB|express_cry_emote|5.5
+◆ANIM grind|express_cry_emote|9.5
+◆ANIM ass-up|express_anger_emote|3.5 
+◆ANIM close fuck|express_anger_emote|3.5
+◆ANIM gate|express_repulsed_emote|3.5
+◆ANIM capped|express_bored_emote|3.5
+◆ANIM sink|express_cry_emote|6.5
+◆ANIM gee-gees|express_worry_emote|7.5
+◆ANIM arch over|express_repulsed_emote|3.5
+◆ANIM deepthroat|express_cry_emote|6.5
+◆ANIM throatfuck|express_anger_emote|3.5
+◆ANIM r-doggy1|express_repulsed_emote|3.5
+◆ANIM r-doggy2|express_bored_emote|3.5
+◆ANIM r-doggy3|express_cry_emote|6.5
+◆ANIM r-doggy4|express_worry_emote|7.5
+◆ANIM r-mission|express_cry_emote|6.5 
+◆ANIM r-pound|express_afraid_emote|5.5
+◆ANIM r-rutting|express_anger_emote|3.5
+◆ANIM r-rutting2|express_repulsed_emote|3.5
+◆ANIM r-clamp|express_bored_emote|3.5
+◆ANIM r-anal1|express_cry_emote|6.5 
+◆ANIM r-anal2|express_bored_emote|8
+◆ANIM r-anal3|express_cry_emote|6.5 
+◆ANIM r-scratch|express_bored_emote|8
+◆ANIM r-fisting|express_afraid_emote|5.5
+◆ANIM anal1|express_smile|9.5 
+◆ANIM anal2|express_cry_emote|7.5
+◆ANIM anal3|express_frown|3.5
+◆ANIM anal4|express_frown|4.5 
+◆ANIM anal5|express_cry_emote|7.5
+◆ANIM anal6|express_cry_emote|7.5
+◆ANIM anal7|express_bored_emote
+◆ANIM cum1|express_cry_emote|9.5
+◆ANIM cum2|express_cry_emote|9.5
+◆ANIM cum3|express_repulsed_emote|3.5
+◆ANIM cum4|express_frown|3.5
+◆ANIM MMF-sex1|express_cry_emote|6.5 
+◆ANIM MMF-sex2|express_repulsed_emote|3.5
+◆ANIM MMF-sex3|express_tongue_out|2.5
+◆ANIM MMF-sex4|express_frown|4.5 
+◆ANIM MMF-sex5|express_cry_emote|6.5 
+◆ANIM MMF-sex6|express_bored_emote|8
+◆ANIM MMF-sex7|express_repulsed_emote|3.5
+◆ANIM MMF-sex8|express_cry_emote|6.5 
+◆ANIM MMF-sex9|express_cry_emote|6.5 
+◆ANIM MMF-sex10|express_anger_emote|3.5
+◆ANIM MMF-sex11|express_bored_emote|8
+◆ANIM MMF-sex12|express_frown|4.5 
+◆ANIM MMF-sex13|express_anger_emote|3.5
+◆ANIM MMF-sex14|express_smile|9.5 
+◆ANIM MMF-sex15|express_afraid_emote|5.5
+◆ANIM MMF-sex16|express_cry_emote|6.5 
+◆ANIM MMF-sex17|express_cry_emote|6.5 
+◆ANIM MMF-sex18|express_cry_emote|6.5 
+◆ANIM MMF-sex19|express_frown|4.5 
+◆ANIM MMF-sex20|express_smile|9.5 
+◆ANIM FFM-sex1|express_anger_emote|3.5
+◆ANIM FFM-sex2|express_cry_emote|7.5
+◆ANIM FFM-sex3|express_tongue_out|2.5
+◆ANIM FFM-sex4|express_bored_emote|8
+◆ANIM FFM-sex5|express_smile|9.5 
+◆ANIM FFM-sex6|express_tongue_out|2.5
+◆ANIM FFM-sex7|express_cry_emote|7.5
+◆ANIM FFM-sex8|express_anger_emote|3.5
+◆ANIM FFM-sex9|express_smile|9.5 
+◆ANIM FFM-sex10|express_tongue_out|2.5
+◆ANIM FFM-sex11|express_tongue_out|2.5
+◆ANIM FFM-sex12|express_cry_emote|7.5
+◆ANIM FFM-sex13|express_tongue_out|2.5
+◆ANIM FFM-sex14|express_anger_emote|3.5
+◆ANIM FFM-sex15|express_smile|9.5 
+◆ANIM FFM-sex16|express_repulsed_emote|3.5
+◆ANIM FFM-sex17|express_bored_emote|8
+◆ANIM FFM-sex18|express_cry_emote|7.5
+◆ANIM FFM-sex19|express_tongue_out|2.5
+◆ANIM FFM-sex20|express_cry_emote|7.5
+◆ANIM ♀sex1♀|express_smile|9.5 
+◆ANIM ♀sex2♀|express_tongue_out|3.5
+◆ANIM ♀sex3♀|express_tongue_out|2.5
+◆ANIM ♀sex4♀|express_cry_emote|4
+◆ANIM ♀sex5♀|express_tongue_out|4.5
+◆ANIM ♀sex6♀|express_cry_emote|4
+◆ANIM ♀sex7♀|express_afraid_emote|3
+◆ANIM ♀sex8♀|express_bored_emote|2.5
+◆ANIM ♀sex9♀|express_cry_emote|3
+◆ANIM ♀sex10♀|express_bored_emote|2.5
+◆ANIM ♀sex11♀|express_smile|5.5 
+◆ANIM ♀sex12♀|express_smile|6.5 
+◆ANIM ♀sex13♀|express_tongue_out|3.5
+◆ANIM ♀sex14♀|express_afraid_emote|3
+◆ANIM ♀sex15♀|express_smile|9.5 
+◆ANIM ♀sex16♀|express_afraid_emote|3
+◆ANIM ♀sex17♀|express_cry_emote|5
+◆ANIM ♀sex18♀|express_tongue_out|3.5
+◆ANIM ♀sex19♀|express_smile|9.5 
+◆ANIM ♀sex20♀|express_tongue_out|4.5
+◆ 
+◆SITTER 1
+◆TOMENU TALK&DRINK
+◆TOMENU CUDDLE
+◆TOMENU FOREPLAY
+◆TOMENU TONGUEPLAY
+◆TOMENU BLOWJOB
+◆TOMENU SEX
+◆TOMENU 3-SOME
+◆TOMENU GIRLS
+◆BUTTON Nerenzo Give|0
+BUTTON TEXTURES|215219714
+
+◆MENU TALK&DRINK
+◆SYNC sit&sit|1sf27
+◆SYNC lay&lay1|1fl4
+◆SYNC lay&lay2|1fl6
+◆SYNC talk1|Cs1F3
+◆SYNC talk2|Cs1F4
+◆SYNC talk3|Cs1F5
+◆SYNC read|Cs1F2
+◆SYNC drink1|Cs1F6
+◆SYNC drink2|Cs1F7
+◆SYNC drink3|Cs1F8
+◆MENU CUDDLE
+◆TOMENU SITCUDDLE
+◆TOMENU LAYCUDDLE1
+◆TOMENU LAYCUDDLE2
+◆MENU SITCUDDLE
+◆SYNC Cuddle1|csf11
+◆SYNC Cuddle2|csf15
+◆SYNC Cuddle3|csf17
+◆SYNC Cuddle4|csf21
+◆SYNC Cuddle5|csf23
+◆SYNC Cuddle6|csf26
+◆SYNC Cuddle7|clf58
+◆SYNC Cuddle8|clf42
+◆SYNC Cuddle9|csf55
+◆SYNC Cuddle10|csf59
+◆MENU LAYCUDDLE1
+◆SYNC cuddle1|clf4
+◆SYNC cuddle2|clf62
+◆SYNC cuddle3|clf46
+◆SYNC cuddle4|clf35
+◆SYNC cuddle5|clf63
+◆SYNC cuddle6|clf15
+◆SYNC cuddle7|clf44
+◆SYNC cuddle8|clf32
+◆SYNC cuddle9|clf64
+◆SYNC cuddle10|clf59
+◆MENU LAYCUDDLE2
+◆SYNC cuddle11|clf61
+◆SYNC cuddle12|clf58
+◆SYNC cuddle13|clf31
+◆SYNC cuddle14|clf30
+◆SYNC cuddle15|clf41
+◆SYNC cuddle16|clf51
+◆SYNC cuddle17|clf29
+◆SYNC cuddle18|clf53
+◆SYNC cuddle19|clf39
+◆SYNC cuddle20|clf33
+◆MENU FOREPLAY
+◆SYNC breastlick|4ppf1
+◆SYNC rub|4pfif1
+◆SYNC finger1|4ppf7 
+◆SYNC finger2|4ppf15
+◆SYNC finger3|4ppf20
+◆SYNC handjob1|4ppf4
+◆SYNC handjob2|4ppf21a
+◆MENU TONGUEPLAY
+◆SYNC lick1|4plf23
+◆SYNC lick2|4plf10 
+◆SYNC lick3|4plf15 
+◆SYNC lick4|4plf16 
+◆SYNC lick5|4plf17 
+◆SYNC lick6|4plf18
+◆SYNC lick7|4plf24
+◆MENU BLOWJOB
+◆SYNC blowjob1|4pbf18 
+◆SYNC blowjob2|4pbf19 
+◆SYNC blowjob3|4pbf22 
+◆SYNC blowjob4|4pbf27
+◆SYNC blowjob5|4pbf25 
+◆SYNC blowjob6|4pbf32
+◆SYNC blowjob7|4pbf33
+◆MENU SEX
+◆TOMENU MISSIONARY
+◆TOMENU DOGGY
+◆TOMENU RIDE
+◆TOMENU MISC.1
+◆TOMENU MISC.2
+◆TOMENU HARDSEX1
+◆TOMENU HARDSEX2
+◆TOMENU ANAL
+◆TOMENU CUM
+◆MENU MISSIONARY
+◆SYNC mission1|6mif7
+◆SYNC mission2|6mif6
+◆SYNC mission3|6mif11
+◆SYNC mission4|6mif8
+◆SYNC mission5|sexF7 
+◆SYNC mission6|6mif4
+◆SYNC mission7|6mif12
+◆MENU DOGGY
+◆SYNC doggy1|6dof12
+◆SYNC doggy2|6dof10
+◆SYNC doggy3|sexF4 
+◆SYNC doggy4|6dof8 
+◆SYNC doggy5|6dof9 
+◆SYNC doggy6|6dof6
+◆SYNC doggy7|6dof7
+◆MENU RIDE
+◆SYNC ride1|6rif3
+◆SYNC ride2|6rif12 
+◆SYNC ride3|6rif13 
+◆SYNC ride4|6rif4
+◆SYNC ride5|6rif18
+◆SYNC ride6|6rif17
+◆SYNC ride7|6sff14
+◆MENU MISC.1
+◆SYNC cradle1|6sff16 
+◆SYNC cradle2|6sff17
+◆SYNC cradle3|6sff18 
+◆SYNC uv-crack|6sff19
+◆SYNC clampA|6sff21
+◆SYNC clampB|6sff23
+◆SYNC grind|6misf3b
+◆MENU MISC.2
+◆SYNC ass-up|6misf5
+◆SYNC close fuck|6misf6
+◆SYNC gate|6misf7
+◆SYNC capped|6misf8
+◆SYNC sink|6misf9
+◆SYNC gee-gees|6misf11a
+◆SYNC arch over|6misf12
+◆MENU HARDSEX1
+◆SYNC deepthroat|rsf7
+◆SYNC throatfuck|4pbf24
+◆SYNC r-doggy1|rsf1
+◆SYNC r-doggy2|rsf5
+◆SYNC r-doggy3|rsf8 
+◆SYNC r-doggy4|6dof4
+◆SYNC r-mission|6mif9
+◆SYNC r-pound|rsf6 
+◆SYNC r-ride|6rif11 
+◆SYNC r-rutting|rsf3
+◆MENU HARDSEX2
+◆SYNC r-rutting2|rsf25b
+◆SYNC r-clamp|6sff22
+◆SYNC r-anal1|hsaf3
+◆SYNC r-anal2|hsaf9 
+◆SYNC r-anal3|6dof3 
+◆SYNC r-scratch|hsaf13
+◆SYNC r-fisting|hsff3
+◆MENU ANAL
+◆SYNC anal1|ride_01-f Galaxy
+◆SYNC anal2|hsaf10 
+◆SYNC anal3|6misf1 
+◆SYNC anal4|6misf2
+◆SYNC anal5|6rif16
+◆SYNC anal6|6anf1
+◆SYNC anal7|hsaf14
+◆MENU CUM
+◆SYNC cum1|cumf7
+◆SYNC cum2|4pwif1 
+◆SYNC cum3|f23 
+◆SYNC cum4|6tff2
+◆MENU 3-SOME
+◆TOMENU MMF-CUDDLE
+◆TOMENU MMF-SEX1
+◆TOMENU MMF-SEX2
+◆TOMENU FFM-CUDDLE
+◆TOMENU FFM-SEX1
+◆TOMENU FFM-SEX2
+◆MENU MMF-CUDDLE
+◆SYNC MMF-1|F SunBath
+◆SYNC MMF-2|1sf25
+◆SYNC MMF-3|1sf21
+◆SYNC MMF-4|PSLU2
+◆SYNC MMF-5|1sf27
+◆SYNC 3-Cuddle1|3C1f1
+◆SYNC 3-Cuddle2|3C2f1
+◆SYNC 3-Cuddle3|3C3f1
+◆SYNC 3-Cuddle4|3C4f1
+◆SYNC 3-Cuddle5|3C5f1
+◆MENU MMF-SEX1
+◆SYNC MMF-SEX-1|Double Duty-F
+◆SYNC MMF-SEX-2|Double Entry-3-F 
+◆SYNC MMF-SEX-3|9MMF F1
+◆SYNC MMF-SEX-4|InverT-F 
+◆SYNC MMF-SEX-5|Spitted-F 
+◆SYNC MMF-SEX-6|SideWinderF
+◆SYNC MMF-SEX-7|Double Entry-2-F
+◆SYNC MMF-SEX-8|Double-Entry-F
+◆SYNC MMF-SEX-9|Forced-4-F 
+◆SYNC MMF-SEX-10|Spitted-2-F
+◆MENU MMF-SEX2
+◆SYNC MMF-SEX-11|1MMF F1
+◆SYNC MMF-SEX-12|2MMF F1
+◆SYNC MMF-SEX-13|3MMF F1 
+◆SYNC MMF-SEX-14|4MMF F1
+◆SYNC MMF-SEX-15|5MMF F1
+◆SYNC MMF-SEX-16|6MMF F1
+◆SYNC MMF-SEX-17|6sff21
+◆SYNC MMF-SEX-18|8MMF F1
+◆SYNC MMF-SEX-19|7MMF F1 
+◆SYNC MMF-SEX-20|Forced-5F-F
+◆MENU FFM
+◆MENU FFM-CUDDLE
+◆SYNC FFM-1|MF SunBath3
+◆SYNC FFM-2|1sf21
+◆SYNC FFM-3|1sf25
+◆SYNC FFM-4|1fl3
+◆SYNC FFM-5|2sbf3
+◆SYNC 3-cuddle1|3c1f1
+◆SYNC 3-cuddle2|3c2f1
+◆SYNC 3-cuddle3|3c3f1
+◆SYNC 3-cuddle4|3c4f1
+◆SYNC 3-cuddle5|3c5f1
+◆MENU FFM-SEX1
+◆SYNC FFM-sex1|&F1 3sBJ1
+◆SYNC FFM-sex2|&F1 3sRd1
+◆SYNC FFM-sex3|&F1 3sRd2 
+◆SYNC FFM-sex4|&F1 3sDg2
+◆SYNC FFM-sex5|Sammich-F1
+◆SYNC FFM-sex6|Dip n Dive-F1
+◆SYNC FFM-sex7|Split-Level-F1
+◆SYNC FFM-sex8|Either/Or-F1
+◆SYNC FFM-sex9|Equal Time-F1
+◆SYNC FFM-sex10|FFM Ride_f1a 
+◆MENU FFM-SEX2
+◆SYNC FFM-sex11|DreamCumTruF 
+◆SYNC FFM-sex12|Seventy-F1
+◆SYNC FFM-sex13|Sharing-F1 
+◆SYNC FFM-sex14|FFM Double-Up F
+◆SYNC FFM-sex15|FFM Double-Down F
+◆SYNC FFM-sex16|3s2 F1
+◆SYNC FFM-sex17|3s4 F1
+◆SYNC FFM-sex18|3s6 F1
+◆SYNC FFM-sex19|3s8a F1
+◆SYNC FFM-sex20|3s9 F1
+◆MENU GIRLS
+◆TOMENU GIRLCUDDLE
+◆TOMENU GIRLSEX1
+◆TOMENU GIRLSEX2
+◆MENU GIRLCUDDLE
+◆SYNC ♀cuddle1♀|CLlF2a
+◆SYNC ♀cuddle2♀|CLlF2b
+◆SYNC ♀cuddle3♀|CLlF2c
+◆SYNC ♀cuddle4♀|CLlF2d
+◆SYNC ♀cuddle5♀|CLlF2e
+◆SYNC ♀cuddle6♀|CLlF2f
+◆SYNC ♀cuddle7♀|CLlF2g
+◆SYNC ♀cuddle8♀|CLlF2h
+◆SYNC ♀cuddle9♀|culbb3
+◆SYNC ♀cuddle10♀|culbb4
+◆MENU GIRLSEX1
+◆SYNC ♀sex1♀|SLlAF2a
+◆SYNC ♀sex2♀|SLlAF2c
+◆SYNC ♀sex3♀|SLlAF2d
+◆SYNC ♀sex4♀|SLlAF2e
+◆SYNC ♀sex5♀|SLlAF2f
+◆SYNC ♀sex6♀|SLlAF2g
+◆SYNC ♀sex7♀|SLlAF2h
+◆SYNC ♀sex8♀|SLlAF2i
+◆SYNC ♀sex9♀|SLlAF2j
+◆SYNC ♀sex10♀|lickher2f2 fast
+◆MENU GIRLSEX2
+◆SYNC ♀sex11♀|preciousU
+◆SYNC ♀sex12♀|selbb2
+◆SYNC ♀sex13♀|Vortex-F2
+◆SYNC ♀sex14♀|selbb3
+◆SYNC ♀sex15♀|selbb4
+◆SYNC ♀sex16♀|selbb5 
+◆SYNC ♀sex17♀|selbb8
+◆SYNC ♀sex18♀|selbb19
+◆SYNC ♀sex19♀|domme-play-1-s
+◆SYNC ♀sex20♀|selbb26 
+◆{sit&sit}<-0.581,0.512,1.279><0,1,0>
+◆{lay&lay1}<-0.111,0.456,1.234><0.5,0.9,-28>
+◆{lay&lay2}<-0.502,0.079,0.293><0.6,-0.8,-140.6>
+◆{talk1}<-0.233,-0.017,0.471><-2,-0,90>
+◆{talk2}<0.209,-0.158,0.422><0,0,58>
+◆{talk3}<-0.038,-0.107,0.45><0,0,55>
+◆{read}<0.494,-0.002,0.375><0,0,95.6>
+◆{drink1}<0.286,-0.004,0.445><-3,-0.3,95.6>
+◆{drink2}<0.086,0.023,0.433><0.1,-3,-178.6>
+◆{drink3}<0.086,0.105,0.455><0.8,2.9,-15.8>
+◆{Cuddle1}<-0.128,0.064,0.776><1.9,-0.8,-23.6>
+◆{Cuddle2}<0.146,0.28,0.564><0.4,3.5,26>
+◆{Cuddle3}<0.025,-0.159,0.268><8,-0.5,90>
+◆{Cuddle4}<-0.409,0.268,0.385><1.2,4,-2.8>
+◆{Cuddle5}<0.205,-0.287,0.294><-4.1,0.3,78.7>
+◆{Cuddle6}<0.102,0.035,0.38><-3,5.2,29.1>
+◆{Cuddle7}<-0.19,-0.129,0.557><0,0,67>
+◆{Cuddle8}<-0.261,-0.166,1.278><5.3,-1.2,87>
+◆{Cuddle9}<0.124,0.199,1.324><0,0,-168>
+◆{Cuddle10}<0.013,-0.221,0.374><-0.8,5,42.5>
+◆{cuddle1}<0.303,0.288,1.294><2.6,1.5,118.1>
+◆{cuddle2}<-0.182,0.143,1.268><1.7,-0.2,-156.3>
+◆{cuddle3}<-0.313,0.345,0.255><0,0,87>
+◆{cuddle4}<-0.031,0.07,0.256><1.9,0.6,-86>
+◆{cuddle5}<0.525,0.314,1.23><-4.8,-1.6,-148>
+◆{cuddle6}<0.087,0.253,1.199><4.7,5.1,-121.5>
+◆{cuddle7}<0.045,-0.326,0.273><0,0,56>
+◆{cuddle8}<0.168,-0.301,0.299><0,0,38.5>
+◆{cuddle9}<-0.138,-0.247,1.25><0.8,-0.6,-123.7>
+◆{cuddle10}<0.589,0.514,0.276><0,0,114>
+◆{cuddle11}<-0.356,0.318,0.277><0,0,50.5>
+◆{cuddle12}<-0.104,0.095,0.573><0,0,90>
+◆{cuddle13}<0.209,0.224,0.254><1.4,-0.3,-92>
+◆{cuddle14}<0.03,-0.011,0.325><2,-0.4,50>
+◆{cuddle15}<0.501,-0.314,0.19><1,-1.8,0>
+◆{cuddle16}<-0.254,0.213,0.269><0,0,87>
+◆{cuddle17}<-0.115,0.044,0.287><2.6,-5.6,-52.3>
+◆{cuddle18}<-0.254,0.213,0.269><0,0,87>
+◆{cuddle19}<0.303,0.108,0.451><0,0,42>
+◆{cuddle20}<-0.008,0.028,0.448><2,-5.2,144.1>
+◆{breastlick}<-0.195,0.189,0.574><-1.5,-0.9,152>
+◆{rub}<0.318,0.312,1.331><1.9,-3.5,27.7>
+◆{finger1}<-0.162,0.187,1.189><-2.6,-0.2,1.8>
+◆{finger2}<-0.375,-0.015,1.192><1.4,-0.8,25>
+◆{finger3}<0.128,0.083,1.293><0,0,-101.4>
+◆{handjob1}<-0.22,-0.056,1.221><4.1,-1.7,16.1>
+◆{handjob2}<-0.124,0.619,1.277><0,0,-69>
+◆{lick1}<-0.159,-0.082,1.373><0,3,180>
+◆{lick2}<0.825,0.595,1.285><-1.7,2.5,33.7>
+◆{lick3}<-0.012,-0.014,1.233><0,0,-65>
+◆{lick4}<0.334,0.123,1.331><0,1,5.1>
+◆{lick5}<0.321,0.453,1.165><2,-2.3,64>
+◆{lick6}<0.55,0.389,1.282><-3.3,4,-121>
+◆{lick7}<0.285,-0.062,1.223><0,0,0>
+◆{blowjob1}<0.276,-0.006,1.315><3,2.6,149.7>
+◆{blowjob2}<0.27,-0.357,1.405><-1.5,-1.3,130>
+◆{blowjob3}<-0.535,0.035,1.179><0.4,5.1,-81.9>
+◆{blowjob4}<0.559,-0.108,1.244><-1.4,1.4,135>
+◆{blowjob5}<0.63,-0.486,1.3><-1,2,90>
+◆{blowjob6}<0.426,-0.06,1.315><0,-1,180>
+◆{blowjob7}<-0.404,-0.074,1.298><0,-1,0>
+◆{mission1}<-0.037,0.066,0.242><0.1,0,-1.5>
+◆{mission2}<0.088,0.294,0.342><-2,0,-90>
+◆{mission3}<0.177,0.123,1.248><-3.2,-4.3,-48.2>
+◆{mission4}<-0.071,-0.189,0.294><2,0,-64.5>
+◆{mission5}<0.022,-0.092,1.283><0,0,115>
+◆{mission6}<0.121,-0.026,1.208><0.7,0.8,-41>
+◆{mission7}<-0.151,0.148,1.319><3,0.3,-84>
+◆{doggy1}<-0.172,0.165,1.413><-3.6,-1.9,116.9>
+◆{doggy2}<0.055,0.078,1.229><1.2,0.1,90>
+◆{doggy3}<0.079,-0.105,1.337><0,0,101.5>
+◆{doggy4}<-0.218,0.196,0.319><-3.1,0.1,76.8>
+◆{doggy5}<0.007,-0.046,0.632><0.4,6.9,176.6>
+◆{doggy6}<0.105,-0.004,1.268><1,-0.3,72.5>
+◆{doggy7}<0.105,-0.004,1.268><1,-0.3,72.5>
+◆{ride1}<-0.339,0.214,1.255><-2.5,-4.3,126.2>
+◆{ride2}<-0.16,-0.039,0.51><-1.5,-1.4,-29.1>
+◆{ride3}<0.011,-0.11,0.441><5.6,5.8,138.2>
+◆{ride4}<-0.182,-0.035,1.45><-0.5,1.5,148>
+◆{ride5}<-0.141,0.081,1.277><0,0,134.2>
+◆{ride6}<-0.275,0.053,1.299><-2.6,-1.8,116.9>
+◆{ride7}<0.126,0.001,1.287><6.9,1.8,87.8>
+◆{cradle1}<0.043,-0.196,0.644><2.5,-3.1,38.6>
+◆{cradle2}<-0.016,-0.196,0.674><1.8,-3.6,26.6>
+◆{cradle3}<-0.016,-0.196,0.674><1.8,-3.6,26.6>
+◆{uv-crack}<-0.016,-0.196,0.674><1.8,-3.6,26.6>
+◆{clampA}<-0.254,-0.48,1.289><0,0,46>
+◆{clampB}<-0.178,-0.402,1.254><-2.2,2.1,46>
+◆{grind}<0.423,-0.46,1.274><0,0,-28.8>
+◆{ass-up}<-0.503,0.007,1.269><-1.2,-3.2,-164>
+◆{close fuck}<-0.361,-0.014,1.318><0,0,-176>
+◆{gate}<-0.045,0.119,1.301><0,5,0>
+◆{capped}<0.256,0.119,1.33><0,0,32>
+◆{sink}<0.5,0.501,1.281><0,0,17>
+◆{gee-gees}<-0.096,0.281,1.262><0,0,-45>
+◆{arch over}<0.306,0.094,1.25><0,2,180>
+◆{deepthroat}<0.364,0.177,1.198><0,0,14>
+◆{throatfuck}<0.094,0.143,1.331><-1,1,-90>
+◆{r-doggy1}<-0.303,0.071,1.226><2.1,1.1,143>
+◆{r-doggy2}<-0.171,-0.115,1.146><0,0,91.6>
+◆{r-doggy3}<-1.299,-0.83,1.038><2.6,-6.4,22.2>
+◆{r-doggy4}<0.061,-0.035,1.28><-0.9,-2.2,95.2>
+◆{r-mission}<0.038,0.098,1.282><-1,2,-29.8>
+◆{r-pound}<0.036,0.067,0.918><3,0,20.1>
+◆{r-ride}<0.14,-0.018,1.499><0.9,1.6,-34>
+◆{r-rutting}<0.015,0.457,1.354><-0.7,-2.1,81.4>
+◆{r-rutting2}<0.562,-0.073,1.279><0,0,180>
+◆{r-clamp}<-0.254,-0.48,1.311><0,0,46>
+◆{r-anal1}<0.173,-0.049,1.251><2.3,-0.3,131.8>
+◆{r-anal2}<0.082,-0.072,0.592><1,-0.3,115.4>
+◆{r-anal3}<0.803,0.348,1.243><0,0,-166>
+◆{r-scratch}<0.153,0.128,1.291><0,0,180>
+◆{r-fisting}<-0.359,0.251,0.445><0.5,-2.2,-35.1>
+◆{anal1}<0.09,-0.044,1.261><2.1,5,-29.4>
+◆{anal2}<0.046,0.274,1.156><-4.2,-2.7,-49.1>
+◆{anal3}<-0.466,0.525,1.344><-5.6,-4,-47.1>
+◆{anal4}<0.084,-0.051,1.317><-2.7,-1.1,-53>
+◆{anal5}<0.204,0.052,1.348><-2.4,4.4,-151.7>
+◆{anal6}<-0.099,-0.221,1.219><3.3,-3.8,-138.9>
+◆{anal7}<-0.399,0.02,1.356><0,0,0>
+◆{cum1}<0.338,0.009,0.81><-0.2,6,-178>
+◆{cum2}<-0.246,-0.116,1.33><3.3,-2.2,56.3>
+◆{cum3}<0.245,-0.312,1.272><0.6,0.7,-89.1>
+◆{cum4}<-0.044,0.005,1.265><0,0,-34>
+◆{MMF-1}<0.635,0.809,0.212><0,0,-19.4>
+◆{MMF-2}<-0.735,0.871,0.214><-7.8,-6.3,-51.1>
+◆{MMF-3}<-0.165,-0.074,0.272><0,0,43>
+◆{MMF-4}<0.274,-0.104,1.304><0,0,129.3>
+◆{MMF-5}<-0.438,0.331,1.299><4.9,1.5,-45.8>
+◆{3-Cuddle1}<0.102,-0.056,0.24><0,0,-39.4>
+◆{3-Cuddle2}<0.102,-0.056,0.24><0,0,-39.4>
+◆{3-Cuddle3}<-0.167,-0.056,0.266><0,0,-57.4>
+◆{3-Cuddle4}<-0.267,0.019,0.289><1.7,1.1,-57.4>
+◆{3-Cuddle5}<-0.122,-0.106,0.257><-0.7,-0.8,-40.4>
+◆{MMF-SEX-1}<-0.027,-0.009,1.27><0,0,-38.8>
+◆{MMF-SEX-2}<0.14,0.056,1.261><-0.9,2.2,137.1>
+◆{MMF-SEX-3}<-0.095,0.679,0.251><0.0,0.0,-104.9>
+◆{MMF-SEX-4}<0.007,-0.066,1.301><4.2,2.7,-58.1>
+◆{MMF-SEX-5}<0.299,0.035,1.27><1.8,0.9,-152>
+◆{MMF-SEX-6}<-0.06,-0.379,1.234><7.9,-9.6,149.5>
+◆{MMF-SEX-7}<0.106,-0.044,1.182><-0.7,-2.8,-54.9>
+◆{MMF-SEX-8}<0.228,-0.021,1.517><1.2,-1.7,24>
+◆{MMF-SEX-9}<-0.064,0.067,1.395><0,0,175>
+◆{MMF-SEX-10}<0.082,0.009,1.29><0,0,136>
+◆{MMF-SEX-11}<0.132,0.075,0.507><1.3,-1.5,132.4>
+◆{MMF-SEX-12}<0.147,-0.285,0.587><0,0,117>
+◆{MMF-SEX-13}<0.287,-0.313,0.53><0,0,150.4>
+◆{MMF-SEX-14}<-0.224,-0.064,0.305><0,0,-135>
+◆{MMF-SEX-15}<0.189,0.184,0.499><0,0,-63.9>
+◆{MMF-SEX-16}<0.076,0.096,0.612><0,0,-44.9>
+◆{MMF-SEX-17}<0.075,0.102,1.309><0,0,180>
+◆{MMF-SEX-18}<0.195,-0.061,0.741><0,0,150>
+◆{MMF-SEX-19}<0.205,-0.058,0.772><0,0,133.2>
+◆{MMF-SEX-20}<0.485,-0.516,1.314><0,0,-85>
+◆{FFM-1}<0.996,0.26,0.158><0,0,110.7>
+◆{FFM-2}<-0.109,-0.381,0.277><0,0,69.6>
+◆{FFM-3}<-1.141,1.03,0.185><-4.3,-8.3,-18.4>
+◆{FFM-4}<-0.104,-0.1,0.231><0,0,-70>
+◆{FFM-5}<0.747,0.501,0.171><-5,7.5,175>
+◆{3-cuddle1}<0.275,0.527,0.27><0,0,38>
+◆{3-cuddle2}<-0.084,0.175,0.226><0,0,53>
+◆{3-cuddle3}<-0.186,0.131,0.307><0,0,-72>
+◆{3-cuddle4}<-0.252,-0.071,0.243><0,0,47>
+◆{3-cuddle5}<0.426,-0.239,0.229><0,0,-52>
+◆{FFM-sex1}<0.432,-0.003,0.716><1.9,-7.6,83.1>
+◆{FFM-sex2}<-0.091,0.269,0.339><-0.7,-0.7,-43.3>
+◆{FFM-sex3}<0.021,0.154,0.838><-6.8,-1.6,102.7>
+◆{FFM-sex4}<0.151,-0.274,0.371><-1.3,-1.5,-43.4>
+◆{FFM-sex5}<-0.008,0.431,1.286><-2.9,-0.4,98.7>
+◆{FFM-sex6}<-0.177,0.074,1.252><2.8,-0.9,72>
+◆{FFM-sex7}<-0.428,0.242,1.259><1.5,1.3,39.4>
+◆{FFM-sex8}<0.068,-0.306,1.288><0,0,24.1>
+◆{FFM-sex9}<0.287,0.192,1.246><0,0,133.6>
+◆{FFM-sex10}<-0.063,-0.084,0.979><-3.6,4.8,132.4>
+◆{FFM-sex11}<-0.315,-0.077,1.336><3,0,180>
+◆{FFM-sex12}<-0.022,0.011,1.244><0,0,65>
+◆{FFM-sex13}<-0.054,-0.354,1.209><0,0,52.9>
+◆{FFM-sex14}<0.003,0.062,1.096><0,0,90>
+◆{FFM-sex15}<0.062,0.068,1.126><-4,0,90>
+◆{FFM-sex16}<-0.041,0.176,0.258><0,0,-64>
+◆{FFM-sex17}<-0.14,0.499,0.445><0,0,66>
+◆{FFM-sex18}<0.213,-0.522,0.288><0,0,-41.4>
+◆{FFM-sex19}<0.435,0.262,0.561><0,0,-125>
+◆{FFM-sex20}<0.659,-0.63,0.206><3.7,3.3,-48.1>
+◆{♀cuddle1♀}<-0.527,0.392,0.297><0,0,3>
+◆{♀cuddle2♀}<-0.223,0.232,0.352><0,0,41>
+◆{♀cuddle3♀}<-0.152,0.326,0.33><-0.5,3.6,41>
+◆{♀cuddle4♀}<-0.082,0.238,0.33><-2.6,2.5,78.8>
+◆{♀cuddle5♀}<0.031,0.379,0.325><1.5,1.3,9.7>
+◆{♀cuddle6♀}<0.296,0.321,0.325><1.8,-0.6,-49.3>
+◆{♀cuddle7♀}<0.296,0.321,0.325><1.9,0.5,-17.3>
+◆{♀cuddle8♀}<0.465,-0.159,0.322><2,0.2,-90>
+◆{♀cuddle9♀}<0.333,-0.099,0.672><0.5,-1.9,18>
+◆{♀cuddle10♀}<0.02,-0.038,1.252><2,-0.4,79>
+◆{♀sex1♀}<0.383,-0.004,0.297><3,0,-90>
+◆{♀sex2♀}<-0.527,0.025,0.324><0,0,98>
+◆{♀sex3♀}<-0.451,-0.346,0.304><0.4,2,170>
+◆{♀sex4♀}<-0.098,0.185,0.309><0,1,26>
+◆{♀sex5♀}<-0.098,0.185,0.309><0,1,26>
+◆{♀sex6♀}<-0.359,0.037,0.346><-0.7,0.7,71>
+◆{♀sex7♀}<-0.359,0.641,0.311><-0.7,0.7,71>
+◆{♀sex8♀}<-0.359,0.641,0.295><-0.7,0.7,71>
+◆{♀sex9♀}<-0.28,-0.171,0.398><0.3,0.9,163>
+◆{♀sex10♀}<-0.002,-0.065,1.201><0,0,135>
+◆{♀sex11♀}<-0.31,-0.03,0.796><1.8,-6.9,24>
+◆{♀sex12♀}<0.285,0.075,1.25><0,0,-148>
+◆{♀sex13♀}<0.081,-0.064,1.243><-0.9,-1.8,-27.1>
+◆{♀sex14♀}<-0.085,-0.029,1.38><-1.2,1.6,36.5>
+◆{♀sex15♀}<-0.058,-0.073,1.187><-0.5,0.5,-95>
+◆{♀sex16♀}<-0.071,0.173,1.439><0,0,-39>
+◆{♀sex17♀}<-0.16,0.042,1.214><-0.3,-1,-15>
+◆{♀sex18♀}<-0.366,0.283,1.275><0,0,-51>
+◆{♀sex19♀}<-0.237,0.168,1.182><-1,0.3,-106>
+◆{♀sex20♀}<0.248,-0.069,1.246><3,0,-90>
+◆ANIM rub|express_cry_emote|5.5
+◆ANIM finger1|express_repulsed_emote|3.5
+◆ANIM finger2|express_toothsmile|3.5
+◆ANIM finger3|express_cry_emote|5.5
+◆ANIM handjob1|express_bored_emote|6.5
+◆ANIM handjob2|express_frown|7.5
+◆ANIM blowjob1|express_open_mouth|1.5
+◆ANIM blowjob2|express_open_mouth|2.5
+◆ANIM blowjob3|express_open_mouth|3.5
+◆ANIM blowjob4|express_open_mouth|1.5
+◆ANIM blowjob5|express_open_mouth|2.5
+◆ANIM blowjob6|express_open_mouth|3.5
+◆ANIM blowjob7|express_open_mouth|3.5
+◆ANIM lick1|express_toothsmile|5.5 
+◆ANIM lick2|express_cry_emote|5.5 
+◆ANIM lick3|express_worry_emote|3.5
+◆ANIM lick4|express_afraid_emote|5.5
+◆ANIM lick5|express_cry_emote|5.5 
+◆ANIM lick6|express_toothsmile|5.5 
+◆ANIM lick7|express_cry_emote|5.5 
+◆ANIM mission1|express_cry_emote|9.5
+◆ANIM mission2|express_toothsmile|6
+◆ANIM mission3|express_cry_emote|2.5
+◆ANIM mission4|express_cry_emote|2.5
+◆ANIM mission5|express_afraid_emote|2.5 
+◆ANIM mission6|express_bored_emote|2.5
+◆ANIM mission7|express_cry_emote|2.5
+◆ANIM doggy1|express_cry_emote|9.5
+◆ANIM doggy2|express_smile|6
+◆ANIM doggy3|express_cry_emote|2.5
+◆ANIM doggy4|express_cry_emote|2.5
+◆ANIM doggy5|express_afraid_emote|2.5 
+◆ANIM doggy6|express_bored_emote|2.5
+◆ANIM doggy7|express_cry_emote|2.5
+◆ANIM ride1|express_cry_emote|9.5
+◆ANIM ride2|express_smile|6
+◆ANIM ride3|express_cry_emote|2.5
+◆ANIM ride4|express_cry_emote|2.5
+◆ANIM ride5|express_afraid_emote|2.5 
+◆ANIM ride6|express_bored_emote|2.5
+◆ANIM ride7|express_cry_emote|2.5
+◆ANIM cradle1|express_toothsmile|6
+◆ANIM cradle2|express_afraid_emote|3
+◆ANIM cradle3|express_toothsmile|6
+◆ANIM uv-crack|express_afraid_emote|4
+◆ANIM clampA|express_worry_emote|2.5
+◆ANIM clampB|express_worry_emote|2.5
+◆ANIM grind|express_cry_emote|4.5
+◆ANIM ass-up|express_worry_emote|2.5
+◆ANIM close fuck|express_bored_emote|2.5
+◆ANIM gate|express_bored_emote|2.5
+◆ANIM capped|express_smile|6.5
+◆ANIM sink|express_cry_emote|2.5
+◆ANIM gee-gees|express_cry_emote|6.5
+◆ANIM arch over|express_toothsmile|6
+◆ANIM deepthroat|express_open_mouth|2.5
+◆ANIM throatfuck|express_open_mouth|3.5
+◆ANIM r-doggy1|express_cry_emote|2.5
+◆ANIM r-doggy2|express_bored_emote|3.5
+◆ANIM r-doggy3|express_afraid_emote|5
+◆ANIM r-doggy4|express_cry_emote|2.5
+◆ANIM r-mission|express_bored_emote|3.5
+◆ANIM r-pound|express_afraid_emote|5
+◆ANIM r-ride|express_cry_emote|2.5
+◆ANIM r-rutting|express_afraid_emote|2.5 
+◆ANIM r-rutting2|express_bored_emote|2.5
+◆ANIM r-clamp|express_cry_emote|2.5
+◆ANIM r-anal1|express_cry_emote|9.5
+◆ANIM r-anal2|express_smile|6
+◆ANIM r-anal3|express_cry_emote|2.5
+◆ANIM r-scratch|express_cry_emote|2.5
+◆ANIM r-fisting|express_afraid_emote|2.5 
+◆ANIM anal1|express_bored_emote|2.5
+◆ANIM anal2|express_cry_emote|2.5
+◆ANIM anal3|express_cry_emote|2.5
+◆ANIM anal4|express_bored_emote|3.5
+◆ANIM anal5|express_afraid_emote|5
+◆ANIM anal6|express_cry_emote|2.5
+◆ANIM anal7|express_bored_emote|3.5
+◆ANIM cum1|express_worry_emote|2.5
+◆ANIM cum2|express_bored_emote|2.5
+◆ANIM cum3|express_bored_emote|2.5
+◆ANIM cum4|express_smile|6.5
+◆ANIM MMF-sex1|express_open_mouth|2.5
+◆ANIM MMF-sex2|express_cry_emote|4 
+◆ANIM MMF-sex3|express_cry_emote|4 
+◆ANIM MMF-sex4|express_open_mouth|2.5
+◆ANIM MMF-sex5|express_open_mouth|2.5
+◆ANIM MMF-sex6|express_tongue_out|4
+◆ANIM MMF-sex7|express_cry_emote|4 
+◆ANIM MMF-sex8|express_cry_emote|4 
+◆ANIM MMF-sex9|express_open_mouth|2.5
+◆ANIM MMF-sex10|express_open_mouth|2.5
+◆ANIM MMF-sex11|express_cry_emote|4 
+◆ANIM MMF-sex12|express_open_mouth|2.5
+◆ANIM MMF-sex13|express_open_mouth|2.5
+◆ANIM MMF-sex14|express_tongue_out|4
+◆ANIM MMF-sex15|express_worry_emote|2.5
+◆ANIM MMF-sex16|express_open_mouth|2.5
+◆ANIM MMF-sex17|express_cry_emote|4 
+◆ANIM MMF-sex18|express_smile|6
+◆ANIM MMF-sex19|express_open_mouth|2.5
+◆ANIM MMF-sex20|express_tongue_out|4
+◆ANIM FFM-sex1|express_tongue_out|4
+◆ANIM FFM-sex2|express_tongue_out|4
+◆ANIM FFM-sex3|express_cry_emote|5
+◆ANIM FFM-sex4|express_tongue_out|4
+◆ANIM FFM-sex5|express_bored_emote|3.5
+◆ANIM FFM-sex6|express_cry_emote|5
+◆ANIM FFM-sex7|express_open_mouth|3.5
+◆ANIM FFM-sex8|express_cry_emote|5
+◆ANIM FFM-sex9|express_cry_emote|5
+◆ANIM FFM-sex10|express_smile|6
+◆ANIM FFM-sex11|express_cry_emote|5
+◆ANIM FFM-sex12|express_tongue_out|4
+◆ANIM FFM-sex13|express_tongue_out|4
+◆ANIM FFM-sex14|express_bored_emote|3.5
+◆ANIM FFM-sex15|express_cry_emote|5
+◆ANIM FFM-sex16|express_smile|6
+◆ANIM FFM-sex17|express_cry_emote|5
+◆ANIM FFM-sex18|express_open_mouth|3.5
+◆ANIM FFM-sex19|express_bored_emote|3.5
+◆ANIM FFM-sex20|express_tongue_out|4
+◆ANIM ♀sex1♀|express_cry_emote|5.5
+◆ANIM ♀sex2♀|express_worry_emote|2.5
+◆ANIM ♀sex3♀|express_smile|9.5 
+◆ANIM ♀sex4♀|express_cry_emote|6.5
+◆ANIM ♀sex5♀|express_tongue_out|3.5
+◆ANIM ♀sex6♀|express_worry_emote|2.5
+◆ANIM ♀sex7♀|express_tongue_out|1.5
+◆ANIM ♀sex8♀|express_tongue_out|3.5
+◆ANIM ♀sex9♀|express_cry_emote|5.5
+◆ANIM ♀sex10♀|express_tongue_out|4.5
+◆ANIM ♀sex11♀|express_tongue_out|2.5
+◆ANIM ♀sex12♀|express_smile|9 
+◆ANIM ♀sex13♀|express_smile|9.5 
+◆ANIM ♀sex14♀|express_tongue_out|5.5
+◆ANIM ♀sex15♀|express_cry_emote|5.5
+◆ANIM ♀sex16♀|express_cry_emote|4.5
+◆ANIM ♀sex17♀|express_smile|9.5 
+◆ANIM ♀sex18♀|express_cry_emote|4.5
+◆ANIM ♀sex19♀|express_cry_emote|5.5
+◆ANIM ♀sex20♀|express_tongue_out|2.5
+◆SITTER 2
+◆TOMENU MMF-CUDDLE
+◆TOMENU MMF-SEX1
+◆TOMENU MMF-SEX2
+◆TOMENU FFM-CUDDLE
+◆TOMENU FFM-SEX1
+◆TOMENU FFM-SEX2
+TOMENU OPTIONS
+MENU OPTIONS
+BUTTON Nerenzo Give|0
+BUTTON TEXTURES|215219714
+
+◆MENU MMF-CUDDLE
+◆SYNC MMF-1|1ms20
+◆SYNC MMF-2|MF SunBath3
+◆SYNC MMF-3|1ms19
+◆SYNC MMF-4|PSLU3
+◆SYNC MMF-5|2sbm6
+◆SYNC 3-Cuddle1|3C1m2
+◆SYNC 3-Cuddle2|3C2m2
+◆SYNC 3-Cuddle3|3C3m2
+◆SYNC 3-Cuddle4|3C4m2
+◆SYNC 3-Cuddle5|3C5m2
+◆BUTTON SWAP MM|90030|0|2
+◆MENU MMF-SEX1
+◆SYNC MMF-SEX-1|Double Duty-M2
+◆SYNC MMF-SEX-2|Double Entry-3-M2
+◆SYNC MMF-SEX-3|9MMF M2
+◆SYNC MMF-SEX-4|InverT-M2 
+◆SYNC MMF-SEX-5|Spitted-M2
+◆SYNC MMF-SEX-6|SideWinderM2 
+◆SYNC MMF-SEX-7|Double Entry-2-M2 
+◆SYNC MMF-SEX-8|Double-Entry-M2
+◆SYNC MMF-SEX-9|Forced-4-M2 
+◆SYNC MMF-SEX-10|Spitted-2-M2
+◆BUTTON SWAP MM|90030|0|2
+◆MENU MMF-SEX2
+◆SYNC MMF-SEX-11|1MMF M2
+◆SYNC MMF-SEX-12|2MMF M2
+◆SYNC MMF-SEX-13|3MMF M2
+◆SYNC MMF-SEX-14|4MMF M2
+◆SYNC MMF-SEX-15|5MMF M2
+◆SYNC MMF-SEX-16|6MMF M2
+◆SYNC MMF-SEX-17|M Masterbate2
+◆SYNC MMF-SEX-18|8MMF M2
+◆SYNC MMF-SEX-19|7MMF M2
+◆SYNC MMF-SEX-20|Forced-5F-M2
+◆MENU FFM-CUDDLE
+◆SYNC FFM-1|1ul13
+◆SYNC FFM-2|F SunBath
+◆SYNC FFM-3|PSLU2
+◆SYNC FFM-4|1sf13
+◆SYNC FFM-5|1fl4
+◆SYNC 3-cuddle1|3c1f2
+◆SYNC 3-cuddle2|3c2f2
+◆SYNC 3-cuddle3|3c3f2
+◆SYNC 3-cuddle4|3c4f2
+◆SYNC 3-cuddle5|3c5f2
+◆MENU FFM-SEX1
+◆SYNC FFM-sex1|&F2 3sBJ1
+◆SYNC FFM-sex2|&F2 3sRd1
+◆SYNC FFM-sex3|&F2 3sRd2
+◆SYNC FFM-sex4|&F2 3sDg2 
+◆SYNC FFM-sex5|Sammich-F2
+◆SYNC FFM-sex6|Dip n Dive-F2
+◆SYNC FFM-sex7|Split-Level-F2
+◆SYNC FFM-sex8|Either/Or-F2
+◆SYNC FFM-sex9|Equal Time-F2
+◆SYNC FFM-sex10|FFM Ride_f2a
+◆MENU FFM-SEX2
+◆SYNC FFM-sex11|DreamCumTruF2
+◆SYNC FFM-sex12|Seventy-F2
+◆SYNC FFM-sex13|Sharing-F2
+◆SYNC FFM-sex14|FFM Double-Up F2
+◆SYNC FFM-sex15|FFM Double-Down F2
+◆SYNC FFM-sex16|3s2 F2
+◆SYNC FFM-sex17|3s4 F2
+◆SYNC FFM-sex18|3s6 F2
+◆SYNC FFM-sex19|3s8a F2
+◆SYNC FFM-sex20|3s9 F2
+◆{MMF-1}<0.464,-0.174,0.288><0,0,120.5>
+◆{MMF-2}<0.276,-0.127,0.226><0,0,-108.6>
+◆{MMF-3}<0.482,-0.707,0.227><3.8,-1,68.5>
+◆{MMF-4}<0.704,0.789,0.998><0,5,169>
+◆{MMF-5}<0.801,0.489,0.229><0,0,-76.1>
+◆{3-Cuddle1}<-0.187,-0.409,0.24><0,0,-39.4>
+◆{3-Cuddle2}<-0.187,-0.409,0.24><0,0,-39.4>
+◆{3-Cuddle3}<-0.551,-0.302,0.266><0,0,-57.4>
+◆{3-Cuddle4}<-0.651,-0.227,0.289><1.7,1.1,-57.4>
+◆{3-Cuddle5}<-0.417,-0.454,0.257><-0.7,-0.8,-40.4>
+◆{MMF-SEX-1}<-0.171,-0.419,1.492><0,0,45.2>
+◆{MMF-SEX-2}<0.266,-0.061,1.32><0.6,0.8,132>
+◆{MMF-SEX-3}<0.035,1.171,0.511><0.0,0.0,-104.9>
+◆{MMF-SEX-4}<0.116,-0.255,1.454><8.6,5.2,119.7>
+◆{MMF-SEX-5}<0.421,0.117,1.216><-2,7.9,-155.8>
+◆{MMF-SEX-6}<0.196,-0.24,1.263><-6.2,3.4,150.3>
+◆{MMF-SEX-7}<0.075,0.018,1.19><-1.8,-1,-56.9>
+◆{MMF-SEX-8}<0.057,-0.093,1.475><0.7,-0.9,24>
+◆{MMF-SEX-9}<-0.877,0.576,1.572><0,0,-32>
+◆{MMF-SEX-10}<-0.507,0.574,1.434><-2.8,-3,-48.1>
+◆{MMF-SEX-11}<0.264,-0.082,0.751><1.3,-1.5,132.4>
+◆{MMF-SEX-12}<0.269,-0.525,0.723><0,0,117>
+◆{MMF-SEX-13}<0.458,-0.409,0.748><0,0,150.4>
+◆{MMF-SEX-14}<-0.369,-0.21,0.561><0,0,45>
+◆{MMF-SEX-15}<0.3,-0.045,0.581><0,0,116.1>
+◆{MMF-SEX-16}<0.268,-0.095,1.37><0,0,135.1>
+◆{MMF-SEX-17}<0.59,0.078,0.522><0,0,180>
+◆{MMF-SEX-18}<0.032,0.497,1.521><0,0,-80>
+◆{MMF-SEX-19}<0.333,0.33,1.504><0,0,-105.8>
+◆{MMF-SEX-20}<0.309,0.337,1.398><-3,-0.3,-85>
+◆{FFM-1}<0.365,-0.076,0.657><1.5,1.1,-45.9>
+◆{FFM-2}<0.752,-0.277,0.251><-1.6,0.2,-117.1>
+◆{FFM-3}<0.395,-0.265,1.297><1.6,5.6,58.8>
+◆{FFM-4}<0.7,0.357,1.208><0.8,5.9,172>
+◆{FFM-5}<-0.801,0.79,1.237><-0.9,-1.9,-25>
+◆{3-cuddle1}<0.458,0.671,0.27><0,0,38>
+◆{3-cuddle2}<0.057,0.361,0.226><0,0,53>
+◆{3-cuddle3}<-0.114,-0.091,0.307><0,0,-72>
+◆{3-cuddle4}<-0.093,0.099,0.243><0,0,47>
+◆{3-cuddle5}<0.569,-0.423,0.229><0,0,-52>
+◆{FFM-sex1}<0.569,-0.137,0.762><0.5,-1.1,131.1>
+◆{FFM-sex2}<0.371,-0.131,1.077><2.4,4.6,-41.1>
+◆{FFM-sex3}<0.138,-0.494,0.784><-19.2,-5.8,104.2>
+◆{FFM-sex4}<-0.446,0.264,0.255><-11.6,-9.4,-44.6>
+◆{FFM-sex5}<-0.005,0.417,1.297><0,0,-81.4>
+◆{FFM-sex6}<-0.284,-0.336,1.225><2.8,-0.9,72>
+◆{FFM-sex7}<-0.469,-0.205,1.275><0.8,0.6,39.4>
+◆{FFM-sex8}<-0.124,0.296,1.283><0,0,-65.9>
+◆{FFM-sex9}<-0.202,-0.231,1.262><0,0,133.6>
+◆{FFM-sex10}<-0.607,-0.703,1.071><-1.1,1.9,134.1>
+◆{FFM-sex11}<-0.283,-0.121,1.338><3,0,180>
+◆{FFM-sex12}<0.171,0.366,1.25><0,0,65>
+◆{FFM-sex13}<0.715,0.673,1.171><0,0,-121.1>
+◆{FFM-sex14}<0,0.046,1.189><0,0,90>
+◆{FFM-sex15}<0.059,0.066,1.307><-4,0,90>
+◆{FFM-sex16}<0.058,-0.025,0.398><0,0,116>
+◆{FFM-sex17}<-0.398,-0.081,0.354><0,0,-114>
+◆{FFM-sex18}<0.731,0.423,0.294><0,0,48.6>
+◆{FFM-sex19}<-0.037,-0.412,0.54><0,0,55>
+◆{FFM-sex20}<0.157,-0.072,0.479><0,0,132>
+◆ANIM MMF-sex1|express_bored_emote|3.5
+◆ANIM MMF-sex2|express_afraid_emote|3
+◆ANIM MMF-sex3|express_smile|7
+◆ANIM MMF-sex4|express_cry_emote|5
+◆ANIM MMF-sex5|express_repulsed_emote|3.5
+◆ANIM MMF-sex6|express_cry_emote|5
+◆ANIM MMF-sex7|express_worry_emote|3.5
+◆ANIM MMF-sex8|express_afraid_emote|3
+◆ANIM MMF-sex9|express_repulsed_emote|3.5
+◆ANIM MMF-sex10|express_cry_emote|5
+◆ANIM MMF-sex11|express_frown|3.5
+◆ANIM MMF-sex12|express_smile|6
+◆ANIM MMF-sex13|express_repulsed_emote|3.5
+◆ANIM MMF-sex14|express_cry_emote|5
+◆ANIM MMF-sex15|express_cry_emote|5
+◆ANIM MMF-sex16|express_worry_emote|3.5
+◆ANIM MMF-sex17|express_frown|3.5
+◆ANIM MMF-sex18|express_afraid_emote|3
+◆ANIM MMF-sex19|express_frown|3.5
+◆ANIM MMF-sex20|express_smile|7
+◆ANIM FFM-sex1|express_tongue_out|6.5
+◆ANIM FFM-sex2|express_worry_emote|3.5
+◆ANIM FFM-sex3|express_smile|9
+◆ANIM FFM-sex4|express_cry_emote|4
+◆ANIM FFM-sex5|express_cry_emote|4
+◆ANIM FFM-sex6|express_smile|9
+◆ANIM FFM-sex7|express_worry_emote|3.5
+◆ANIM FFM-sex8|express_open_mouth|5
+◆ANIM FFM-sex9|express_smile|9
+◆ANIM FFM-sex10|express_cry_emote|4
+◆ANIM FFM-sex11|express_smile|9
+◆ANIM FFM-sex12|express_tongue_out|6.5
+◆ANIM FFM-sex13|express_open_mouth|5
+◆ANIM FFM-sex14|express_cry_emote|4
+◆ANIM FFM-sex15|express_smile|9
+◆ANIM FFM-sex16|express_cry_emote|4
+◆ANIM FFM-sex17|express_tongue_out|6.5
+◆ANIM FFM-sex18|express_tongue_out|6.5
+◆ANIM FFM-sex19|express_cry_emote|4
+◆ANIM FFM-sex20|express_open_mouth|5}
+ 

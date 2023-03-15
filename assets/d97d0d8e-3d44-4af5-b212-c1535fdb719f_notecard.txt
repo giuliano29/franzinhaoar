@@ -1,0 +1,16 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 533
+M-Sit#1|NO COM|Couch3-Male|<2.4352,2.3559,1.0035>|<0.0692,-0.0116,-0.8622,0.5017>
+M-Sit#2|NO COM|zadaroo-sit7|<2.57,2.3659,0.6127>|<0,0,-0.8746,0.4848>
+M-Sit#3|NO COM|Couch4-Male|<2.4665,2.2506,0.7141>|<0,0,-0.9537,0.3008>
+M-Sit#4|NO COM|Couch2-Male|<2.5721,2.0456,0.6771>|<0,0,-0.9988,0.0491>
+M-Sit#5|NO COM|unisex-normalsit|<2.5518,2.2863,0.6177>|<0,0,-0.9588,0.284>
+M-Sit#6|NO COM|pillowsit2-male|<2.6562,2.1852,0.7081>|<0.0139,-0.0094,-0.9039,0.4275>
+M-Sit#7|NO COM|conversationsit2-m|<2.5396,2.3075,0.758>|<0,0,-0.9272,0.3746>
+
+}

@@ -1,0 +1,45 @@
+LLWearable version 22
+Charles Pants
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	7fffffff
+		creator_id	d7099cbf-46bf-4557-bd28-149e3c12ea45
+		owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		last_owner_id	39508062-8358-4da5-88e9-5ce43992c071
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 5
+parameters 21
+160 0
+516 .17
+614 1
+615 1
+625 0
+638 .34
+793 3
+806 1
+807 1
+808 1
+814 1
+815 1
+816 .17
+869 0
+913 .17
+914 1
+915 1
+1017 1
+1018 1
+1035 1
+1036 1
+textures 1
+2 a4c40fa2-d528-4e4f-ab48-b72efa5585bc

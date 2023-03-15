@@ -1,0 +1,212 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 14978
+◆SITTER 0
+[04:06] Floria Kitchen: ◆TOMENU ✖ALONE
+[04:06] Floria Kitchen: ◆TOMENU  ㋡FRIENDS
+[04:06] Floria Kitchen: ◆TOMENU ♥LOVERS
+[04:06] Floria Kitchen: ◆MENU ♥LOVERS
+[04:06] Floria Kitchen: ◆TOMENU ❊COOKING
+[04:06] Floria Kitchen: ◆TOMENU ★CUDDLES
+[04:06] Floria Kitchen: ◆TOMENU ♥KISSES
+[04:06] Floria Kitchen: ◆MENU ✖ALONE
+[04:06] Floria Kitchen: ◆POSE →Chop|Chop F
+[04:06] Floria Kitchen: ◆POSE BakeMeat|Cook2 F
+[04:06] Floria Kitchen: ◆POSE MakeSoup|Stir
+[04:06] Floria Kitchen: ◆POSE CleanFish|[RNP] Cleaning fish #1
+[04:06] Floria Kitchen: ◆POSE BakeFish|Cook2 F
+[04:06] Floria Kitchen: ◆POSE DrinkCoffee|[RNP] Drinking Coffee #4
+[04:06] Floria Kitchen: ◆POSE →Sweep|Sweep F
+[04:06] Floria Kitchen: ◆POSE ScrubFloor|[RNP] Floor scrubbing
+[04:06] Floria Kitchen: ◆MENU ♥KISSES
+[04:06] Floria Kitchen: ◆SYNC Passion|F kisshim
+[04:06] Floria Kitchen: ◆SYNC Kisses|F kissher
+[04:06] Floria Kitchen: ◆SYNC Nvr 2 Far|F NeverTooFar
+[04:06] Floria Kitchen: ◆SYNC TheHeart|F TheHeart
+[04:06] Floria Kitchen: ◆SYNC Always|F always
+[04:06] Floria Kitchen: ◆SYNC MyLove|Wall Kiss 3 F
+[04:06] Floria Kitchen: ◆SYNC InYourEyes|am.venus-fm
+[04:06] Floria Kitchen: ◆SYNC InLove|am.catch-fm
+[04:06] Floria Kitchen: ◆SYNC WithoutU|F WithoutYou
+[04:06] Floria Kitchen: ◆SYNC HoldMyHeart|Stand Kiss 1F
+[04:06] Floria Kitchen: ◆SYNC 4ever|Stand_Kiss_6_F
+[04:06] Floria Kitchen: ◆SYNC HoldMe|Wall Kiss 1F
+[04:06] Floria Kitchen: ◆MENU ★CUDDLES
+[04:06] Floria Kitchen: ◆SYNC Miss U|F missyou
+[04:06] Floria Kitchen: ◆SYNC Forever|sd.bkagainst-fm
+[04:06] Floria Kitchen: ◆SYNC Dance|sd.dance-fm
+[04:06] Floria Kitchen: ◆SYNC Moment|sd.moment-fm
+[04:06] Floria Kitchen: ◆SYNC Sympathy|sd.sympatico-fm
+[04:06] Floria Kitchen: ◆SYNC One&Only|sd.wall.fm
+[04:06] Floria Kitchen: ◆SYNC BeMine|am.being-fm
+[04:06] Floria Kitchen: ◆SYNC You&I|F YouAndI
+[04:06] Floria Kitchen: ◆MENU ❊COOKING
+[04:06] Floria Kitchen: ◆SYNC ❊1|cook-f-fist
+[04:06] Floria Kitchen: ◆SYNC ❊2|Female Cooking
+[04:06] Floria Kitchen: ◆SYNC ❊3|F Shw3
+[04:06] Floria Kitchen: ◆SYNC ❊4|stove1-f
+[04:06] Floria Kitchen: ◆SYNC ❊5|stove2-f
+[04:06] Floria Kitchen: ◆MENU  ㋡FRIENDS
+[04:06] Floria Kitchen: ◆SYNC CutVeggies|Chop F
+[04:06] Floria Kitchen: ◆SYNC Cook|Cook2 F
+[04:06] Floria Kitchen: ◆SYNC CoffeeTime|[RNP] Drinking Coffe #1
+[04:06] Floria Kitchen: ◆SYNC ServeWine|lean
+[04:06] Floria Kitchen: ◆SYNC DrinkWine|drink wine
+[04:06] Floria Kitchen: ◆SYNC SweepFloor|Sweep F
+[04:06] Floria Kitchen: ◆SYNC Scrubing|[RNP] Floor scrubbing
+[04:06] Floria Kitchen: ◆{→Chop}<-0.252200, -0.774120, 1.634610><0.000000, -90.000000, 90.000000>
+[04:06] Floria Kitchen: ◆{BakeMeat}<-0.244630, -0.796200, -0.411890><0.000000, -90.000000, 90.000000>
+[04:06] Floria Kitchen: ◆{MakeSoup}<-0.234130, -0.775210, -0.499720><0.000000, -90.000000, 78.998410>
+[04:06] Floria Kitchen: ◆{→Sweep}<-0.331050, -1.348710, -0.111130><-119.996600, -88.249220, 179.835300>
+[04:06] Floria Kitchen: ◆{DrinkCoffee}<-0.034670, -0.279510, -2.621330><-97.950330, -88.246100, 179.880300>
+[04:06] Floria Kitchen: ◆{CleanFish}<-0.234130, -0.711120, 1.673480><89.867610, -88.242530, 179.867600>
+[04:06] Floria Kitchen: ◆{BakeFish}<-0.253170, -0.854830, -0.346590><89.867610, -88.242530, 179.867600>
+[04:06] Floria Kitchen: ◆{ScrubFloor}<-0.109130, -1.222520, -1.456040><179.999900, -88.242080, 179.999900>
+[04:06] Floria Kitchen: ◆{Passion}<-0.226320, -1.047730, 0.617770><0.000000, -89.947660, 0.002480>
+[04:06] Floria Kitchen: ◆{Kisses}<-0.193360, -0.889740, 0.587460><0.000000, -89.947660, 0.002480>
+[04:06] Floria Kitchen: ◆{Nvr 2 Far}<-0.239260, -0.914950, 0.574620><0.000000, -89.947660, 89.994740>
+[04:06] Floria Kitchen: ◆{TheHeart}<-0.493650, -0.953630, 0.281960><-89.766980, -80.959300, -179.767000>
+[04:06] Floria Kitchen: ◆{Always}<-0.390380, -0.891680, 0.408540><0.000000, -89.960430, -90.000010>
+[04:06] Floria Kitchen: ◆{MyLove}<-0.107420, -0.518250, 1.776050><0.000000, -89.980220, 90.036710>
+[04:06] Floria Kitchen: ◆{InYourEyes}<-0.368160, -0.606670, 2.063440><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{InLove}<-0.397950, -0.242130, 2.439110><0.000000, -89.972030, -90.000010>
+[04:06] Floria Kitchen: ◆{WithoutU}<-0.310790, -0.992230, 1.812160><0.000000, -89.972030, -126.002500>
+[04:06] Floria Kitchen: ◆{HoldMyHeart}<-0.081790, -1.086270, 1.470710><0.000000, -90.000000, -90.000000>
+[04:06] Floria Kitchen: ◆{4ever}<-0.160160, -0.610000, 1.987090><89.999920, -84.999150, -0.000100>
+[04:06] Floria Kitchen: ◆{HoldMe}<-0.225340, -0.527510, 2.488850><0.000000, -90.000000, 90.000000>
+[04:06] Floria Kitchen: ◆{Miss U}<-0.091550, -0.782560, 0.614730><0.000000, -89.965740, -89.963290>
+[04:06] Floria Kitchen: ◆{Forever}<-0.154790, -0.969010, 0.612500><0.000000, -89.965740, 90.036710>
+[04:06] Floria Kitchen: ◆{Dance}<-0.170410, -1.249660, 0.144080><0.000000, -89.955760, -180.000000>
+[04:06] Floria Kitchen: ◆{Moment}<-0.140380, -1.262130, 0.618820><0.000000, -89.955760, -138.000900>
+[04:06] Floria Kitchen: ◆{Sympathy}<-0.240230, -0.691830, 0.400310><0.000000, -89.955760, -90.003490>
+[04:06] Floria Kitchen: ◆{One&Only}<-0.166990, -0.852750, 0.819000><0.000000, -89.951550, -90.000030>
+[04:06] Floria Kitchen: ◆{BeMine}<-0.559810, -0.230260, 1.622190><0.000000, -89.955760, -73.006360>
+[04:06] Floria Kitchen: ◆{You&I}<-0.133060, -0.849180, 1.633320><0.000000, -89.947660, -90.000020>
+[04:06] Floria Kitchen: ◆{❊1}<-0.151120, -0.798370, -0.181440><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{❊2}<-0.262450, -0.769520, -0.253910><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{❊3}<-0.182860, -0.772350, -0.262090><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{❊4}<-0.238770, -0.656620, 0.308460><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{❊5}<-0.174320, -0.754840, 0.308460><0.000000, -89.972030, 90.000000>
+[04:06] Floria Kitchen: ◆{CutVeggies}<-0.265380, -0.737630, 1.642660><0.000000, -90.000000, 72.503840>
+[04:06] Floria Kitchen: ◆{Cook}<-0.282960, -0.754820, -0.551740><0.000000, -89.980220, 75.000010>
+[04:06] Floria Kitchen: ◆{SweepFloor}<-0.210940, -1.749630, -0.919550><0.000000, -89.980220, 0.995440>
+[04:06] Floria Kitchen: ◆{ServeWine}<-0.087890, -0.663770, 2.584950><0.000000, -90.000000, -113.969500>
+[04:06] Floria Kitchen: ◆{DrinkWine}<-0.064210, -0.528640, 2.650370><0.000000, -89.980220, -114.621700>
+[04:06] Floria Kitchen: ◆{Scrubing}<-0.073240, -1.197920, -0.202830><0.000000, -89.980220, 0.000000>
+[04:06] Floria Kitchen: ◆{CoffeeTime}<-0.153080, -0.630220, -2.752270><0.000000, -90.000000, 44.999610>
+[04:06] Floria Kitchen: ◆SITTER 1
+[04:06] Floria Kitchen: ◆TOMENU  ㋡FRIENDS
+[04:06] Floria Kitchen: ◆TOMENU ♥LOVERS
+[04:06] Floria Kitchen: ◆MENU ♥LOVERS
+[04:06] Floria Kitchen: ◆TOMENU ❊COOKING
+[04:06] Floria Kitchen: ◆TOMENU ★CUDDLES
+[04:06] Floria Kitchen: ◆TOMENU ♥KISSES
+[04:06] Floria Kitchen: ◆MENU  ㋡FRIENDS
+[04:06] Floria Kitchen: ◆SYNC CutVeggies|Chop M
+[04:06] Floria Kitchen: ◆SYNC Cook|leaning
+[04:07] Floria Kitchen: ◆SYNC CoffeeTime|[RNP] Drinking Coffe #3
+[04:06] Floria Kitchen: ◆SYNC ServeWine|uncorking2
+[04:06] Floria Kitchen: ◆SYNC DrinkWine|drink wine M
+[04:06] Floria Kitchen: ◆SYNC SweepFloor|Sweep M
+[04:07] Floria Kitchen: ◆SYNC Scrubing|[RNP] Floor scrubbing
+[04:06] Floria Kitchen: ◆MENU ❊COOKING
+[04:06] Floria Kitchen: ◆SYNC ❊1|cook-m
+[04:06] Floria Kitchen: ◆SYNC ❊2|Male Cooking
+[04:06] Floria Kitchen: ◆SYNC ❊3|M Shw3
+[04:07] Floria Kitchen: ◆SYNC ❊4|stove1-m
+[04:07] Floria Kitchen: ◆SYNC ❊5|stove2-m
+[04:06] Floria Kitchen: ◆MENU ★CUDDLES
+[04:06] Floria Kitchen: ◆SYNC Miss U|M missyou
+[04:06] Floria Kitchen: ◆SYNC Forever|sd.bkagainst-ml
+[04:06] Floria Kitchen: ◆SYNC Dance|sd.dance-ml
+[04:06] Floria Kitchen: ◆SYNC Moment|sd.moment-ml
+[04:06] Floria Kitchen: ◆SYNC Sympathy|sd.sympatico-ml
+[04:06] Floria Kitchen: ◆SYNC One&Only|sd.wall.ml
+[04:06] Floria Kitchen: ◆SYNC BeMine|am.being-ml
+[04:06] Floria Kitchen: ◆SYNC You&I|M YouAndI
+[04:06] Floria Kitchen: ◆MENU ♥KISSES
+[04:06] Floria Kitchen: ◆SYNC Passion|M kisshim
+[04:06] Floria Kitchen: ◆SYNC Kisses|M kissher
+[04:07] Floria Kitchen: ◆SYNC Nvr 2 Far|M NeverTooFar
+[04:07] Floria Kitchen: ◆SYNC TheHeart|M TheHeart
+[04:07] Floria Kitchen: ◆SYNC Always|M always
+[04:07] Floria Kitchen: ◆SYNC MyLove|Wall Kiss 3 M
+[04:07] Floria Kitchen: ◆SYNC InYourEyes|am.venus-ml
+[04:07] Floria Kitchen: ◆SYNC InLove|am.catch-ml
+[04:07] Floria Kitchen: ◆SYNC WithoutU|M WithoutYou
+[04:07] Floria Kitchen: ◆SYNC HoldMyHeart|Stand Kiss 1M
+[04:07] Floria Kitchen: ◆SYNC 4ever|Stand_Kiss_6_M
+[04:07] Floria Kitchen: ◆SYNC HoldMe|Wall Kiss 1M
+[04:07] Floria Kitchen: ◆{Cook}<-0.174070, -0.605530, 0.885530><0.000000, -90.000000, -147.505700>
+[04:07] Floria Kitchen: ◆{CutVeggies}<-0.290280, -0.787870, 2.254320><0.000000, -90.000000, 112.499200>
+[04:07] Floria Kitchen: ◆{SweepFloor}<-0.375490, -1.187130, 1.883690><0.000000, -90.000000, -125.000100>
+[04:07] Floria Kitchen: ◆{ServeWine}<-0.272220, -0.797390, 1.685840><0.000000, -90.000000, 90.026210>
+[04:07] Floria Kitchen: ◆{DrinkWine}<-0.257320, -0.479510, 1.358700><0.000000, -90.000000, -50.625000>
+[04:07] Floria Kitchen: ◆{❊1}<-0.307130, -0.654480, -0.155320><0.000000, -90.000000, 89.963290>
+[04:07] Floria Kitchen: ◆{❊2}<-0.380370, -0.625490, -0.127040><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{❊3}<-0.338870, -1.003850, -0.249080><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{Miss U}<-0.124760, -0.861180, 0.593780><0.000000, -90.000000, -90.000010>
+[04:07] Floria Kitchen: ◆{Forever}<-0.146000, -0.790730, 0.586270><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{Dance}<-0.220460, -1.068760, 0.147590><0.000000, -90.000000, 179.960400>
+[04:07] Floria Kitchen: ◆{Moment}<-0.190430, -1.125170, 0.500020><0.000000, -90.000000, -138.000800>
+[04:07] Floria Kitchen: ◆{Sympathy}<-0.290280, -0.675290, 0.464370><0.000000, -90.000000, -90.000010>
+[04:07] Floria Kitchen: ◆{One&Only}<-0.217040, -0.720610, 0.644840><0.000000, -90.000000, -90.000010>
+[04:07] Floria Kitchen: ◆{BeMine}<-0.431150, -0.216660, 1.575310><0.000000, -90.000000, -90.000000>
+[04:07] Floria Kitchen: ◆{You&I}<-0.307130, -0.617680, 1.716330><0.000000, -90.000000, -90.000000>
+[04:07] Floria Kitchen: ◆{Passion}<-0.188480, -1.056760, 0.612760><0.000000, -90.000000, 0.000000>
+[04:07] Floria Kitchen: ◆{Kisses}<-0.155270, -0.899750, 0.582460><0.000000, -90.000000, 0.000000>
+[04:07] Floria Kitchen: ◆{Nvr 2 Far}<-0.201170, -0.911450, 0.583650><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{TheHeart}<-0.232670, -0.832840, 0.271950><0.000000, -90.000000, -90.000000>
+[04:07] Floria Kitchen: ◆{Always}<-0.238280, -0.946490, 0.399500><0.000000, -90.000000, -90.000000>
+[04:07] Floria Kitchen: ◆{MyLove}<-0.281490, -0.514860, 1.767010><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{HoldMe}<-0.153320, -0.701220, 2.480020><0.000000, -89.972030, 90.000000>
+[04:07] Floria Kitchen: ◆{4ever}<-0.269290, -0.923000, 1.948940><90.407630, -84.999280, -179.566100>
+[04:07] Floria Kitchen: ◆{HoldMyHeart}<-0.207760, -0.878070, 1.526560><0.000000, -89.972030, -90.000010>
+[04:07] Floria Kitchen: ◆{InYourEyes}<-0.388180, -0.413090, 2.064420><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆{InLove}<-0.447020, -0.216550, 2.290920><0.000000, -90.000000, -90.000000>
+[04:07] Floria Kitchen: ◆{WithoutU}<-0.242920, -0.892030, 2.005460><0.000000, -90.000000, -126.002500>
+[04:07] Floria Kitchen: ◆{Scrubing}<-0.178220, -2.264020, 0.602810><0.000000, -90.000000, 180.000000>
+[04:07] Floria Kitchen: ◆{CoffeeTime}<-0.230220, -0.520020, -1.449200><0.000000, -90.000000, -118.125400>
+[04:07] Floria Kitchen: ◆{❊4}<-0.242680, -0.270160, -0.802090><0.000000, -90.000000, 115.000000>
+[04:07] Floria Kitchen: ◆{❊5}<-0.260250, -0.754940, -0.160330><0.000000, -90.000000, 90.000000>
+[04:07] Floria Kitchen: ◆-----EXTRAS------------
+[04:07] Floria Kitchen: ◆PROP →Chop|Chopping board|<-0.03174, -0.09032, 1.61263>|<0.00000, -90.00000, 0.00000>
+[04:07] Floria Kitchen: ◆PROP BakeMeat|Meat|<-0.15869, -0.16823, -0.00713>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP MakeSoup|Soup|<-0.16479, -0.20560, -0.01083>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP CleanFish|Chopping fish|<-0.06811, -0.21262, 1.79674>|<0.00000, -90.00000, 180.00000>
+[04:07] Floria Kitchen: ◆PROP BakeFish|Fish|<-0.14526, -0.18933, 0.01217>|<0.00000, -90.00000, 100.00000>
+[04:07] Floria Kitchen: ◆PROP ScrubFloor|Bucket|<0.98877, -1.73261, -1.05896>|<0.00000, -90.00000, 0.00000>
+[04:07] Floria Kitchen: ◆PROP CutVeggies|Chopping board|<-0.05371, -0.09157, 1.84072>|<0.00000, -90.00000, 0.00000>
+[04:07] Floria Kitchen: ◆PROP ServeWine|Wine glasses|<-0.15454, -0.28816, 1.70148>|<0.00000, -90.00000, -90.00002>
+[04:07] Floria Kitchen: ◆PROP DrinkWine|Wine bottle prop|<-1.11572, -0.15137, 3.51100>|<-90.00000, -0.00350, 0.00000>
+[04:07] Floria Kitchen: ◆PROP Scrubing|Bucket|<0.99463, -1.65050, 0.20754>|<0.00000, -90.00000, 0.00000>
+[04:07] Floria Kitchen: ◆PROP ❊1|Soup|<-0.16187, -0.19972, -0.01948>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP ❊2|Soup|<-0.16187, -0.19972, -0.01948>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP ❊3|Soup|<-0.16187, -0.19972, -0.01948>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP ❊4|Meat|<-0.15869, -0.16823, -0.00713>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆PROP ❊5|Soup|<-0.16138, -0.20601, -0.01940>|<0.00000, -90.00000, 0.00000>
+[04:07] Floria Kitchen: ◆PROP Cook|Soup|<-0.16162, -0.19989, -0.02086>|<0.00000, -90.00000, -0.00001>
+[04:07] Floria Kitchen: ◆ITEM BakeMeat|Wooden ladle|
+[04:07] Floria Kitchen: ◆ITEM MakeSoup|Wooden ladle|
+[04:07] Floria Kitchen: ◆ITEM →Chop|Knife|
+[04:07] Floria Kitchen: ◆ITEM →Sweep|Broom|
+[04:07] Floria Kitchen: ◆ITEM Cook|Wooden ladle|
+[04:07] Floria Kitchen: ◆ITEM SweepFloor|Broom|
+[04:07] Floria Kitchen: ◆ITEM ServeWine|Wine bottle|
+[04:07] Floria Kitchen: ◆ITEM DrinkWine|Wine glass|
+[04:07] Floria Kitchen: ◆ITEM ❊1|Wooden ladle2|
+[04:07] Floria Kitchen: ◆ITEM ❊2|Wooden ladle2|
+[04:07] Floria Kitchen: ◆ITEM ❊4|Wooden ladle2|
+[04:07] Floria Kitchen: ◆ITEM ❊5|Wooden ladle2|
+[04:07] Floria Kitchen: ◆ITEM DrinkCoffee|Coffee cup|
+[04:07] Floria Kitchen: ◆ITEM CleanFish|Knife|
+[04:07] Floria Kitchen: ◆ITEM BakeFish|Wooden ladle|
+[04:07] Floria Kitchen: ◆ITEM ScrubFloor|Cloth|
+[04:07] Floria Kitchen: ◆ITEM CutVeggies|Knife|
+[04:07] Floria Kitchen: ◆ITEM Scrubing|Cloth|
+[04:07] Floria Kitchen: ◆ITEM CoffeeTime|Coffee cup|}
+ 

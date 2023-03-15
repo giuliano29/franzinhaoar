@@ -1,0 +1,63 @@
+LLWearable version 22
+Joel skin 2
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	39508062-8358-4da5-88e9-5ce43992c071
+		owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		last_owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 1
+parameters 37
+108 0
+110 0
+111 .5
+116 0
+117 0
+118 0
+125 1
+126 1
+150 1
+158 0
+159 0
+161 1
+162 0
+163 0
+165 0
+700 .25
+701 0
+702 0
+703 0
+704 0
+705 .5
+706 .6
+707 0
+708 0
+709 0
+710 0
+711 .5
+712 0
+713 .7
+714 0
+715 0
+775 0
+776 0
+777 0
+873 0
+874 1
+878 1
+textures 3
+0 d4a1715f-0104-4a56-99b0-c4010ccc6567
+5 17234488-a40a-4d59-80a5-4e54bf2e689b
+6 021f5bab-b1ab-46c7-9fc8-fdd2d46c34fe

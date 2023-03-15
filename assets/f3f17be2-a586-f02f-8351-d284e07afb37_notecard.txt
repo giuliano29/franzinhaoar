@@ -1,0 +1,509 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 30953
+◆SITTER 0
+◆TOMENU ㋡HANGout
+◆TOMENU ★SLEEP
+◆TOMENU ♥LOVERS
+◆TOMENU ❊ADULT
+◆MENU ㋡HANGout
+◆TOMENU ❊ALONE
+◆TOMENU ❊TOGETHER
+◆MENU ❊ALONE
+◆POSE DayDream|60
+◆POSE Nap|91
+◆POSE Read|92
+◆POSE FlipPage|58f
+◆POSE DearDiary|93
+◆POSE Surf|58m
+◆POSE Breakfast|62f
+◆POSE Chocolate|94
+◆POSE OnPhone1|95
+◆POSE OnPhone2|96
+◆POSE OnPhone3|97
+◆POSE Lay1 F|98
+◆POSE Lay2 F|99
+◆POSE Lay1 M|100
+◆POSE Lay2 M|101
+◆MENU ❊TOGETHER
+◆SYNC SpendTime|58f
+◆SYNC Chat|59
+◆SYNC OldTimes|60
+◆SYNC Listen|61
+◆SYNC BFinBed1|62f
+◆SYNC BFinBed2|63f
+◆SYNC Surfing|64f
+◆SYNC Gossip|65f
+◆MENU ★SLEEP
+◆TOMENU ❊SOLO
+◆TOMENU ❊COUPLE
+◆MENU ❊COUPLE
+◆SYNC →SleepTight|66f
+◆SYNC →Sleep1|67f
+◆SYNC →Sleep2|68f
+◆SYNC →Sleep3|69f
+◆SYNC →Sleep4|70f
+◆MENU ❊SOLO
+◆POSE Sleep1|70f
+◆POSE Sleep2|70m
+◆POSE Sleep3|102
+◆POSE Sleep4|103
+◆POSE Sleep5|104
+◆POSE Sleep6|105
+◆MENU ♥LOVERS
+◆TOMENU ❊CUDDLES
+◆TOMENU ❊KISSES
+◆MENU ❊KISSES
+◆SYNC Conquered|71f
+◆SYNC Drowning|72f
+◆SYNC OnlyYou|73f
+◆SYNC Seduction|74f
+◆SYNC SweetLips|75f
+◆SYNC ToBeWithU|76f
+◆SYNC Adore|77f
+◆SYNC 4ever|78f
+◆SYNC LittleCloser|79f
+◆SYNC Passion|80f
+◆MENU ❊CUDDLES
+◆SYNC AtYourSide|81f
+◆SYNC Stay|82f
+◆SYNC Timeless|83f
+◆SYNC WatchingU|84f
+◆SYNC Whisper|85f
+◆SYNC HoldMy♥|86f
+◆SYNC SoBeautiful|87f
+◆SYNC InMyArms|88f
+◆SYNC HereWithU|89f
+◆SYNC WithU|90f
+◆MENU ❊ADULT
+◆TOMENU ❊FELLATIO
+◆TOMENU ❊CUNNILINGUS
+◆TOMENU ❊SEX
+◆MENU ❊FELLATIO
+◆SYNC Cinema|38f
+◆SYNC Game's on|20f
+◆SYNC Atten-Hut|28f
+◆SYNC BJ1|52f
+◆SYNC BJ2|53f
+◆SYNC FuckFace|19f
+◆SYNC 68 His|23f
+◆SYNC HeadRest|21f
+◆MENU ❊CUNNILINGUS
+◆SYNC Cunnilingus|14f
+◆SYNC Taste g|54f
+◆SYNC Taste h|55f
+◆SYNC Suplex|13f
+◆SYNC Scarf|12f
+◆SYNC LickHer 1|56f
+◆SYNC Flagpole|8f
+◆SYNC LickHer 2|57f
+◆SYNC NorthFace|11f
+◆SYNC 68 Hers|22f
+◆SYNC Feedbag|7f
+◆MENU ❊SEX
+◆SYNC Front g|30f
+◆SYNC Front h|31f
+◆SYNC Delight|5f
+◆SYNC Facing 1|32f
+◆SYNC Facing 2|33f
+◆SYNC Facing 3|34f
+◆SYNC Cradle|35f
+◆SYNC DeckChair|4f
+◆SYNC Drill|6f
+◆SYNC Ride g|39f
+◆SYNC Ride h|40f
+◆SYNC RideMore g|41f
+◆SYNC RideMore h|42f
+◆SYNC OnTop 1|43f
+◆SYNC OnTop 2|44f
+◆SYNC Behind 1|45f
+◆SYNC Behind 2|46f
+[08:35] Floral bed: ◆SYNC Behind 3|47f
+[06:53] Floral bed: ◆SYNC Basset|29f
+[06:53] Floral bed: ◆SYNC BentSpoon|2f
+[06:53] Floral bed: ◆SYNC Crab|36f
+[08:35] Floral bed: ◆SYNC Doggy|48f
+[06:53] Floral bed: ◆SYNC Ben Dover|1f
+[06:53] Floral bed: ◆SYNC Bodyguard|16f
+[06:53] Floral bed: ◆SYNC Booster|17f
+[06:53] Floral bed: ◆SYNC Bulldog|37f
+[06:53] Floral bed: ◆SYNC Bridge|18f
+[06:53] Floral bed: ◆SYNC Arch|25f
+[06:53] Floral bed: ◆SYNC ArmChair|26f
+[06:53] Floral bed: ◆SYNC Acrobat|24f
+[08:35] Floral bed: ◆SYNC Spoon|49f
+[06:53] Floral bed: ◆SYNC Cross|3f
+[06:53] Floral bed: ◆SYNC Folded chair|9f
+[06:53] Floral bed: ◆SYNC LegsOnShoulder|15f
+[08:35] Floral bed: ◆SYNC Cum1|50f
+[08:35] Floral bed: ◆SYNC Cum2|51f
+[10:05] Floral bed1: ◆{DayDream}<-0.140610, 0.288360, 0.141850><0.000000, 0.000000, -70.999420>
+[10:05] Floral bed1: ◆{Nap}<-0.616490, 0.227200, 0.313960><4.962240, 4.943080, 44.780880>
+[10:05] Floral bed1: ◆{Read}<0.042530, -0.458020, 0.295650><6.349200, 2.949170, 24.832240>
+[10:05] Floral bed1: ◆{FlipPage}<-0.140660, -0.386110, 0.291990><6.349200, 2.949170, 24.832240>
+[10:05] Floral bed1: ◆{DearDiary}<-0.025440, -0.386110, 1.282470><6.349200, 2.949170, 24.832240>
+[10:05] Floral bed1: ◆{Surf}<-0.501680, 0.825300, 0.163330><-0.010100, 0.001420, -86.964610>
+[10:05] Floral bed1: ◆{Breakfast}<0.402340, 1.435140, 0.288570><-0.005680, -3.000850, -90.000170>
+[10:05] Floral bed1: ◆{Chocolate}<-0.301760, 0.243550, 0.244870><0.000000, 0.000000, -52.004710>
+[10:05] Floral bed1: ◆{OnPhone1}<0.210650, -0.201510, 0.652590><0.000000, 0.000000, -25.007150>
+[10:05] Floral bed1: ◆{OnPhone2}<0.210650, -0.201510, 0.635990><0.000000, 0.000000, -25.007150>
+[10:05] Floral bed1: ◆{OnPhone3}<0.210650, -0.201510, 0.650390><0.000000, 0.000000, -25.007150>
+[10:05] Floral bed1: ◆{Lay1 F}<0.162550, -0.201510, 1.230470><0.000000, 0.000000, -25.007150>
+[10:05] Floral bed1: ◆{Lay2 F}<0.162540, -0.201510, 1.266600><0.000000, 0.000000, -65.010920>
+[10:05] Floral bed1: ◆{Lay1 M}<-0.176070, 0.224290, 1.268310><0.000000, 0.000000, -65.010920>
+[10:05] Floral bed1: ◆{Lay2 M}<-0.176060, 0.224290, 1.312740><0.000000, 0.000000, -65.010920>
+[10:05] Floral bed1: ◆{SpendTime}<-0.587550, 0.407200, 0.289310><0.000000, 0.000000, -86.014220>
+[10:05] Floral bed1: ◆{Chat}<-0.164730, -0.555020, 0.256100><0.000000, 0.000000, 129.999900>
+[10:05] Floral bed1: ◆{OldTimes}<-0.299420, 0.299680, 0.186770><0.000000, 0.000000, -83.002910>
+[10:05] Floral bed1: ◆{Listen}<-0.482570, 0.485340, 0.170900><0.000000, 0.000000, -83.002910>
+[10:05] Floral bed1: ◆{BFinBed1}<0.484240, 1.355160, 0.228030><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{BFinBed2}<-0.348160, 1.045870, 0.185300><0.000000, -3.000040, -90.000000>
+[10:05] Floral bed1: ◆{Surfing}<-0.454160, -0.368710, 0.175540><0.000000, 0.000000, -73.011020>
+[10:05] Floral bed1: ◆{Gossip}<0.698470, 0.321990, 0.187500><0.000000, 0.000000, -0.002290>
+[10:05] Floral bed1: ◆{→SleepTight}<-0.068660, 0.271880, 0.816410><10.027930, 0.002410, -89.972560>
+[10:05] Floral bed1: ◆{→Sleep1}<-0.038060, 0.252580, 0.200680><4.036040, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{→Sleep2}<-0.450450, 0.382080, 0.138920><19.730890, -2.714250, -82.266280>
+[10:05] Floral bed1: ◆{→Sleep3}<-0.170560, 0.497940, 0.227780><3.932040, 0.908110, -77.031500>
+[10:05] Floral bed1: ◆{→Sleep4}<-0.170560, 0.493770, 0.055420><14.490670, 2.014500, -60.066520>
+[10:05] Floral bed1: ◆{Sleep1}<-0.151260, 0.401610, 0.159910><6.999780, -0.000130, -64.002850>
+[10:05] Floral bed1: ◆{Sleep2}<-0.151260, 0.457260, 0.189450><6.869890, -1.333430, -74.923090>
+[10:05] Floral bed1: ◆{Sleep3}<-0.151260, 0.296690, 0.197020><6.869890, -1.333430, -74.923090>
+[10:05] Floral bed1: ◆{Sleep4}<0.022340, 0.347430, 0.290770><-4.513270, -0.714210, 174.352400>
+[10:05] Floral bed1: ◆{Sleep5}<0.248950, 0.426880, 0.113530><19.382820, -6.196980, -98.413220>
+[10:05] Floral bed1: ◆{Sleep6}<-0.020550, 0.390200, 0.218510><4.110150, 1.655160, 21.357230>
+[10:05] Floral bed1: ◆{Conquered}<-0.171800, 0.213500, 0.330080><-6.512620, -2.922700, -161.187600>
+[10:05] Floral bed1: ◆{Drowning}<-0.145160, 0.072980, 0.707760><0.000000, 0.000000, -67.997990>
+[10:05] Floral bed1: ◆{OnlyYou}<0.507020, 0.498090, 0.881590><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Seduction}<0.301820, 0.370680, 0.218260><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{SweetLips}<-0.573810, -0.637410, 0.720210><0.000000, 0.000000, 36.000210>
+[10:05] Floral bed1: ◆{ToBeWithU}<-0.013730, 0.802570, 0.300780><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Adore}<0.422120, 0.282390, 0.454590><0.000000, 0.000000, 90.000000>
+[10:05] Floral bed1: ◆{4ever}<0.107590, 0.105790, 0.199710><0.000000, 0.000000, -56.999970>
+[10:05] Floral bed1: ◆{LittleCloser}<0.873130, -0.084820, 0.341310><5.438450, 7.173490, -37.355420>
+[10:05] Floral bed1: ◆{Passion}<0.383780, -1.229100, 0.153810><0.000000, 0.000000, -21.007770>
+[10:05] Floral bed1: ◆{AtYourSide}<0.091540, 0.794620, 0.189940><0.000000, -0.006480, -90.000000>
+[10:05] Floral bed1: ◆{Stay}<-0.017620, -0.596820, 0.300780><-2.681910, -2.981190, -42.072400>
+[10:05] Floral bed1: ◆{Timeless}<0.437330, -0.441990, 0.191410><-2.841040, 2.832430, -134.924900>
+[10:05] Floral bed1: ◆{WatchingU}<0.472670, 0.252580, 0.196290><0.000000, 0.000000, 114.634000>
+[10:05] Floral bed1: ◆{Whisper}<-0.043300, 0.174590, 0.418460><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{HoldMy♥}<-0.242000, 0.741930, 0.292970><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{SoBeautiful}<0.143940, -0.216860, 0.328130><0.000000, 0.000000, -119.000900>
+[10:05] Floral bed1: ◆{InMyArms}<-0.297490, -0.124710, 0.165770><0.002250, -9.000190, -89.971370>
+[10:05] Floral bed1: ◆{HereWithU}<0.428410, 0.581010, 0.255860><0.000000, 0.000000, -95.999690>
+[10:05] Floral bed1: ◆{WithU}<0.441560, 0.323320, 0.322750><0.000000, 0.000000, -96.000460>
+[10:05] Floral bed1: ◆{Cinema}<0.007680, -1.567380, 0.740480><-0.017830, 0.004860, -90.000000>
+[10:05] Floral bed1: ◆{Game's on}<-0.006790, -2.009840, 0.713870><-0.012240, 0.008740, -90.000000>
+[10:05] Floral bed1: ◆{Atten-Hut}<0.073620, -2.336110, 0.543700><-0.012240, 0.005250, -90.000000>
+[10:05] Floral bed1: ◆{BJ1}<-0.067490, -0.773380, 0.268550><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{BJ2}<0.134560, -0.647630, 0.495610><0.000000, 0.000000, 95.000840>
+[10:05] Floral bed1: ◆{FuckFace}<0.080300, 0.462340, 1.314940><0.018640, -0.007290, 90.000000>
+[10:05] Floral bed1: ◆{68 His}<-0.027010, 0.075320, 1.298580><0.008100, 0.000000, 90.000000>
+[10:05] Floral bed1: ◆{HeadRest}<-0.426250, -0.487170, 1.233400><-0.000990, 0.016560, -150.002500>
+[10:05] Floral bed1: ◆{Cunnilingus}<0.086890, -1.435760, 0.310790><-5.003710, 0.003710, -89.980220>
+[10:05] Floral bed1: ◆{Taste g}<0.026850, -1.624530, 0.154050><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Taste h}<0.026850, -1.624530, 0.154050><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Suplex}<0.086890, -1.689180, 0.767580><0.000000, 0.006480, -89.978130>
+[10:05] Floral bed1: ◆{Scarf}<0.086890, -0.576520, 1.260250><0.000000, 0.006480, -89.978130>
+[10:05] Floral bed1: ◆{LickHer 1}<-0.573820, -0.243010, 0.224370><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{Flagpole}<0.277790, 0.148120, 1.251470><0.016890, -0.010600, 73.154740>
+[10:05] Floral bed1: ◆{LickHer 2}<-0.628070, -0.099010, 0.448000><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{NorthFace}<0.304880, -0.019130, 1.281740><-0.003710, -0.003710, 0.027210>
+[10:05] Floral bed1: ◆{68 Hers}<-0.003820, -0.672030, 1.244630><-0.003240, 0.000000, -90.002430>
+[10:05] Floral bed1: ◆{Feedbag}<1.259910, -0.327640, 0.767330><0.004580, 0.021770, -179.972500>
+[10:05] Floral bed1: ◆{Front g}<1.517790, -0.105010, 0.047850><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{Front h}<1.534220, -0.105010, 0.041750><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{Delight}<1.426130, -0.314900, 0.503660><0.004580, 0.021770, -179.972500>
+[10:05] Floral bed1: ◆{Facing 1}<-0.302120, -0.095920, 0.257570><-0.000060, -3.000340, -0.002290>
+[10:05] Floral bed1: ◆{Facing 2}<-0.095690, -0.095920, 0.276370><-0.000060, -3.000340, -0.002290>
+[10:05] Floral bed1: ◆{Facing 3}<-0.302150, -0.095920, 0.293210><-0.000060, -3.000340, -0.002290>
+[10:05] Floral bed1: ◆{Cradle}<-0.487910, 0.059650, 1.255620><0.004950, 0.022260, -180.000000>
+[10:05] Floral bed1: ◆{DeckChair}<-0.582980, 0.004520, 1.278560><0.004950, 0.022260, -180.000000>
+[10:05] Floral bed1: ◆{Drill}<-0.428930, -0.293240, 1.367680><0.004580, 0.021770, -179.972500>
+[10:05] Floral bed1: ◆{Ride g}<1.136430, -0.095920, 0.391850><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{Ride h}<1.115580, -0.095920, 0.348880><0.000000, 0.000000, 0.000000>
+[10:05] Floral bed1: ◆{RideMore g}<1.196150, -0.095920, 0.401610><0.000000, 0.000000, 180.000000>
+[10:05] Floral bed1: ◆{RideMore h}<1.196140, -0.095920, 0.409910><0.000000, 0.000000, 180.000000>
+[10:05] Floral bed1: ◆{OnTop 1}<-0.160280, -0.009110, 0.462650><-3.000340, 0.000150, -0.005730>
+[10:05] Floral bed1: ◆{OnTop 2}<-0.236500, -0.024510, 0.441890><3.002630, 0.002290, 179.999900>
+[10:05] Floral bed1: ◆{Behind 1}<0.025410, -0.024510, 0.596190><3.002630, 0.002290, 179.999900>
+[10:05] Floral bed1: ◆{Behind 2}<0.269040, -0.024510, 0.599120><3.002630, 0.002290, 179.999900>
+[10:05] Floral bed1: ◆{Behind 3}<-0.132170, -0.140910, 0.305910><3.011250, -2.993810, -179.842200>
+[10:05] Floral bed1: ◆{Basset}<-0.128880, 0.117660, 1.287600><0.004950, 0.022260, -180.000000>
+[10:05] Floral bed1: ◆{BentSpoon}<0.007680, -0.523070, 1.347660><-0.017830, 0.004860, -90.000000>
+[10:05] Floral bed1: ◆{Crab}<0.007680, -0.471450, 1.255620><-0.017830, 0.004860, -90.000000>
+[10:05] Floral bed1: ◆{Doggy}<1.072450, -0.169820, 0.469480><-8.999280, -3.019850, 89.999720>
+[10:05] Floral bed1: ◆{Ben Dover}<2.058350, -0.071760, 0.496580><0.012240, -0.005250, 90.000000>
+[10:05] Floral bed1: ◆{Bodyguard}<1.951960, 0.098080, 0.638670><0.012240, -0.005250, 90.000000>
+[10:05] Floral bed1: ◆{Booster}<1.299430, -0.027560, 0.683590><0.005250, 0.012240, -180.000000>
+[10:05] Floral bed1: ◆{Bridge}<-0.316650, 0.039060, 1.342530><0.004950, 0.022260, -180.000000>
+[10:05] Floral bed1: ◆{Arch}<0.543160, -0.070180, 1.366700><-0.006620, -0.016740, -5.624990>
+[10:05] Floral bed1: ◆{ArmChair}<-0.007390, -0.173110, 1.328610><-0.017830, 0.004860, -90.000000>
+[10:05] Floral bed1: ◆{Acrobat}<-0.003700, -0.364010, 1.281490><-0.010530, 0.002430, -90.000000>
+[10:05] Floral bed1: ◆{Bulldog}<0.074980, -0.008500, 1.424810><0.005730, 0.012610, -180.000000>
+[10:05] Floral bed1: ◆{Spoon}<-0.082050, 0.259140, 0.251950><-3.000340, 0.000120, -0.004580>
+[10:05] Floral bed1: ◆{Cross}<-0.032250, -0.406950, 1.303710><-0.017830, 0.004860, -90.000000>
+[10:05] Floral bed1: ◆{Folded chair}<0.080940, -0.740370, 1.328610><-0.017310, 0.009880, -89.972790>
+[10:05] Floral bed1: ◆{LegsOnShoulder}<0.045940, -0.640900, 0.875000><8.000000, 0.000000, -89.985170>
+[10:05] Floral bed1: ◆{Cum1}<2.081540, 0.062480, -0.138430><0.000000, 3.024340, -89.999920>
+[10:05] Floral bed1: ◆{Cum2}<0.604770, -0.272920, 0.087890><-3.019850, 0.000000, 0.000000>
+[08:35] Floral bed: ◆SITTER 1
+[08:35] Floral bed: ◆TOMENU ㋡HANGout
+[08:35] Floral bed: ◆TOMENU ★SLEEP
+[08:35] Floral bed: ◆TOMENU ♥LOVERS
+[08:35] Floral bed: ◆TOMENU ❊ADULT
+[08:35] Floral bed: ◆MENU ㋡HANGout
+[08:35] Floral bed: ◆TOMENU ❊TOGETHER
+[08:35] Floral bed: ◆MENU ❊TOGETHER
+[08:35] Floral bed: ◆SYNC SpendTime|58m
+[08:35] Floral bed: ◆SYNC Chat|60
+[08:35] Floral bed: ◆SYNC OldTimes|61
+[08:35] Floral bed: ◆SYNC Listen|59
+[08:35] Floral bed: ◆SYNC BFinBed1|62m
+[08:35] Floral bed: ◆SYNC BFinBed2|63m
+[08:35] Floral bed: ◆SYNC Surfing|64m
+[08:35] Floral bed: ◆SYNC Gossip|65m
+[08:35] Floral bed: ◆MENU ★SLEEP
+[08:35] Floral bed: ◆TOMENU ❊COUPLE
+[08:35] Floral bed: ◆MENU ❊COUPLE
+[08:35] Floral bed: ◆SYNC →SleepTight|66m
+[08:35] Floral bed: ◆SYNC →Sleep1|67m
+[08:35] Floral bed: ◆SYNC →Sleep2|68m
+[08:35] Floral bed: ◆SYNC →Sleep3|69m
+[08:35] Floral bed: ◆SYNC →Sleep4|70m
+[08:35] Floral bed: ◆MENU ♥LOVERS
+[08:35] Floral bed: ◆TOMENU ❊CUDDLES
+[08:35] Floral bed: ◆TOMENU ❊KISSES
+[08:35] Floral bed: ◆MENU ❊CUDDLES
+[08:35] Floral bed: ◆SYNC AtYourSide|81m
+[08:35] Floral bed: ◆SYNC Stay|82m
+[08:35] Floral bed: ◆SYNC Timeless|83m
+[08:35] Floral bed: ◆SYNC WatchingU|84m
+[08:35] Floral bed: ◆SYNC Whisper|85m
+[08:35] Floral bed: ◆SYNC HoldMy♥|86m
+[08:36] Floral bed: ◆SYNC SoBeautiful|87m
+[08:36] Floral bed: ◆SYNC InMyArms|88m
+[08:36] Floral bed: ◆SYNC HereWithU|89m
+[08:36] Floral bed: ◆SYNC WithU|90m
+[08:36] Floral bed: ◆MENU ❊KISSES
+[08:36] Floral bed: ◆SYNC Conquered|71m
+[08:36] Floral bed: ◆SYNC Drowning|72m
+[08:36] Floral bed: ◆SYNC OnlyYou|73m
+[08:36] Floral bed: ◆SYNC Seduction|74m
+[08:36] Floral bed: ◆SYNC SweetLips|75m
+[08:36] Floral bed: ◆SYNC ToBeWithU|76m
+[08:36] Floral bed: ◆SYNC Adore|77m
+[08:36] Floral bed: ◆SYNC 4ever|78m
+[08:36] Floral bed: ◆SYNC LittleCloser|79m
+[08:36] Floral bed: ◆SYNC Passion|80m
+[08:35] Floral bed: ◆MENU ❊ADULT
+[08:35] Floral bed: ◆TOMENU ❊FELLATIO
+[08:35] Floral bed: ◆TOMENU ❊CUNNILINGUS
+[08:35] Floral bed: ◆TOMENU ❊SEX
+[08:35] Floral bed: ◆MENU ❊FELLATIO
+[06:53] Floral bed: ◆SYNC Cinema|38m
+[06:53] Floral bed: ◆SYNC Game's on|20m
+[06:53] Floral bed: ◆SYNC Atten-Hut|28m
+[08:36] Floral bed: ◆SYNC BJ1|52m
+[08:36] Floral bed: ◆SYNC BJ2|53m
+[06:53] Floral bed: ◆SYNC FuckFace|19m
+[06:53] Floral bed: ◆SYNC 68 His|23m
+[06:53] Floral bed: ◆SYNC HeadRest|21m
+[08:35] Floral bed: ◆MENU ❊CUNNILINGUS
+[06:53] Floral bed: ◆SYNC Cunnilingus|14m
+[08:36] Floral bed: ◆SYNC Taste g|54m
+[08:36] Floral bed: ◆SYNC Taste h|55m
+[06:53] Floral bed: ◆SYNC Suplex|13m
+[06:53] Floral bed: ◆SYNC Scarf|12m
+[08:36] Floral bed: ◆SYNC LickHer 1|56m
+[06:53] Floral bed: ◆SYNC Flagpole|8m
+[08:36] Floral bed: ◆SYNC LickHer 2|57m
+[06:53] Floral bed: ◆SYNC NorthFace|11m
+[06:53] Floral bed: ◆SYNC 68 Hers|22m
+[06:53] Floral bed: ◆SYNC Feedbag|7m
+[08:35] Floral bed: ◆MENU ❊SEX
+[08:36] Floral bed: ◆SYNC Front g|30m
+[08:36] Floral bed: ◆SYNC Front h|31m
+[06:53] Floral bed: ◆SYNC Delight|5m
+[08:36] Floral bed: ◆SYNC Facing 1|32m
+[08:36] Floral bed: ◆SYNC Facing 2|33m
+[08:36] Floral bed: ◆SYNC Facing 3|34m
+[06:53] Floral bed: ◆SYNC Cradle|35m
+[06:53] Floral bed: ◆SYNC DeckChair|4m
+[06:53] Floral bed: ◆SYNC Drill|6m
+[08:36] Floral bed: ◆SYNC Ride g|39m
+[08:36] Floral bed: ◆SYNC Ride h|40m
+[08:36] Floral bed: ◆SYNC RideMore g|41m
+[08:36] Floral bed: ◆SYNC RideMore h|42m
+[08:36] Floral bed: ◆SYNC OnTop 1|43m
+[08:36] Floral bed: ◆SYNC OnTop 2|44m
+[08:36] Floral bed: ◆SYNC Behind 1|45m
+[08:36] Floral bed: ◆SYNC Behind 2|46m
+[08:36] Floral bed: ◆SYNC Behind 3|47m
+[06:53] Floral bed: ◆SYNC Basset|29m
+[06:53] Floral bed: ◆SYNC BentSpoon|2m
+[06:53] Floral bed: ◆SYNC Crab|36m
+[08:36] Floral bed: ◆SYNC Doggy|48m
+[06:53] Floral bed: ◆SYNC Ben Dover|1m
+[06:53] Floral bed: ◆SYNC Bodyguard|16m
+[06:53] Floral bed: ◆SYNC Booster|17m
+[06:53] Floral bed: ◆SYNC Bulldog|37m
+[06:53] Floral bed: ◆SYNC Bridge|18m
+[06:53] Floral bed: ◆SYNC Arch|25m
+[06:53] Floral bed: ◆SYNC ArmChair|26m
+[06:53] Floral bed: ◆SYNC Acrobat|24m
+[08:36] Floral bed: ◆SYNC Spoon|49m
+[06:53] Floral bed: ◆SYNC Cross|3m
+[06:53] Floral bed: ◆SYNC Folded chair|9m
+[06:53] Floral bed: ◆SYNC LegsOnShoulder|15m
+[08:36] Floral bed: ◆SYNC Cum1|50m
+[08:36] Floral bed: ◆SYNC Cum2|51m
+[10:06] Floral bed1: ◆{SpendTime}<0.513240, 0.755800, 0.165280><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Chat}<0.513240, 0.201780, 0.196040><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{OldTimes}<0.513240, 0.367080, 0.127690><0.000000, 0.000000, -99.000140>
+[10:05] Floral bed1: ◆{Listen}<0.948910, 0.399930, 0.205810><0.000000, 0.000000, -127.002100>
+[10:05] Floral bed1: ◆{BFinBed1}<-0.398360, 0.852950, 0.300050><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{BFinBed2}<0.238340, 0.742370, 0.272460><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Surfing}<0.555630, -0.477110, 0.286380><0.000000, 0.000000, -127.993700>
+[10:05] Floral bed1: ◆{Gossip}<0.744670, -0.479810, 0.273190><0.000000, 0.000000, -7.001340>
+[10:05] Floral bed1: ◆{→SleepTight}<-0.045260, 0.226880, 0.869380><9.995360, -0.007470, -90.048160>
+[10:05] Floral bed1: ◆{→Sleep1}<0.260540, 0.294480, 0.190670><4.000360, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{→Sleep2}<-0.119460, 0.530780, 0.163820><19.698050, -2.716330, -82.266270>
+[10:05] Floral bed1: ◆{→Sleep3}<0.197540, 0.324450, 0.269780><3.897120, 0.899240, -77.031110>
+[10:05] Floral bed1: ◆{→Sleep4}<0.287540, 0.369870, 0.119380><10.919300, -1.335540, -96.909200>
+[10:05] Floral bed1: ◆{AtYourSide}<-0.170960, 0.894010, 0.179930><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Stay}<0.086870, -0.683210, 0.181880><-2.682030, -2.974950, -42.074460>
+[10:05] Floral bed1: ◆{Timeless}<-0.395710, -0.338840, 0.221190><-2.778560, 2.884050, -135.938900>
+[10:05] Floral bed1: ◆{WatchingU}<-0.041870, 0.646990, 0.162350><0.000410, 0.005720, -114.386000>
+[10:05] Floral bed1: ◆{Whisper}<-0.041850, 0.329390, 0.457520><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{HoldMy♥}<0.153370, -0.107070, 0.218750><0.000000, 0.000000, -131.999400>
+[10:05] Floral bed1: ◆{SoBeautiful}<0.343110, -0.057050, 0.458250><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{InMyArms}<0.392140, 0.100080, 0.304690><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{HereWithU}<0.445180, 0.559020, 0.158690><0.000000, 0.000000, -95.999690>
+[10:05] Floral bed1: ◆{WithU}<0.445140, 0.378020, 0.211910><0.000000, 0.000000, -96.000460>
+[10:05] Floral bed1: ◆{Conquered}<-0.171020, 0.180080, 0.191650><-6.512620, -2.922700, -161.187600>
+[10:05] Floral bed1: ◆{Drowning}<-0.036700, -0.051510, 1.033690><0.000000, 0.000000, -53.646680>
+[10:05] Floral bed1: ◆{OnlyYou}<0.491440, 0.373600, 0.780520><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Seduction}<0.280000, -0.017620, 0.675290><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{SweetLips}<0.599590, 0.229190, 0.753170><0.000000, 0.000000, -144.002000>
+[10:05] Floral bed1: ◆{ToBeWithU}<-0.102200, 0.905980, 0.223630><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{Adore}<0.424240, 0.335890, 0.176510><0.000000, 0.000000, -90.000000>
+[10:05] Floral bed1: ◆{4ever}<-0.097850, -0.070510, 0.306640><0.000000, 0.000000, -56.999970>
+[10:05] Floral bed1: ◆{LittleCloser}<0.998800, -0.128600, 0.175290><0.000000, 0.000000, -37.011770>
+[10:05] Floral bed1: ◆{Passion}<0.388030, -1.216920, 0.194820><0.000000, 0.000000, -21.004300>
+[10:06] Floral bed1: ◆{Cinema}<0.000050, -0.534990, 0.754640><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Game's on}<-0.014680, -1.038440, 0.718020><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Atten-Hut}<0.046610, -1.364760, 0.574710><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{BJ1}<-0.066990, -0.113240, 0.255620><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{BJ2}<0.135070, 0.174880, 0.733640><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{FuckFace}<0.075360, -0.534850, 1.291260><0.000000, 0.000000, 89.973270>
+[10:06] Floral bed1: ◆{68 His}<0.000000, -0.841340, 1.282960><0.000000, 0.000000, 90.000000>
+[10:06] Floral bed1: ◆{HeadRest}<0.411090, 0.005360, 1.253170><0.000000, 0.000000, -150.002500>
+[10:06] Floral bed1: ◆{Cunnilingus}<0.041330, -1.372470, 0.318600><-4.982690, 0.000000, -90.007430>
+[10:06] Floral bed1: ◆{Taste g}<0.027350, -1.629650, -0.051030><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Taste h}<0.027350, -1.629650, -0.051030><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Suplex}<0.084530, -0.629260, 0.769040><0.020260, -0.000810, -90.004870>
+[10:06] Floral bed1: ◆{Scarf}<0.084530, 0.467990, 1.283450><0.020260, -0.000810, -90.004870>
+[10:06] Floral bed1: ◆{LickHer 1}<0.288130, -0.365710, 0.215580><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{Flagpole}<-0.057450, -0.715130, 1.249270><0.000000, 0.000000, 73.125010>
+[10:06] Floral bed1: ◆{LickHer 2}<-0.073010, -0.110020, 0.225100><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{NorthFace}<-0.663610, -0.021620, 1.269530><0.000000, 0.017310, 0.000010>
+[10:06] Floral bed1: ◆{68 Hers}<0.000000, 0.193760, 1.216800><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Feedbag}<2.259800, -0.325520, 0.707760><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Front g}<1.519750, -0.094010, 0.023930><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{Front h}<1.536110, -0.094010, 0.017820><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{Delight}<2.471800, -0.325520, 0.459720><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Facing 1}<-0.132080, -0.094010, 0.414550><-0.000060, -3.000340, -0.002290>
+[10:06] Floral bed1: ◆{Facing 2}<0.074400, -0.094010, 0.434330><-0.000060, -3.000340, -0.002290>
+[10:06] Floral bed1: ◆{Facing 3}<-0.132060, -0.094010, 0.452150><-0.000060, -3.000340, -0.002290>
+[10:06] Floral bed1: ◆{Cradle}<0.506490, 0.067320, 1.269530><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{DeckChair}<0.551320, -0.027740, 1.349610><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Drill}<0.575750, -0.325550, 1.323730><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Ride g}<1.045750, -0.094010, 0.164790><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{Ride h}<1.024890, -0.094010, 0.121830><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{RideMore g}<1.142140, -0.094010, 0.174560><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{RideMore h}<1.142140, -0.094010, 0.182860><0.000000, 0.000000, 0.000000>
+[10:06] Floral bed1: ◆{OnTop 1}<-0.291560, -0.032710, 0.202640><-3.000340, 0.000150, -0.005730>
+[10:06] Floral bed1: ◆{OnTop 2}<-0.291560, -0.032710, 0.181880><-3.000340, 0.000150, -0.005730>
+[10:06] Floral bed1: ◆{Behind 1}<-0.225120, -0.032710, 0.699220><3.002630, 0.002290, 179.999900>
+[10:06] Floral bed1: ◆{Behind 2}<0.496190, -0.032710, 0.548100><3.002630, 0.002290, 179.999900>
+[10:06] Floral bed1: ◆{Behind 3}<0.071300, -0.149020, 0.482910><3.011250, -2.993810, -179.842200>
+[10:06] Floral bed1: ◆{Basset}<0.809220, 0.117160, 1.332760><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{BentSpoon}<0.000050, 0.433790, 1.297610><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Crab}<0.000050, 0.560940, 1.269530><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Doggy}<1.064330, -0.108920, 0.514400><-8.999280, -3.019850, 89.999720>
+[10:06] Floral bed1: ◆{Ben Dover}<2.085350, -1.043140, 0.574710><0.000000, 0.000000, 90.000000>
+[10:06] Floral bed1: ◆{Bodyguard}<1.978970, -0.873290, 0.565670><0.000000, 0.000000, 90.000000>
+[10:06] Floral bed1: ◆{Booster}<2.270820, -0.000560, 0.657710><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Bridge}<0.692350, 0.046740, 1.356690><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Arch}<-0.536870, 0.028530, 1.370610><0.000000, 0.000000, -5.624990>
+[10:06] Floral bed1: ◆{ArmChair}<0.000050, 0.850780, 1.332520><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Acrobat}<0.000000, 0.581480, 1.222660><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Bulldog}<1.046380, -0.000610, 1.381840><0.000000, 0.000000, 180.000000>
+[10:06] Floral bed1: ◆{Spoon}<-0.291530, 0.207030, 0.208010><-3.000340, 0.000120, -0.004580>
+[10:06] Floral bed1: ◆{Cross}<0.000050, 0.560990, 1.269530><0.000000, 0.000000, -90.000000>
+[10:06] Floral bed1: ◆{Folded chair}<0.113600, 0.226240, 1.351560><0.000000, 0.000000, -90.000010>
+[10:06] Floral bed1: ◆{LegsOnShoulder}<0.041330, -0.505810, 0.833250><0.022340, 0.000430, -90.009890>
+[10:06] Floral bed1: ◆{Cum1}<2.073440, -0.648610, 0.537600><-0.000040, -3.022720, 89.998380>
+[10:06] Floral bed1: ◆{Cum2}<0.385180, -0.281010, 0.470950><-3.073570, -9.988630, -0.535620>
+[08:36] Floral bed: ◆-----EXTRAS------------
+[08:36] Floral bed: ◆PROP Breakfast|Breakfast|<0.42203, 0.42728, 0.21094>|<0.00000, 0.00000, 180.00000>
+[08:36] Floral bed: ◆PROP Read|Book|<0.73294, -0.01584, 0.13379>|<0.00000, 0.00000, -41.00246>
+[08:36] Floral bed: ◆PROP FlipPage|Female magazine|<0.30922, 0.16515, 0.14941>|<-90.00000, -64.99998, 180.00000>
+[08:36] Floral bed: ◆PROP DearDiary|Diary|<0.65816, 0.04346, 0.12964>|<-0.78903, -0.61865, 123.99920>
+[08:36] Floral bed: ◆PROP Surf|Laptop|<-0.47297, 0.50496, 0.28101>|<0.00000, 0.00000, 9.00000>
+[08:36] Floral bed: ◆PROP Chocolate|Chocolate box top|<-0.59636, -0.15360, 0.09131>|<0.00000, 0.00000, 30.99753>
+[08:36] Floral bed: ◆PROP SpendTime|Laptop and book|<0.52986, 0.38107, 0.27197>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP BFinBed1|Breakfast2|<-0.59657, 0.02396, 0.19995>|<0.00000, 0.00000, 150.00000>
+[08:36] Floral bed: ◆PROP BFinBed2|Breakfast|<0.16444, -0.00262, 0.21338>|<0.00000, 0.00185, -162.82230>
+[08:36] Floral bed: ◆PROP →Sleep1|Blanket1|<-0.04905, -0.38008, 0.09521>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP →Sleep2|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP →Sleep3|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP →SleepTight|Blanket1|<-0.04905, -0.38008, 0.09521>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP →Sleep4|Blanket4|<-0.08598, -0.38132, 0.11133>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Sleep2|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP AtYourSide|Book|<0.13953, 0.74208, 0.75537>|<-77.08855, -31.34438, -173.19980>
+[08:36] Floral bed: ◆PROP Sleep1|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Sleep3|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Sleep4|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Sleep5|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Sleep6|Blanket2|<-0.07740, -0.40125, 0.10156>|<0.00000, 0.00000, 0.00000>
+[08:36] Floral bed: ◆PROP Surfing|Laptop|<-0.06862, -1.12299, 0.11792>|<-12.00000, 0.00000, -0.00248>
+[08:36] Floral bed: ◆ITEM OnPhone1|Cell phone|
+[08:36] Floral bed: ◆ITEM Chocolate|Chocolate box|
+[08:36] Floral bed: ◆ITEM DearDiary|Pen|
+[08:36] Floral bed: ◆ITEM BFinBed2|Coffee cup|
+[08:36] Floral bed: ◆ANIM Sleep1|8:1:14:1
+[08:36] Floral bed: ◆ANIM Sleep2|8:1:14:1
+[08:36] Floral bed: ◆ANIM Nap|8:1:14:1
+[08:36] Floral bed: ◆ANIM Sleep3|8:1:14:1
+[08:36] Floral bed: ◆ANIM Sleep4|8:1:14:1
+[08:36] Floral bed: ◆ANIM Sleep5|8:1:14:1
+[08:36] Floral bed: ◆ANIM Sleep6|8:1:14:1
+[08:36] Floral bed: ◆ANIM →Sleep1|8:1:14:1
+[08:36] Floral bed: ◆ANIM →Sleep3|8:1:14:1
+[08:36] Floral bed: ◆ANIM →Sleep4|8:1:14:1
+[08:36] Floral bed: ◆ANIM →Sleep2|8:1:14:1
+[10:28] Floral bed: ◆ANIM Taste g|express_tongue_out:1|54m
+[10:28] Floral bed: ◆ANIM BJ1|17:1|20f
+[10:28] Floral bed: ◆ANIM BJ2|express_open_mouth:1|53f
+[10:28] Floral bed: ◆ANIM 68 His|express_open_mouth:1|23f
+[10:28] Floral bed: ◆ANIM Cinema|express_open_mouth:1|38f
+[10:28] Floral bed: ◆ANIM FuckFace|express_open_mouth:1|19f
+[10:28] Floral bed: ◆ANIM Game's on|express_open_mouth:1|20f
+[10:28] Floral bed: ◆ANIM HeadRest|express_open_mouth:1|21f
+[10:28] Floral bed: ◆ANIM Atten-Hut|express_open_mouth:1|22f
+[10:28] Floral bed: ◆ANIM Taste h|express_tongue_out:1|55m
+[10:28] Floral bed: ◆ANIM LickHer 1|express_tongue_out:1|56m
+[10:28] Floral bed: ◆ANIM LickHer 2|express_tongue_out:1|57m
+[10:28] Floral bed: ◆ANIM 68 Hers|express_tongue_out:1|22m
+[10:28] Floral bed: ◆ANIM Feedbag|express_tongue_out:1|7m
+[10:28] Floral bed: ◆ANIM Flagpole|express_tongue_out:1|8m
+[10:28] Floral bed: ◆ANIM NorthFace|express_tongue_out:1|11m
+[10:28] Floral bed: ◆ANIM Scarf|express_tongue_out:1|12m
+[10:28] Floral bed: ◆ANIM Suplex|express_tongue_out:1|13m
+[10:28] Floral bed: ◆ANIM Cunnilingus|express_tongue_out:1|14m}
+ 

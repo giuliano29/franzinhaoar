@@ -1,0 +1,189 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 14677
+◆SITTER 0
+[09:33] Floria kitchen island: ◆TOMENU ✖ALONE
+[09:33] Floria kitchen island: ◆TOMENU ㋡FRIENDS
+[09:33] Floria kitchen island: ◆TOMENU ♥LOVERS
+[09:33] Floria kitchen island: ◆MENU ♥LOVERS
+[09:33] Floria kitchen island: ◆TOMENU ★CUDDLES
+[09:33] Floria kitchen island: ◆TOMENU ❊ADULT
+[09:33] Floria kitchen island: ◆MENU ✖ALONE
+[09:33] Floria kitchen island: ◆POSE →Chop|Chop F
+[09:33] Floria kitchen island: ◆POSE →MixSalad|[RNP] Mix Salad #1
+[09:33] Floria kitchen island: ◆POSE →CleanFish|[RNP] Cleaning fish #1
+[09:33] Floria kitchen island: ◆POSE →Dishes|WashPlate F
+[09:33] Floria kitchen island: ◆POSE →DryDishes|washdish-f
+[09:33] Floria kitchen island: ◆POSE →Cookies|Rolling dough
+[09:33] Floria kitchen island: ◆POSE →Cake|cake
+[09:33] Floria kitchen island: ◆POSE →DrinkCoffee|[RNP] Drinking Coffee #4
+[09:34] Floria kitchen island: ◆POSE →Wine|drink wine
+[09:34] Floria kitchen island: ◆MENU ㋡FRIENDS
+[09:34] Floria kitchen island: ◆SYNC CutVeggies|Chop F
+[09:34] Floria kitchen island: ◆SYNC MakeSalad|[RNP] Mix Salad #1
+[09:34] Floria kitchen island: ◆SYNC ScaleFish|[RNP] Cleaning fish #1
+[09:34] Floria kitchen island: ◆SYNC WashDishes|washdish-f
+[09:34] Floria kitchen island: ◆SYNC BakeCake|cake
+[09:34] Floria kitchen island: ◆SYNC I♥Cookies|Rolling dough
+[09:34] Floria kitchen island: ◆SYNC CoffeeTime|[RNP] Drinking Coffe #2
+[09:34] Floria kitchen island: ◆SYNC DrinkWine|drink wine
+[09:34] Floria kitchen island: ◆MENU ★CUDDLES
+[09:34] Floria kitchen island: ◆SYNC Eternity|F EternityV2
+[09:34] Floria kitchen island: ◆SYNC 4ever|F Forever
+[09:34] Floria kitchen island: ◆SYNC EndlessLove|F EndlessLoveV2
+[09:34] Floria kitchen island: ◆SYNC MyLove|F 8sf
+[09:34] Floria kitchen island: ◆SYNC SoBeautiful|F 4sf
+[09:34] Floria kitchen island: ◆SYNC LittleCloser|F Comealittlecloser
+[09:33] Floria kitchen island: ◆MENU ❊ADULT
+[09:33] Floria kitchen island: ◆SYNC ♥TasteHer|F ADTShw6
+[09:33] Floria kitchen island: ◆SYNC ♥BJ|F 1KitAdult1
+[09:33] Floria kitchen island: ◆SYNC ♥Lick|F 1KitAdult2
+[09:33] Floria kitchen island: ◆SYNC ♥Taste|F 1KitAdult3
+[09:33] Floria kitchen island: ◆SYNC ♥Front|F 1KitAdult4
+[09:33] Floria kitchen island: ◆SYNC ♥HoldUp|F 1KitAdult5
+[09:33] Floria kitchen island: ◆SYNC ♥Holding|F ADTShw2 h
+[09:33] Floria kitchen island: ◆SYNC ♥Standing|F ADTShw4 h
+[09:33] Floria kitchen island: ◆SYNC ♥Back|F ADTShw3 h
+[09:33] Floria kitchen island: ◆SYNC ♥Behind|[RNP] Table #1_Female
+[09:33] Floria kitchen island: ◆SYNC ♥Side|[RNP] Table #2_Female
+[09:33] Floria kitchen island: ◆SYNC ♥SoHard|[RNP] Table #4_Female
+[09:33] Floria kitchen island: ◆SYNC ♥SoDeep|[RNP] Table #5A_Female
+[09:34] Floria kitchen island: ◆{♥Behind}<0.735410, 0.722240, 0.344970><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{♥Side}<0.742280, 0.507740, 0.344970><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥SoHard}<0.742280, 0.507710, 0.299800><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥SoDeep}<0.735410, 0.605500, 0.239750><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥BJ}<0.746880, 0.750690, 0.239990><8.001220, 0.000340, 90.000000>
+[09:34] Floria kitchen island: ◆{♥Lick}<0.746880, 0.977950, 0.378660><8.000810, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥Taste}<0.746880, 0.977910, 0.378910><8.000810, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥Front}<0.746880, 0.846630, 0.378910><8.000810, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥HoldUp}<0.746880, 0.826690, 0.324950><8.000810, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥Holding}<0.746880, 0.826710, 0.398680><0.003710, 0.003700, -90.000000>
+[09:34] Floria kitchen island: ◆{♥Back}<0.746880, 0.915440, 0.377930><10.003710, 0.003700, -90.002480>
+[09:34] Floria kitchen island: ◆{♥Standing}<0.746880, 0.781490, 0.398930><-0.003710, -0.003720, 90.000020>
+[09:34] Floria kitchen island: ◆{♥TasteHer}<0.746880, 0.721630, 0.257080><-0.004050, -0.004060, 90.000000>
+[09:34] Floria kitchen island: ◆{→Chop}<0.626960, 0.847050, 0.320070><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{→Cookies}<0.722620, 0.828410, 0.274900><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{→Cake}<0.691440, 0.964510, 0.314940><0.002790, 0.008490, -115.998500>
+[09:34] Floria kitchen island: ◆{→Dishes}<-0.562210, 0.774110, 0.338870><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{→DryDishes}<-0.103710, 0.842610, 0.290040><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{→CleanFish}<0.657360, 0.795410, 0.338870><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{→MixSalad}<0.657360, 0.795410, 0.338870><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{→DrinkCoffee}<1.370860, 0.295520, 0.205810><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{DrinkWine}<-0.018570, 0.719880, 0.259520><0.000000, -0.000010, 65.000000>
+[09:34] Floria kitchen island: ◆{→Wine}<0.735410, 0.722200, 0.309810><0.000000, -0.000010, 123.750000>
+[09:34] Floria kitchen island: ◆{CutVeggies}<0.504840, 0.898910, 0.338870><-0.012890, 0.009020, -90.000010>
+[09:34] Floria kitchen island: ◆{WashDishes}<-0.610180, 0.805500, 0.345700><0.003710, -0.003720, 90.000010>
+[09:34] Floria kitchen island: ◆{BakeCake}<0.744800, 0.942030, 0.332760><-0.019520, 0.004050, -94.008910>
+[09:34] Floria kitchen island: ◆{I♥Cookies}<0.505060, 0.787090, 0.304690><0.000000, 0.012360, -90.000020>
+[09:34] Floria kitchen island: ◆{ScaleFish}<1.005430, 0.800860, 0.301030><0.000000, -0.000010, -100.750300>
+[09:34] Floria kitchen island: ◆{MakeSalad}<0.699470, 0.781740, 0.256100><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{CoffeeTime}<0.928010, 0.887040, 0.240720><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{LittleCloser}<0.526820, 0.211730, 0.486570><-1.008720, 11.330820, 49.541120>
+[09:34] Floria kitchen island: ◆{SoBeautiful}<0.624250, 0.145950, 0.535640><-1.988850, 0.180800, 90.006290>
+[09:34] Floria kitchen island: ◆{MyLove}<0.578000, 0.091400, 0.260500><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{EndlessLove}<0.811660, 0.798810, 0.265380><6.526430, 1.783550, 104.893000>
+[09:34] Floria kitchen island: ◆{Eternity}<0.880870, 0.919280, 0.293950><0.002470, 0.034610, 90.000000>
+[09:34] Floria kitchen island: ◆{4ever}<0.880100, 1.122150, 0.295900><5.261560, -0.031620, -112.105400>
+◆SITTER 1
+[09:33] Floria kitchen island: ◆TOMENU ㋡FRIENDS
+[09:33] Floria kitchen island: ◆TOMENU ♥LOVERS
+[09:33] Floria kitchen island: ◆MENU ♥LOVERS
+[09:33] Floria kitchen island: ◆TOMENU ★CUDDLES
+[09:33] Floria kitchen island: ◆TOMENU ❊ADULT
+[09:34] Floria kitchen island: ◆MENU ㋡FRIENDS
+[09:34] Floria kitchen island: ◆SYNC CutVeggies|Chop M
+[09:34] Floria kitchen island: ◆SYNC MakeSalad|Chop M
+[09:34] Floria kitchen island: ◆SYNC ScaleFish|[RNP] Cleaning fish #1
+[09:34] Floria kitchen island: ◆SYNC WashDishes|washdish-m
+[09:34] Floria kitchen island: ◆SYNC BakeCake|Stir M
+[09:34] Floria kitchen island: ◆SYNC I♥Cookies|washdish-m
+[09:34] Floria kitchen island: ◆SYNC CoffeeTime|[RNP] Drinking Coffe #1
+[09:34] Floria kitchen island: ◆SYNC DrinkWine|drink wine M
+[09:34] Floria kitchen island: ◆MENU ★CUDDLES
+[09:34] Floria kitchen island: ◆SYNC Eternity|M EternityV2
+[09:34] Floria kitchen island: ◆SYNC 4ever|M Forever
+[09:34] Floria kitchen island: ◆SYNC EndlessLove|M EndlessLoveV2
+[09:34] Floria kitchen island: ◆SYNC MyLove|M 8sf
+[09:34] Floria kitchen island: ◆SYNC SoBeautiful|M 4sf
+[09:34] Floria kitchen island: ◆SYNC LittleCloser|M Comealittlecloser
+[09:33] Floria kitchen island: ◆MENU ❊ADULT
+[09:34] Floria kitchen island: ◆SYNC ♥TasteHer|M ADTShw6
+[09:34] Floria kitchen island: ◆SYNC ♥BJ|M 1KitAdult1
+[09:34] Floria kitchen island: ◆SYNC ♥Lick|M 1KitAdult2
+[09:34] Floria kitchen island: ◆SYNC ♥Taste|M 1KitAdult3
+[09:34] Floria kitchen island: ◆SYNC ♥Front|M 1KitAdult4
+[09:34] Floria kitchen island: ◆SYNC ♥HoldUp|M 1KitAdult5
+[09:34] Floria kitchen island: ◆SYNC ♥Holding|M ADTShw2 h
+[09:34] Floria kitchen island: ◆SYNC ♥Standing|M ADTShw4 h
+[09:34] Floria kitchen island: ◆SYNC ♥Back|M ADTShw3 h
+[09:34] Floria kitchen island: ◆SYNC ♥Behind|[RNP] Table #1_Male
+[09:34] Floria kitchen island: ◆SYNC ♥Side|[RNP] Table #2_Male
+[09:34] Floria kitchen island: ◆SYNC ♥SoHard|[RNP] Table #4_Male
+[09:34] Floria kitchen island: ◆SYNC ♥SoDeep|[RNP] Table #5A_Male
+[09:34] Floria kitchen island: ◆{CutVeggies}<1.722180, -0.231540, 0.408940><0.000000, -0.000010, 165.000000>
+[09:34] Floria kitchen island: ◆{WashDishes}<0.169300, 0.140290, 0.232670><0.000000, -0.000010, 113.000000>
+[09:34] Floria kitchen island: ◆{BakeCake}<0.852060, -1.027340, 0.375000><0.002930, -0.004360, 95.998920>
+[09:34] Floria kitchen island: ◆{I♥Cookies}<0.211610, -0.197770, 0.262210><-0.015030, 0.007000, -65.889630>
+[09:34] Floria kitchen island: ◆{DrinkWine}<0.864790, 0.732240, 0.364500><0.001870, -0.002250, 129.998900>
+[09:34] Floria kitchen island: ◆{LittleCloser}<0.577760, 0.197250, 0.323490><0.275260, 1.977400, 84.028690>
+[09:34] Floria kitchen island: ◆{SoBeautiful}<0.616080, 0.180210, 0.342770><5.033190, -0.089430, 85.998770>
+[09:34] Floria kitchen island: ◆{MyLove}<0.579000, 0.147400, 0.184570><0.000000, -0.000010, 95.001660>
+[09:34] Floria kitchen island: ◆{ScaleFish}<1.679870, -0.271770, 0.394040><0.004750, 0.002210, -180.000000>
+[09:34] Floria kitchen island: ◆{MakeSalad}<0.445440, -0.944630, 0.444340><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{CoffeeTime}<0.445440, -0.944600, 0.350830><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{EndlessLove}<0.747760, 0.760180, 0.291260><5.357900, 0.835490, 112.121200>
+[09:34] Floria kitchen island: ◆{Eternity}<0.747760, 0.760210, 0.343020><5.358180, 0.835710, 112.121000>
+[09:34] Floria kitchen island: ◆{4ever}<0.850400, 0.834820, 0.373780><0.000000, 1.240010, -89.888350>
+[09:34] Floria kitchen island: ◆{♥Behind}<0.747280, 0.669250, 0.445800><0.000000, -0.000010, -90.000000>
+[09:34] Floria kitchen island: ◆{♥Side}<0.730410, 0.493900, 0.446050><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥SoHard}<0.730410, 0.493910, 0.340090><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆{♥SoDeep}<0.747280, 0.528200, 0.223880><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥BJ}<0.747280, 1.084020, 0.339360><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥Lick}<0.747280, 1.084000, 0.338870><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥Taste}<0.747280, 1.084000, 0.338870><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥Front}<0.747280, 1.084000, 0.338870><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥HoldUp}<0.747280, 1.064090, 0.284910><-7.999950, -0.000630, -90.002590>
+[09:34] Floria kitchen island: ◆{♥Holding}<0.747280, 1.064100, 0.284910><0.000010, 0.000340, -90.004940>
+[09:34] Floria kitchen island: ◆{♥Back}<0.747280, 1.169100, 0.306880><10.000000, -0.000010, -90.007440>
+[09:34] Floria kitchen island: ◆{♥Standing}<0.747280, 1.019010, 0.284910><0.000000, -0.000870, -90.009860>
+[09:34] Floria kitchen island: ◆{♥TasteHer}<0.747280, 1.289310, -0.385010><0.000000, -0.000010, 90.000000>
+[09:34] Floria kitchen island: ◆-----EXTRAS------------
+[09:34] Floria kitchen island: ◆PROP →Chop|Chopping board|<0.63293, 0.21292, 0.17041>|<0.00000, -0.00001, 180.00000>
+[09:34] Floria kitchen island: ◆PROP →Cookies|Dough|<0.77460, 0.23511, 0.16748>|<0.00000, -0.00001, 180.00000>
+[09:34] Floria kitchen island: ◆PROP →Cake|Cake and bowl|<0.61221, 0.24532, 0.16480>|<0.00000, -0.00001, 180.00000>
+[09:34] Floria kitchen island: ◆PROP →Dishes|Dishes1|<-0.63267, 0.12163, 0.03149>|<0.00001, -0.00001, -90.00000>
+[09:34] Floria kitchen island: ◆PROP →MixSalad|Salad|<1.16137, 0.01898, 0.17285>|<0.00000, -0.00001, 78.75002>
+[09:34] Floria kitchen island: ◆PROP →DryDishes|Plate stack|<0.09031, 0.19261, 0.22705>|<0.00000, 0.00000, 0.00000>
+[09:34] Floria kitchen island: ◆PROP →CleanFish|Chopping fish|<0.56271, 0.38385, 0.22144>|<0.00000, 0.00000, 0.00000>
+[09:34] Floria kitchen island: ◆PROP CutVeggies|Chopping board2|<0.51158, 0.23894, 0.17212>|<0.00000, -0.00001, 180.00000>
+[09:34] Floria kitchen island: ◆PROP WashDishes|Dishes2|<-0.63221, 0.12193, 0.03711>|<0.00000, -0.00001, -90.00000>
+[09:34] Floria kitchen island: ◆PROP BakeCake|Cake|<0.90088, -0.23309, 0.30298>|<0.00000, -0.00001, -90.00000>
+[09:34] Floria kitchen island: ◆PROP I♥Cookies|Dough2|<0.37926, 0.19472, 0.17090>|<0.00000, -0.00001, 180.00000>
+[09:34] Floria kitchen island: ◆PROP DrinkWine|Wine bottle prop|<0.36496, 0.28308, 0.40820>|<0.00000, 0.00000, 0.00000>
+[09:34] Floria kitchen island: ◆PROP ScaleFish|Chopping fish2|<1.29481, -0.12665, 0.20776>|<0.00000, -0.00001, 90.00000>
+[09:34] Floria kitchen island: ◆PROP MakeSalad|Salad|<0.47786, -0.22583, 0.17236>|<0.00000, 0.00000, 0.00000>
+[09:34] Floria kitchen island: ◆ITEM →Chop|Knife|
+[09:34] Floria kitchen island: ◆ITEM →Cookies|Rolling pin|
+[09:34] Floria kitchen island: ◆ITEM →Cake|Cake ladle|
+[09:34] Floria kitchen island: ◆ITEM →Dishes|Sponge|
+[09:34] Floria kitchen island: ◆ITEM →DryDishes|Towel|
+[09:34] Floria kitchen island: ◆ITEM →DrinkCoffee|Coffee cup|
+[09:34] Floria kitchen island: ◆ITEM DrinkWine|Wine glass|
+[09:34] Floria kitchen island: ◆ITEM →CleanFish|Knife|
+[09:34] Floria kitchen island: ◆ITEM CutVeggies|Knife|
+[09:34] Floria kitchen island: ◆ITEM WashDishes|Sponge|
+[09:34] Floria kitchen island: ◆ITEM BakeCake|Cake ladle|
+[09:34] Floria kitchen island: ◆ITEM I♥Cookies|Rolling pin|
+[09:34] Floria kitchen island: ◆ITEM ScaleFish|Knife|
+[09:34] Floria kitchen island: ◆ITEM MakeSalad|Knife|
+[09:34] Floria kitchen island: ◆ITEM CoffeeTime|Coffee cup|
+[09:34] Floria kitchen island: ◆ITEM →Wine|Wine glass|
+[10:28] Floral bed: ◆ANIM ♥Lick|express_tongue_out:1|M 1KitAdult2
+[10:28] Floral bed: ◆ANIM ♥Taste|express_tongue_out:1|M 1KitAdult3
+[10:28] Floral bed: ◆ANIM ♥TasteHer|express_tongue_out:1|M ADTShw6
+[10:28] Floral bed: ◆ANIM ♥BJ|17:1|F 1KitAdult1}
+ 

@@ -1,0 +1,20 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 812
+M-Sit#1|NO COM|001-BeanBag1-Male|<0.026,0.071,0.3945>|<0,0,0,1.>
+M-Sit#2|NO COM|001-BeanBag2-Male|<0.083,0,0.3589>|<0,0,0,-1.>
+M-Sit#3|NO COM|001-BeanBag3-Male|<-0.073,0.076,0.5356>|<0,-0.0698,0,-0.9976>
+M-Sit#4|NO COM|001-Couch2-Male|<-0.033,0.186,0.4788>|<0,0,0.1951,-0.9808>
+M-Sit#5|NO COM|001-Couch4-Male|<-0.126,0.1,0.4709>|<0,0,0,1.>
+M-Sit#6|NO COM|001-BeanBag4-Male|<0,-0.060,0.4382>|<0.0257,-0.0028,-0.0959,0.9951>
+M-Sit#7|NO COM|001-BeanBag5-Male|<-0.0445,0.0621,0.5203>|<0,0,0,1.>
+M-Sit#8|NO COM|001-BeanBag6-Male|<-0.058,0.1,0.4465>|<0,0,0,1.>
+M-Sit#9|NO COM|001-CasualChatSit-Unisex|<-0.2217,0.0732,0.4944>|<-0.0018,0.0697,0.0261,-0.9972>
+M-Sit#10|NO COM|001-Couch5-Male|<-0.041,0.1,0.449>|<-0.0578,0.0022,0.0525,-0.9969>
+M-Sit#11|NO COM|001-Couch6-Male|<-0.0629,0.0721,0.438>|<0,0,-0.1905,-0.9817>
+
+}

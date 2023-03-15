@@ -1,0 +1,45 @@
+LLWearable version 22
+Tux sweet Skirt
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	59162738-9c22-200d-c6e6-1736e9623617
+		owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		last_owner_id	59162738-9c22-200d-c6e6-1736e9623617
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 12
+parameters 21
+845 0
+846 .24
+847 0
+848 0
+849 0
+850 0
+851 0
+852 0
+856 0
+857 0
+858 .3
+859 1
+860 1
+861 1
+862 1
+863 .12
+866 .4
+867 0
+921 1
+922 1
+923 1
+textures 1
+18 7e3ae8a8-484f-4d29-8e73-8aa88bcb5c66

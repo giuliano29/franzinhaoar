@@ -1,0 +1,39 @@
+LLWearable version 22
+Tee Shirt
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	e381bcd0-f391-8cf2-75a2-17b6dbd04f40
+		owner_id	f364121e-3296-4b24-8df4-552a422b497b
+		last_owner_id	e381bcd0-f391-8cf2-75a2-17b6dbd04f40
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 10
+parameters 15
+603 .63
+604 1
+605 1
+779 1
+821 .7
+822 .64
+823 .47
+1042 .63
+1043 .63
+1044 1
+1045 1
+1046 1
+1047 1
+1048 1
+1049 1
+textures 1
+16 5d7537db-9e2a-4147-90f2-2cdd105b3eaf

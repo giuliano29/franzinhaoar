@@ -1,0 +1,29 @@
+LLWearable version 22
+Underwear
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	e381bcd0-f391-8cf2-75a2-17b6dbd04f40
+		owner_id	e381bcd0-f391-8cf2-75a2-17b6dbd04f40
+		last_owner_id	e381bcd0-f391-8cf2-75a2-17b6dbd04f40
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 11
+parameters 5
+619 .3
+624 .8
+824 1
+825 1
+826 1
+textures 1
+17 a646d2f7-b131-49b4-972f-d5edc41f90d8

@@ -1,0 +1,38 @@
+LLWearable version 22
+Hair Tattoo- Simple
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	a535cc84-ea11-483b-bf32-547f84b739e3
+		owner_id	a535cc84-ea11-483b-bf32-547f84b739e3
+		last_owner_id	a535cc84-ea11-483b-bf32-547f84b739e3
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 14
+parameters 12
+1062 1
+1063 1
+1064 1
+1065 1
+1066 1
+1067 1
+1068 1
+1069 1
+1070 1
+1071 1
+1072 1
+1073 1
+textures 3
+26 6075a4d7-f30f-4d8c-9f9b-b2b156ab2ff2
+27 c228d1cf-4b5d-4ba8-84f4-899a0796aa97
+28 c228d1cf-4b5d-4ba8-84f4-899a0796aa97

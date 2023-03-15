@@ -1,0 +1,26 @@
+Linden text version 2
+{
+LLEmbeddedItems version 1
+{
+count 0
+}
+Text length 1369
+F-Sit#1|NO COM|sweetness-sit-5|<2.0814,1.8735,0.5083>|<0.0495,0.0172,-0.9415,0.333>
+F-Sit#2|NO COM|BeanBag3-Female|<1.8366,2.0789,0.3702>|<0,0,-0.9681,0.2504>
+F-Sit#3|NO COM|BeanBag1-Female|<2.4073,2.2256,0.7524>|<0.0971,0.020,-0.9178,0.3846>
+F-Sit#4|NO COM|BeanBag4-Female|<2.5512,2.3753,0.7424>|<0.0252,0.0073,-0.9301,0.3664>
+F-Sit#5|NO COM|Couch3-Female|<2.4358,2.0483,1.0274>|<0.0755,0.0289,-0.9932,0.0843>
+F-Sit#6|NO COM|Couch6-Female|<2.3448,1.9296,0.9689>|<0.2183,0.1243,-0.7944,0.553>
+F-Sit#7|NO COM|LeanOverSit-Female|<2.466,2.3979,0.6281>|<0,0,-0.8788,0.4771>
+F-Sit#8|NO COM|SitCute-Female|<2.5041,2.2771,0.6363>|<0.0303,0.0129,-0.9431,0.3308>
+F-Sit#9|NO COM|SitCute-KneesUP-Female|<2.4901,2.4401,1.1935>|<0,0,-0.8324,0.5541>
+F-Sit#10|NO COM|SitCuteOnChairArm-Female|<2.2322,2.1849,0.6917>|<0,0,-0.8651,0.5015>
+F-Sit#11|NO COM|mushroom-sit1|<2.6637,2.5054,1.0589>|<-0.0002,0.0017,-0.9636,0.2672>
+F-Sit#12|NO COM|shy-ground-sit1|<2.5965,2.3661,1.0427>|<0,0,-0.9427,0.3338>
+F-Sit#13|NO COM|sweetness-sit-1|<2.0316,2.2238,0.5868>|<-0.0007,0.0785,0.9969,0.0088>
+F-Sit#14|NO COM|sweetness-sit-2|<2.0655,1.8919,0.6298>|<0,0,-0.9178,0.3971>
+F-Sit#15|NO COM|sweetness-sit-3|<2.4196,1.781,0.6085>|<0,0,-0.8141,0.5807>
+F-Sit#16|NO COM|sweetness-sit-4|<2.1261,1.9109,0.5776>|<0,0,-0.9367,0.3502>
+F-Sit#17|NO COM|zadaroo-sit3|<2.4883,2.3288,0.7293>|<0,0,-0.9063,0.4226>
+
+}

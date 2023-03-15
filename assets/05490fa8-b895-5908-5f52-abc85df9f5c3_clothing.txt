@@ -1,0 +1,33 @@
+LLWearable version 22
+lbd_gloves
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	02e79eef-4ded-4c26-a1f8-a0bfc7c30ff5
+		owner_id	02e79eef-4ded-4c26-a1f8-a0bfc7c30ff5
+		last_owner_id	02e79eef-4ded-4c26-a1f8-a0bfc7c30ff5
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 9
+parameters 9
+93 .9
+827 0
+829 0
+830 0
+844 1
+1058 .9
+1059 .9
+1060 1
+1061 1
+textures 1
+15 d2894f7b-b9e3-4aa8-a6b7-8e7ecb6ac96f

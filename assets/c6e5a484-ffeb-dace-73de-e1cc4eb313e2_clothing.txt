@@ -1,0 +1,63 @@
+LLWearable version 22
+Smoking jacket NEW
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	66b3c3b3-5c0c-4996-8b09-d9e6485487eb
+		owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		last_owner_id	9d7419d1-276d-4cae-a281-ca399be0db02
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 38
+606 .5
+607 1
+608 .8
+609 1
+620 .8
+621 .8
+622 1
+623 1
+780 1
+809 1
+810 1
+811 1
+831 1
+832 1
+833 1
+834 1
+835 1
+836 1
+875 0
+876 0
+877 0
+1019 .5
+1020 .5
+1021 1
+1022 1
+1023 1
+1024 1
+1025 .8
+1026 1
+1027 .8
+1028 1
+1033 .8
+1034 1
+1037 .8
+1038 1
+1039 .5
+1040 1
+1041 1
+textures 2
+13 c9479bac-4934-4cff-9e4f-f2fdea0af870
+14 4b102287-1974-4167-ba46-95e6eebef9eb

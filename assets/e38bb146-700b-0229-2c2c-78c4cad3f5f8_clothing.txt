@@ -1,0 +1,38 @@
+LLWearable version 22
+reBoot Feet Tattoo 05
+
+	permissions 0
+	{
+		base_mask	00082000
+		owner_mask	00082000
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	306528e6-e3fe-4400-b479-81e45693eed0
+		owner_id	8fc1523b-61dd-4ce5-8604-66d5b11357af
+		last_owner_id	306528e6-e3fe-4400-b479-81e45693eed0
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 14
+parameters 12
+1062 .91
+1063 .83
+1064 .81
+1065 .91
+1066 .83
+1067 .81
+1068 .91
+1069 .83
+1070 .81
+1071 .91
+1072 .83
+1073 .81
+textures 3
+26 c228d1cf-4b5d-4ba8-84f4-899a0796aa97
+27 c228d1cf-4b5d-4ba8-84f4-899a0796aa97
+28 e813ea10-11f8-4397-b5ba-f301efa5cbc1
